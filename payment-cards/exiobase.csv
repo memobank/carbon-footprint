@@ -1,0 +1,1000 @@
+Name,Year,Region Code,Region Name,Unit,Factor
+Paddy Rice,2021,AU,Australia,kg/EUR,4.2719
+Paddy Rice,2021,BE,Belgium,kg/EUR,1.3702
+Paddy Rice,2021,BG,Bulgaria,kg/EUR,0.8468
+Paddy Rice,2021,BR,Brazil,kg/EUR,3.7582
+Paddy Rice,2021,CA,Canada,kg/EUR,0.2534
+Paddy Rice,2021,CN,China,kg/EUR,5.6958
+Paddy Rice,2021,CZ,Czech Republic,kg/EUR,0.461
+Paddy Rice,2021,ES,Spain,kg/EUR,6.2722
+Paddy Rice,2021,FR,France,kg/EUR,0.265
+Paddy Rice,2021,GR,Greece,kg/EUR,0.3525
+Paddy Rice,2021,HR,Croatia,kg/EUR,3.7833
+Paddy Rice,2021,ID,Indonesia,kg/EUR,5.6751
+Paddy Rice,2021,IN,India,kg/EUR,8.3301
+Paddy Rice,2021,IT,Italy,kg/EUR,4.6111
+Paddy Rice,2021,JP,Japan,kg/EUR,0.8864
+Paddy Rice,2021,KR,"Korea, Republic of",kg/EUR,1.272
+Paddy Rice,2021,LV,Latvia,kg/EUR,0.1071
+Paddy Rice,2021,MX,Mexico,kg/EUR,2.9231
+Paddy Rice,2021,NO,Norway,kg/EUR,0.1998
+Paddy Rice,2021,PL,Poland,kg/EUR,0.572
+Paddy Rice,2021,PT,Portugal,kg/EUR,0.4812
+Paddy Rice,2021,ROW_WE,East Europe and Iceland,kg/EUR,2.7409
+Paddy Rice,2021,ROW_WF,Africa except Egypt and South Africa,kg/EUR,3.4455
+Paddy Rice,2021,ROW_WL,Latin America except Brazil,kg/EUR,7.4876
+Paddy Rice,2021,ROW_WM,"Middle East, Asia and Egypt",kg/EUR,2.7351
+Paddy Rice,2021,RU,Russian Federation,kg/EUR,6.8113
+Paddy Rice,2021,SI,Slovenia,kg/EUR,0.6958
+Paddy Rice,2021,SK,Slovakia,kg/EUR,0.7051
+Paddy Rice,2021,TW,"Taiwan, Province of China",kg/EUR,4.6703
+Paddy Rice,2021,US,United States,kg/EUR,5.1209
+Cereal grains (not elsewhere specified),2021,AT,Austria,kg/EUR,1.0252
+Cereal grains (not elsewhere specified),2021,AU,Australia,kg/EUR,0.8974
+Cereal grains (not elsewhere specified),2021,BE,Belgium,kg/EUR,2.573
+Cereal grains (not elsewhere specified),2021,BG,Bulgaria,kg/EUR,1.888
+Cereal grains (not elsewhere specified),2021,BR,Brazil,kg/EUR,2.9749
+Cereal grains (not elsewhere specified),2021,CA,Canada,kg/EUR,1.507
+Cereal grains (not elsewhere specified),2021,CH,Switzerland,kg/EUR,1.1442
+Cereal grains (not elsewhere specified),2021,CN,China,kg/EUR,1.4677
+Cereal grains (not elsewhere specified),2021,CY,Cyprus,kg/EUR,3.8153
+Cereal grains (not elsewhere specified),2021,CZ,Czech Republic,kg/EUR,1.125
+Cereal grains (not elsewhere specified),2021,DE,Germany,kg/EUR,1.0928
+Cereal grains (not elsewhere specified),2021,DK,Denmark,kg/EUR,1.0645
+Cereal grains (not elsewhere specified),2021,EE,Estonia,kg/EUR,2.1947
+Cereal grains (not elsewhere specified),2021,ES,Spain,kg/EUR,0.9925
+Cereal grains (not elsewhere specified),2021,FI,Finland,kg/EUR,2.0403
+Cereal grains (not elsewhere specified),2021,FR,France,kg/EUR,1.0522
+Cereal grains (not elsewhere specified),2021,GB,United Kingdom,kg/EUR,1.4566
+Cereal grains (not elsewhere specified),2021,GR,Greece,kg/EUR,0.8744
+Cereal grains (not elsewhere specified),2021,HR,Croatia,kg/EUR,1.4236
+Cereal grains (not elsewhere specified),2021,HU,Hungary,kg/EUR,1.0251
+Cereal grains (not elsewhere specified),2021,ID,Indonesia,kg/EUR,0.572
+Cereal grains (not elsewhere specified),2021,IE,Ireland,kg/EUR,0.9889
+Cereal grains (not elsewhere specified),2021,IN,India,kg/EUR,1.2377
+Cereal grains (not elsewhere specified),2021,IT,Italy,kg/EUR,1.3171
+Cereal grains (not elsewhere specified),2021,JP,Japan,kg/EUR,1.0199
+Cereal grains (not elsewhere specified),2021,KR,"Korea, Republic of",kg/EUR,0.7049
+Cereal grains (not elsewhere specified),2021,LT,Lithuania,kg/EUR,1.9052
+Cereal grains (not elsewhere specified),2021,LU,Luxembourg,kg/EUR,2.901
+Cereal grains (not elsewhere specified),2021,LV,Latvia,kg/EUR,1.6565
+Cereal grains (not elsewhere specified),2021,MT,Malta,kg/EUR,0.7211
+Cereal grains (not elsewhere specified),2021,MX,Mexico,kg/EUR,0.9176
+Cereal grains (not elsewhere specified),2021,NL,Netherlands,kg/EUR,0.9166
+Cereal grains (not elsewhere specified),2021,NO,Norway,kg/EUR,1.4054
+Cereal grains (not elsewhere specified),2021,PL,Poland,kg/EUR,2.4268
+Cereal grains (not elsewhere specified),2021,PT,Portugal,kg/EUR,1.2197
+Cereal grains (not elsewhere specified),2021,RO,Romania,kg/EUR,1.554
+Cereal grains (not elsewhere specified),2021,ROW_WA,"Central Asia and Pacific Asia, Oceania, Antarctica",kg/EUR,1.0445
+Cereal grains (not elsewhere specified),2021,ROW_WE,East Europe and Iceland,kg/EUR,2.35
+Cereal grains (not elsewhere specified),2021,ROW_WF,Africa except Egypt and South Africa,kg/EUR,1.2241
+Cereal grains (not elsewhere specified),2021,ROW_WL,Latin America except Brazil,kg/EUR,0.8673
+Cereal grains (not elsewhere specified),2021,ROW_WM,"Middle East, Asia and Egypt",kg/EUR,0.9049
+Cereal grains (not elsewhere specified),2021,RU,Russian Federation,kg/EUR,1.1948
+Cereal grains (not elsewhere specified),2021,SE,Sweden,kg/EUR,1.3801
+Cereal grains (not elsewhere specified),2021,SI,Slovenia,kg/EUR,1.1913
+Cereal grains (not elsewhere specified),2021,SK,Slovakia,kg/EUR,1.2871
+Cereal grains (not elsewhere specified),2021,TR,Turkey,kg/EUR,1.4066
+Cereal grains (not elsewhere specified),2021,TW,"Taiwan, Province of China",kg/EUR,2.7028
+Cereal grains (not elsewhere specified),2021,US,United States,kg/EUR,1.1552
+Cereal grains (not elsewhere specified),2021,ZA,South Africa,kg/EUR,3.0356
+Crops (not elsewhere specified),2021,AT,Austria,kg/EUR,1.2401
+Crops (not elsewhere specified),2021,AU,Australia,kg/EUR,0.3978
+Crops (not elsewhere specified),2021,BE,Belgium,kg/EUR,0.5779
+Crops (not elsewhere specified),2021,BG,Bulgaria,kg/EUR,1.3325
+Crops (not elsewhere specified),2021,BR,Brazil,kg/EUR,0.8505
+Crops (not elsewhere specified),2021,CA,Canada,kg/EUR,0.5935
+Crops (not elsewhere specified),2021,CH,Switzerland,kg/EUR,0.3698
+Crops (not elsewhere specified),2021,CN,China,kg/EUR,0.2362
+Crops (not elsewhere specified),2021,CY,Cyprus,kg/EUR,0.1428
+Crops (not elsewhere specified),2021,CZ,Czech Republic,kg/EUR,1.3855
+Crops (not elsewhere specified),2021,DE,Germany,kg/EUR,0.6703
+Crops (not elsewhere specified),2021,DK,Denmark,kg/EUR,0.4892
+Crops (not elsewhere specified),2021,EE,Estonia,kg/EUR,1.035
+Crops (not elsewhere specified),2021,ES,Spain,kg/EUR,0.1845
+Crops (not elsewhere specified),2021,FI,Finland,kg/EUR,0.7242
+Crops (not elsewhere specified),2021,FR,France,kg/EUR,0.3909
+Crops (not elsewhere specified),2021,GB,United Kingdom,kg/EUR,0.5194
+Crops (not elsewhere specified),2021,GR,Greece,kg/EUR,0.3659
+Crops (not elsewhere specified),2021,HR,Croatia,kg/EUR,0.266
+Crops (not elsewhere specified),2021,HU,Hungary,kg/EUR,0.522
+Crops (not elsewhere specified),2021,ID,Indonesia,kg/EUR,1.0497
+Crops (not elsewhere specified),2021,IE,Ireland,kg/EUR,0.8118
+Crops (not elsewhere specified),2021,IN,India,kg/EUR,1.3143
+Crops (not elsewhere specified),2021,IT,Italy,kg/EUR,0.68
+Crops (not elsewhere specified),2021,JP,Japan,kg/EUR,0.575
+Crops (not elsewhere specified),2021,KR,"Korea, Republic of",kg/EUR,0.4055
+Crops (not elsewhere specified),2021,LT,Lithuania,kg/EUR,1.3957
+Crops (not elsewhere specified),2021,LU,Luxembourg,kg/EUR,1.6435
+Crops (not elsewhere specified),2021,LV,Latvia,kg/EUR,3.6024
+Crops (not elsewhere specified),2021,MT,Malta,kg/EUR,0.2674
+Crops (not elsewhere specified),2021,MX,Mexico,kg/EUR,0.5597
+Crops (not elsewhere specified),2021,NL,Netherlands,kg/EUR,0.3687
+Crops (not elsewhere specified),2021,NO,Norway,kg/EUR,0.3078
+Crops (not elsewhere specified),2021,PL,Poland,kg/EUR,1.6381
+Crops (not elsewhere specified),2021,PT,Portugal,kg/EUR,3.081
+Crops (not elsewhere specified),2021,RO,Romania,kg/EUR,0.4994
+Crops (not elsewhere specified),2021,ROW_WA,"Central Asia and Pacific Asia, Oceania, Antarctica",kg/EUR,1.962
+Crops (not elsewhere specified),2021,ROW_WE,East Europe and Iceland,kg/EUR,0.9845
+Crops (not elsewhere specified),2021,ROW_WF,Africa except Egypt and South Africa,kg/EUR,0.8664
+Crops (not elsewhere specified),2021,ROW_WL,Latin America except Brazil,kg/EUR,0.584
+Crops (not elsewhere specified),2021,ROW_WM,"Middle East, Asia and Egypt",kg/EUR,0.4663
+Crops (not elsewhere specified),2021,RU,Russian Federation,kg/EUR,0.7509
+Crops (not elsewhere specified),2021,SE,Sweden,kg/EUR,0.6921
+Crops (not elsewhere specified),2021,SI,Slovenia,kg/EUR,0.264
+Crops (not elsewhere specified),2021,SK,Slovakia,kg/EUR,0.3996
+Crops (not elsewhere specified),2021,TR,Turkey,kg/EUR,1.0224
+Crops (not elsewhere specified),2021,TW,"Taiwan, Province of China",kg/EUR,0.2909
+Crops (not elsewhere specified),2021,US,United States,kg/EUR,0.4122
+Crops (not elsewhere specified),2021,ZA,South Africa,kg/EUR,1.0172
+Oil seeds,2021,AT,Austria,kg/EUR,1.2966
+Oil seeds,2021,AU,Australia,kg/EUR,0.5863
+Oil seeds,2021,BG,Bulgaria,kg/EUR,3.4473
+Oil seeds,2021,BR,Brazil,kg/EUR,2.9986
+Oil seeds,2021,CA,Canada,kg/EUR,2.3098
+Oil seeds,2021,CH,Switzerland,kg/EUR,1.9592
+Oil seeds,2021,CN,China,kg/EUR,1.0278
+Oil seeds,2021,CZ,Czech Republic,kg/EUR,1.302
+Oil seeds,2021,DE,Germany,kg/EUR,1.3357
+Oil seeds,2021,DK,Denmark,kg/EUR,1.4897
+Oil seeds,2021,EE,Estonia,kg/EUR,2.6461
+Oil seeds,2021,ES,Spain,kg/EUR,0.3361
+Oil seeds,2021,FI,Finland,kg/EUR,2.7022
+Oil seeds,2021,FR,France,kg/EUR,1.4252
+Oil seeds,2021,GB,United Kingdom,kg/EUR,1.1392
+Oil seeds,2021,GR,Greece,kg/EUR,0.5901
+Oil seeds,2021,HR,Croatia,kg/EUR,0.1947
+Oil seeds,2021,HU,Hungary,kg/EUR,1.4585
+Oil seeds,2021,ID,Indonesia,kg/EUR,2.3208
+Oil seeds,2021,IE,Ireland,kg/EUR,0.7593
+Oil seeds,2021,IN,India,kg/EUR,1.1468
+Oil seeds,2021,IT,Italy,kg/EUR,0.316
+Oil seeds,2021,JP,Japan,kg/EUR,0.5882
+Oil seeds,2021,KR,"Korea, Republic of",kg/EUR,0.5372
+Oil seeds,2021,LT,Lithuania,kg/EUR,3.1264
+Oil seeds,2021,LU,Luxembourg,kg/EUR,0.7153
+Oil seeds,2021,LV,Latvia,kg/EUR,1.8981
+Oil seeds,2021,MT,Malta,kg/EUR,0.3799
+Oil seeds,2021,MX,Mexico,kg/EUR,1.0119
+Oil seeds,2021,NL,Netherlands,kg/EUR,0.8491
+Oil seeds,2021,NO,Norway,kg/EUR,0.6823
+Oil seeds,2021,PL,Poland,kg/EUR,2.5711
+Oil seeds,2021,PT,Portugal,kg/EUR,0.6208
+Oil seeds,2021,RO,Romania,kg/EUR,2.749
+Oil seeds,2021,ROW_WA,"Central Asia and Pacific Asia, Oceania, Antarctica",kg/EUR,0.672
+Oil seeds,2021,ROW_WE,East Europe and Iceland,kg/EUR,1.7294
+Oil seeds,2021,ROW_WF,Africa except Egypt and South Africa,kg/EUR,0.4293
+Oil seeds,2021,ROW_WL,Latin America except Brazil,kg/EUR,0.7143
+Oil seeds,2021,ROW_WM,"Middle East, Asia and Egypt",kg/EUR,0.4079
+Oil seeds,2021,RU,Russian Federation,kg/EUR,1.7315
+Oil seeds,2021,SE,Sweden,kg/EUR,1.0718
+Oil seeds,2021,SI,Slovenia,kg/EUR,0.9004
+Oil seeds,2021,SK,Slovakia,kg/EUR,0.8278
+Oil seeds,2021,TR,Turkey,kg/EUR,0.4906
+Oil seeds,2021,TW,"Taiwan, Province of China",kg/EUR,1.4009
+Oil seeds,2021,US,United States,kg/EUR,0.5619
+Oil seeds,2021,ZA,South Africa,kg/EUR,4.2318
+Plant-based fibres,2021,AT,Austria,kg/EUR,0.3302
+Plant-based fibres,2021,AU,Australia,kg/EUR,0.8916
+Plant-based fibres,2021,BG,Bulgaria,kg/EUR,1.334
+Plant-based fibres,2021,BR,Brazil,kg/EUR,1.2687
+Plant-based fibres,2021,CN,China,kg/EUR,1.556
+Plant-based fibres,2021,CZ,Czech Republic,kg/EUR,1.2928
+Plant-based fibres,2021,EE,Estonia,kg/EUR,4.8678
+Plant-based fibres,2021,ES,Spain,kg/EUR,0.4953
+Plant-based fibres,2021,FR,France,kg/EUR,0.2311
+Plant-based fibres,2021,GB,United Kingdom,kg/EUR,5.5318
+Plant-based fibres,2021,GR,Greece,kg/EUR,0.4389
+Plant-based fibres,2021,HR,Croatia,kg/EUR,1.1994
+Plant-based fibres,2021,HU,Hungary,kg/EUR,0.2619
+Plant-based fibres,2021,ID,Indonesia,kg/EUR,0.4292
+Plant-based fibres,2021,IN,India,kg/EUR,1.136
+Plant-based fibres,2021,JP,Japan,kg/EUR,0.549
+Plant-based fibres,2021,KR,"Korea, Republic of",kg/EUR,2.199
+Plant-based fibres,2021,LT,Lithuania,kg/EUR,0.2395
+Plant-based fibres,2021,LV,Latvia,kg/EUR,2.7082
+Plant-based fibres,2021,MX,Mexico,kg/EUR,1.172
+Plant-based fibres,2021,NL,Netherlands,kg/EUR,0.5272
+Plant-based fibres,2021,NO,Norway,kg/EUR,0.3339
+Plant-based fibres,2021,PL,Poland,kg/EUR,0.7096
+Plant-based fibres,2021,PT,Portugal,kg/EUR,0.4581
+Plant-based fibres,2021,RO,Romania,kg/EUR,16.64
+Plant-based fibres,2021,ROW_WA,"Central Asia and Pacific Asia, Oceania, Antarctica",kg/EUR,1.4909
+Plant-based fibres,2021,ROW_WE,East Europe and Iceland,kg/EUR,2.9987
+Plant-based fibres,2021,ROW_WF,Africa except Egypt and South Africa,kg/EUR,0.7659
+Plant-based fibres,2021,ROW_WL,Latin America except Brazil,kg/EUR,0.6036
+Plant-based fibres,2021,ROW_WM,"Middle East, Asia and Egypt",kg/EUR,0.6984
+Plant-based fibres,2021,RU,Russian Federation,kg/EUR,1.9785
+Plant-based fibres,2021,SI,Slovenia,kg/EUR,0.6163
+Plant-based fibres,2021,SK,Slovakia,kg/EUR,3.1436
+Plant-based fibres,2021,TR,Turkey,kg/EUR,1.0848
+Plant-based fibres,2021,TW,"Taiwan, Province of China",kg/EUR,2.7791
+Plant-based fibres,2021,US,United States,kg/EUR,0.9509
+Plant-based fibres,2021,ZA,South Africa,kg/EUR,3.1334
+Sugar cane/sugar beet,2021,AT,Austria,kg/EUR,2.0967
+Sugar cane/sugar beet,2021,AU,Australia,kg/EUR,0.9657
+Sugar cane/sugar beet,2021,BE,Belgium,kg/EUR,1.8808
+Sugar cane/sugar beet,2021,BG,Bulgaria,kg/EUR,1.5742
+Sugar cane/sugar beet,2021,BR,Brazil,kg/EUR,1.0825
+Sugar cane/sugar beet,2021,CA,Canada,kg/EUR,1.5997
+Sugar cane/sugar beet,2021,CH,Switzerland,kg/EUR,0.5291
+Sugar cane/sugar beet,2021,CN,China,kg/EUR,0.9449
+Sugar cane/sugar beet,2021,CY,Cyprus,kg/EUR,0.2185
+Sugar cane/sugar beet,2021,CZ,Czech Republic,kg/EUR,1.2065
+Sugar cane/sugar beet,2021,DE,Germany,kg/EUR,1.1137
+Sugar cane/sugar beet,2021,DK,Denmark,kg/EUR,0.9821
+Sugar cane/sugar beet,2021,ES,Spain,kg/EUR,0.7433
+Sugar cane/sugar beet,2021,FI,Finland,kg/EUR,2.1755
+Sugar cane/sugar beet,2021,FR,France,kg/EUR,1.0346
+Sugar cane/sugar beet,2021,GB,United Kingdom,kg/EUR,4.8017
+Sugar cane/sugar beet,2021,GR,Greece,kg/EUR,8.0768
+Sugar cane/sugar beet,2021,HR,Croatia,kg/EUR,6.8711
+Sugar cane/sugar beet,2021,HU,Hungary,kg/EUR,2.2226
+Sugar cane/sugar beet,2021,ID,Indonesia,kg/EUR,1.1341
+Sugar cane/sugar beet,2021,IN,India,kg/EUR,0.9614
+Sugar cane/sugar beet,2021,IT,Italy,kg/EUR,1.4599
+Sugar cane/sugar beet,2021,JP,Japan,kg/EUR,1.0892
+Sugar cane/sugar beet,2021,LT,Lithuania,kg/EUR,2.4629
+Sugar cane/sugar beet,2021,LU,Luxembourg,kg/EUR,0.4663
+Sugar cane/sugar beet,2021,LV,Latvia,kg/EUR,11.1812
+Sugar cane/sugar beet,2021,MX,Mexico,kg/EUR,0.744
+Sugar cane/sugar beet,2021,NL,Netherlands,kg/EUR,1.7353
+Sugar cane/sugar beet,2021,NO,Norway,kg/EUR,0.3364
+Sugar cane/sugar beet,2021,PL,Poland,kg/EUR,2.6631
+Sugar cane/sugar beet,2021,PT,Portugal,kg/EUR,1.7171
+Sugar cane/sugar beet,2021,RO,Romania,kg/EUR,2.2392
+Sugar cane/sugar beet,2021,ROW_WA,"Central Asia and Pacific Asia, Oceania, Antarctica",kg/EUR,1.4371
+Sugar cane/sugar beet,2021,ROW_WE,East Europe and Iceland,kg/EUR,3.1647
+Sugar cane/sugar beet,2021,ROW_WF,Africa except Egypt and South Africa,kg/EUR,0.4385
+Sugar cane/sugar beet,2021,ROW_WL,Latin America except Brazil,kg/EUR,1.1402
+Sugar cane/sugar beet,2021,ROW_WM,"Middle East, Asia and Egypt",kg/EUR,0.6339
+Sugar cane/sugar beet,2021,RU,Russian Federation,kg/EUR,1.0313
+Sugar cane/sugar beet,2021,SE,Sweden,kg/EUR,1.258
+Sugar cane/sugar beet,2021,SI,Slovenia,kg/EUR,0.4031
+Sugar cane/sugar beet,2021,SK,Slovakia,kg/EUR,0.7799
+Sugar cane/sugar beet,2021,TR,Turkey,kg/EUR,1.1443
+Sugar cane/sugar beet,2021,US,United States,kg/EUR,1.4016
+Sugar cane/sugar beet,2021,ZA,South Africa,kg/EUR,0.9267
+Vegetables/fruit/nuts,2021,AT,Austria,kg/EUR,0.2949
+Vegetables/fruit/nuts,2021,AU,Australia,kg/EUR,0.9762
+Vegetables/fruit/nuts,2021,BE,Belgium,kg/EUR,0.5108
+Vegetables/fruit/nuts,2021,BG,Bulgaria,kg/EUR,0.2837
+Vegetables/fruit/nuts,2021,BR,Brazil,kg/EUR,1.5684
+Vegetables/fruit/nuts,2021,CA,Canada,kg/EUR,1.1253
+Vegetables/fruit/nuts,2021,CH,Switzerland,kg/EUR,0.3162
+Vegetables/fruit/nuts,2021,CN,China,kg/EUR,0.4991
+Vegetables/fruit/nuts,2021,CY,Cyprus,kg/EUR,0.9431
+Vegetables/fruit/nuts,2021,CZ,Czech Republic,kg/EUR,0.9321
+Vegetables/fruit/nuts,2021,DE,Germany,kg/EUR,0.2678
+Vegetables/fruit/nuts,2021,DK,Denmark,kg/EUR,0.8881
+Vegetables/fruit/nuts,2021,EE,Estonia,kg/EUR,1.5542
+Vegetables/fruit/nuts,2021,ES,Spain,kg/EUR,0.3748
+Vegetables/fruit/nuts,2021,FI,Finland,kg/EUR,0.324
+Vegetables/fruit/nuts,2021,FR,France,kg/EUR,0.2275
+Vegetables/fruit/nuts,2021,GB,United Kingdom,kg/EUR,0.3915
+Vegetables/fruit/nuts,2021,GR,Greece,kg/EUR,0.5837
+Vegetables/fruit/nuts,2021,HR,Croatia,kg/EUR,0.574
+Vegetables/fruit/nuts,2021,HU,Hungary,kg/EUR,0.8782
+Vegetables/fruit/nuts,2021,ID,Indonesia,kg/EUR,0.4313
+Vegetables/fruit/nuts,2021,IE,Ireland,kg/EUR,0.7569
+Vegetables/fruit/nuts,2021,IN,India,kg/EUR,0.7607
+Vegetables/fruit/nuts,2021,IT,Italy,kg/EUR,0.3946
+Vegetables/fruit/nuts,2021,JP,Japan,kg/EUR,0.3849
+Vegetables/fruit/nuts,2021,KR,"Korea, Republic of",kg/EUR,0.3165
+Vegetables/fruit/nuts,2021,LT,Lithuania,kg/EUR,1.331
+Vegetables/fruit/nuts,2021,LU,Luxembourg,kg/EUR,1.1827
+Vegetables/fruit/nuts,2021,LV,Latvia,kg/EUR,0.4811
+Vegetables/fruit/nuts,2021,MT,Malta,kg/EUR,0.4332
+Vegetables/fruit/nuts,2021,MX,Mexico,kg/EUR,0.381
+Vegetables/fruit/nuts,2021,NL,Netherlands,kg/EUR,0.4699
+Vegetables/fruit/nuts,2021,NO,Norway,kg/EUR,0.4388
+Vegetables/fruit/nuts,2021,PL,Poland,kg/EUR,1.6628
+Vegetables/fruit/nuts,2021,PT,Portugal,kg/EUR,0.6391
+Vegetables/fruit/nuts,2021,RO,Romania,kg/EUR,0.397
+Vegetables/fruit/nuts,2021,ROW_WA,"Central Asia and Pacific Asia, Oceania, Antarctica",kg/EUR,0.5889
+Vegetables/fruit/nuts,2021,ROW_WE,East Europe and Iceland,kg/EUR,0.8948
+Vegetables/fruit/nuts,2021,ROW_WF,Africa except Egypt and South Africa,kg/EUR,0.4202
+Vegetables/fruit/nuts,2021,ROW_WL,Latin America except Brazil,kg/EUR,0.4064
+Vegetables/fruit/nuts,2021,ROW_WM,"Middle East, Asia and Egypt",kg/EUR,0.5634
+Vegetables/fruit/nuts,2021,RU,Russian Federation,kg/EUR,1.4953
+Vegetables/fruit/nuts,2021,SE,Sweden,kg/EUR,0.3406
+Vegetables/fruit/nuts,2021,SI,Slovenia,kg/EUR,0.3394
+Vegetables/fruit/nuts,2021,SK,Slovakia,kg/EUR,0.2128
+Vegetables/fruit/nuts,2021,TR,Turkey,kg/EUR,0.86
+Vegetables/fruit/nuts,2021,TW,"Taiwan, Province of China",kg/EUR,0.4204
+Vegetables/fruit/nuts,2021,US,United States,kg/EUR,0.1369
+Vegetables/fruit/nuts,2021,ZA,South Africa,kg/EUR,2.1474
+Wheat,2021,AT,Austria,kg/EUR,1.8199
+Wheat,2021,AU,Australia,kg/EUR,1.8841
+Wheat,2021,BE,Belgium,kg/EUR,7.9214
+Wheat,2021,BG,Bulgaria,kg/EUR,2.0166
+Wheat,2021,CA,Canada,kg/EUR,1.8926
+Wheat,2021,CH,Switzerland,kg/EUR,1.3201
+Wheat,2021,CN,China,kg/EUR,1.7618
+Wheat,2021,CY,Cyprus,kg/EUR,5.208
+Wheat,2021,CZ,Czech Republic,kg/EUR,1.1125
+Wheat,2021,DE,Germany,kg/EUR,1.1683
+Wheat,2021,DK,Denmark,kg/EUR,1.024
+Wheat,2021,EE,Estonia,kg/EUR,3.4679
+Wheat,2021,ES,Spain,kg/EUR,1.1305
+Wheat,2021,FI,Finland,kg/EUR,2.7999
+Wheat,2021,FR,France,kg/EUR,1.054
+Wheat,2021,GB,United Kingdom,kg/EUR,1.4173
+Wheat,2021,GR,Greece,kg/EUR,1.8812
+Wheat,2021,HR,Croatia,kg/EUR,3.9766
+Wheat,2021,HU,Hungary,kg/EUR,1.7992
+Wheat,2021,IE,Ireland,kg/EUR,1.3669
+Wheat,2021,IN,India,kg/EUR,2.5717
+Wheat,2021,IT,Italy,kg/EUR,1.4059
+Wheat,2021,JP,Japan,kg/EUR,2.0919
+Wheat,2021,LT,Lithuania,kg/EUR,1.507
+Wheat,2021,LV,Latvia,kg/EUR,1.5931
+Wheat,2021,MT,Malta,kg/EUR,1.1228
+Wheat,2021,MX,Mexico,kg/EUR,1.0751
+Wheat,2021,NL,Netherlands,kg/EUR,1.8754
+Wheat,2021,NO,Norway,kg/EUR,0.9555
+Wheat,2021,PL,Poland,kg/EUR,1.918
+Wheat,2021,PT,Portugal,kg/EUR,1.5973
+Wheat,2021,RO,Romania,kg/EUR,1.8072
+Wheat,2021,ROW_WA,"Central Asia and Pacific Asia, Oceania, Antarctica",kg/EUR,3.255
+Wheat,2021,ROW_WE,East Europe and Iceland,kg/EUR,1.7163
+Wheat,2021,ROW_WF,Africa except Egypt and South Africa,kg/EUR,0.5654
+Wheat,2021,ROW_WL,Latin America except Brazil,kg/EUR,0.8313
+Wheat,2021,ROW_WM,"Middle East, Asia and Egypt",kg/EUR,1.4682
+Wheat,2021,RU,Russian Federation,kg/EUR,1.2325
+Wheat,2021,SE,Sweden,kg/EUR,1.2418
+Wheat,2021,SI,Slovenia,kg/EUR,1.7232
+Wheat,2021,SK,Slovakia,kg/EUR,1.4095
+Wheat,2021,TR,Turkey,kg/EUR,1.5869
+Wheat,2021,TW,"Taiwan, Province of China",kg/EUR,0.751
+Wheat,2021,US,United States,kg/EUR,1.5345
+Wheat,2021,ZA,South Africa,kg/EUR,6.0535
+Bricks/tiles and construction products in baked clay,2021,AT,Austria,kg/EUR,0.6795
+Bricks/tiles and construction products in baked clay,2021,AU,Australia,kg/EUR,1.0248
+Bricks/tiles and construction products in baked clay,2021,BE,Belgium,kg/EUR,0.7679
+Bricks/tiles and construction products in baked clay,2021,BG,Bulgaria,kg/EUR,2.5264
+Bricks/tiles and construction products in baked clay,2021,BR,Brazil,kg/EUR,1.9533
+Bricks/tiles and construction products in baked clay,2021,CA,Canada,kg/EUR,2.2152
+Bricks/tiles and construction products in baked clay,2021,CH,Switzerland,kg/EUR,2.4959
+Bricks/tiles and construction products in baked clay,2021,CN,China,kg/EUR,3.5865
+Bricks/tiles and construction products in baked clay,2021,CY,Cyprus,kg/EUR,3.1387
+Bricks/tiles and construction products in baked clay,2021,CZ,Czech Republic,kg/EUR,1.2463
+Bricks/tiles and construction products in baked clay,2021,DE,Germany,kg/EUR,0.6592
+Bricks/tiles and construction products in baked clay,2021,DK,Denmark,kg/EUR,0.7541
+Bricks/tiles and construction products in baked clay,2021,EE,Estonia,kg/EUR,1.6534
+Bricks/tiles and construction products in baked clay,2021,ES,Spain,kg/EUR,1.2695
+Bricks/tiles and construction products in baked clay,2021,FI,Finland,kg/EUR,1.8591
+Bricks/tiles and construction products in baked clay,2021,FR,France,kg/EUR,0.5769
+Bricks/tiles and construction products in baked clay,2021,GB,United Kingdom,kg/EUR,0.4336
+Bricks/tiles and construction products in baked clay,2021,GR,Greece,kg/EUR,2.8133
+Bricks/tiles and construction products in baked clay,2021,HR,Croatia,kg/EUR,1.5822
+Bricks/tiles and construction products in baked clay,2021,HU,Hungary,kg/EUR,0.8607
+Bricks/tiles and construction products in baked clay,2021,ID,Indonesia,kg/EUR,2.944
+Bricks/tiles and construction products in baked clay,2021,IE,Ireland,kg/EUR,5.4027
+Bricks/tiles and construction products in baked clay,2021,IN,India,kg/EUR,3.5006
+Bricks/tiles and construction products in baked clay,2021,IT,Italy,kg/EUR,0.7067
+Bricks/tiles and construction products in baked clay,2021,JP,Japan,kg/EUR,1.3988
+Bricks/tiles and construction products in baked clay,2021,LT,Lithuania,kg/EUR,1.166
+Bricks/tiles and construction products in baked clay,2021,LU,Luxembourg,kg/EUR,0.6684
+Bricks/tiles and construction products in baked clay,2021,LV,Latvia,kg/EUR,2.7628
+Bricks/tiles and construction products in baked clay,2021,MT,Malta,kg/EUR,1.4516
+Bricks/tiles and construction products in baked clay,2021,MX,Mexico,kg/EUR,6.4519
+Bricks/tiles and construction products in baked clay,2021,NL,Netherlands,kg/EUR,0.591
+Bricks/tiles and construction products in baked clay,2021,NO,Norway,kg/EUR,0.6941
+Bricks/tiles and construction products in baked clay,2021,PL,Poland,kg/EUR,3.321
+Bricks/tiles and construction products in baked clay,2021,PT,Portugal,kg/EUR,1.9017
+Bricks/tiles and construction products in baked clay,2021,RO,Romania,kg/EUR,0.848
+Bricks/tiles and construction products in baked clay,2021,ROW_WA,"Central Asia and Pacific Asia, Oceania, Antarctica",kg/EUR,3.0342
+Bricks/tiles and construction products in baked clay,2021,ROW_WE,East Europe and Iceland,kg/EUR,3.5864
+Bricks/tiles and construction products in baked clay,2021,ROW_WF,Africa except Egypt and South Africa,kg/EUR,3.3113
+Bricks/tiles and construction products in baked clay,2021,ROW_WL,Latin America except Brazil,kg/EUR,1.5278
+Bricks/tiles and construction products in baked clay,2021,ROW_WM,"Middle East, Asia and Egypt",kg/EUR,1.2352
+Bricks/tiles and construction products in baked clay,2021,RU,Russian Federation,kg/EUR,1.8708
+Bricks/tiles and construction products in baked clay,2021,SE,Sweden,kg/EUR,2.1675
+Bricks/tiles and construction products in baked clay,2021,SI,Slovenia,kg/EUR,0.8989
+Bricks/tiles and construction products in baked clay,2021,SK,Slovakia,kg/EUR,1.5466
+Bricks/tiles and construction products in baked clay,2021,TR,Turkey,kg/EUR,2.1274
+Bricks/tiles and construction products in baked clay,2021,TW,"Taiwan, Province of China",kg/EUR,10.7144
+Bricks/tiles and construction products in baked clay,2021,US,United States,kg/EUR,0.5884
+Bricks/tiles and construction products in baked clay,2021,ZA,South Africa,kg/EUR,5.7124
+Cement/lime and plaster,2021,AT,Austria,kg/EUR,1.0921
+Cement/lime and plaster,2021,AU,Australia,kg/EUR,1.9752
+Cement/lime and plaster,2021,BE,Belgium,kg/EUR,1.6444
+Cement/lime and plaster,2021,BG,Bulgaria,kg/EUR,3.8983
+Cement/lime and plaster,2021,BR,Brazil,kg/EUR,7.7345
+Cement/lime and plaster,2021,CA,Canada,kg/EUR,6.2977
+Cement/lime and plaster,2021,CH,Switzerland,kg/EUR,1.319
+Cement/lime and plaster,2021,CY,Cyprus,kg/EUR,3.9564
+Cement/lime and plaster,2021,CZ,Czech Republic,kg/EUR,3.5138
+Cement/lime and plaster,2021,DE,Germany,kg/EUR,1.5413
+Cement/lime and plaster,2021,DK,Denmark,kg/EUR,1.376
+Cement/lime and plaster,2021,EE,Estonia,kg/EUR,1.749
+Cement/lime and plaster,2021,ES,Spain,kg/EUR,1.9396
+Cement/lime and plaster,2021,FI,Finland,kg/EUR,0.9099
+Cement/lime and plaster,2021,FR,France,kg/EUR,1.0684
+Cement/lime and plaster,2021,GB,United Kingdom,kg/EUR,1.2699
+Cement/lime and plaster,2021,GR,Greece,kg/EUR,3.8127
+Cement/lime and plaster,2021,HR,Croatia,kg/EUR,2.1785
+Cement/lime and plaster,2021,HU,Hungary,kg/EUR,1.6953
+Cement/lime and plaster,2021,IE,Ireland,kg/EUR,0.6926
+Cement/lime and plaster,2021,IN,India,kg/EUR,10.1374
+Cement/lime and plaster,2021,IT,Italy,kg/EUR,1.1422
+Cement/lime and plaster,2021,JP,Japan,kg/EUR,11.44
+Cement/lime and plaster,2021,KR,"Korea, Republic of",kg/EUR,4.1415
+Cement/lime and plaster,2021,LT,Lithuania,kg/EUR,3.1425
+Cement/lime and plaster,2021,LU,Luxembourg,kg/EUR,7.5553
+Cement/lime and plaster,2021,LV,Latvia,kg/EUR,2.1708
+Cement/lime and plaster,2021,MX,Mexico,kg/EUR,6.9005
+Cement/lime and plaster,2021,NL,Netherlands,kg/EUR,1.3647
+Cement/lime and plaster,2021,NO,Norway,kg/EUR,2.2957
+Cement/lime and plaster,2021,PL,Poland,kg/EUR,2.8252
+Cement/lime and plaster,2021,PT,Portugal,kg/EUR,5.2619
+Cement/lime and plaster,2021,RO,Romania,kg/EUR,1.8764
+Cement/lime and plaster,2021,ROW_WE,East Europe and Iceland,kg/EUR,11.1311
+Cement/lime and plaster,2021,ROW_WF,Africa except Egypt and South Africa,kg/EUR,9.1887
+Cement/lime and plaster,2021,ROW_WL,Latin America except Brazil,kg/EUR,4.6558
+Cement/lime and plaster,2021,ROW_WM,"Middle East, Asia and Egypt",kg/EUR,6.4448
+Cement/lime and plaster,2021,RU,Russian Federation,kg/EUR,4.131
+Cement/lime and plaster,2021,SE,Sweden,kg/EUR,1.0114
+Cement/lime and plaster,2021,SI,Slovenia,kg/EUR,1.3708
+Cement/lime and plaster,2021,SK,Slovakia,kg/EUR,2.5224
+Cement/lime and plaster,2021,TW,"Taiwan, Province of China",kg/EUR,6.2276
+Cement/lime and plaster,2021,US,United States,kg/EUR,2.1269
+Cement/lime and plaster,2021,ZA,South Africa,kg/EUR,5.5567
+Ceramic goods,2021,AT,Austria,kg/EUR,0.693
+Ceramic goods,2021,AU,Australia,kg/EUR,1.3846
+Ceramic goods,2021,BE,Belgium,kg/EUR,0.9264
+Ceramic goods,2021,BG,Bulgaria,kg/EUR,2.1634
+Ceramic goods,2021,BR,Brazil,kg/EUR,0.7933
+Ceramic goods,2021,CA,Canada,kg/EUR,2.9041
+Ceramic goods,2021,CH,Switzerland,kg/EUR,0.5105
+Ceramic goods,2021,CN,China,kg/EUR,1.853
+Ceramic goods,2021,CY,Cyprus,kg/EUR,2.525
+Ceramic goods,2021,CZ,Czech Republic,kg/EUR,1.0164
+Ceramic goods,2021,DE,Germany,kg/EUR,0.4711
+Ceramic goods,2021,DK,Denmark,kg/EUR,0.6078
+Ceramic goods,2021,EE,Estonia,kg/EUR,1.6214
+Ceramic goods,2021,ES,Spain,kg/EUR,0.9994
+Ceramic goods,2021,FI,Finland,kg/EUR,1.1221
+Ceramic goods,2021,FR,France,kg/EUR,0.5112
+Ceramic goods,2021,GB,United Kingdom,kg/EUR,0.4673
+Ceramic goods,2021,GR,Greece,kg/EUR,1.7311
+Ceramic goods,2021,HR,Croatia,kg/EUR,3.5101
+Ceramic goods,2021,HU,Hungary,kg/EUR,1.2868
+Ceramic goods,2021,ID,Indonesia,kg/EUR,0.8703
+Ceramic goods,2021,IE,Ireland,kg/EUR,0.8181
+Ceramic goods,2021,IN,India,kg/EUR,2.8794
+Ceramic goods,2021,IT,Italy,kg/EUR,0.7222
+Ceramic goods,2021,JP,Japan,kg/EUR,0.8655
+Ceramic goods,2021,KR,"Korea, Republic of",kg/EUR,0.9853
+Ceramic goods,2021,LT,Lithuania,kg/EUR,1.1648
+Ceramic goods,2021,LU,Luxembourg,kg/EUR,0.5316
+Ceramic goods,2021,LV,Latvia,kg/EUR,1.3009
+Ceramic goods,2021,MT,Malta,kg/EUR,0.9543
+Ceramic goods,2021,MX,Mexico,kg/EUR,1.1964
+Ceramic goods,2021,NL,Netherlands,kg/EUR,0.6958
+Ceramic goods,2021,NO,Norway,kg/EUR,0.9332
+Ceramic goods,2021,PL,Poland,kg/EUR,1.1711
+Ceramic goods,2021,PT,Portugal,kg/EUR,1.3825
+Ceramic goods,2021,RO,Romania,kg/EUR,1.1014
+Ceramic goods,2021,ROW_WA,"Central Asia and Pacific Asia, Oceania, Antarctica",kg/EUR,1.9543
+Ceramic goods,2021,ROW_WE,East Europe and Iceland,kg/EUR,2.607
+Ceramic goods,2021,ROW_WF,Africa except Egypt and South Africa,kg/EUR,1.799
+Ceramic goods,2021,ROW_WL,Latin America except Brazil,kg/EUR,1.2253
+Ceramic goods,2021,ROW_WM,"Middle East, Asia and Egypt",kg/EUR,0.8936
+Ceramic goods,2021,RU,Russian Federation,kg/EUR,1.8696
+Ceramic goods,2021,SE,Sweden,kg/EUR,0.7248
+Ceramic goods,2021,SI,Slovenia,kg/EUR,0.943
+Ceramic goods,2021,SK,Slovakia,kg/EUR,1.9473
+Ceramic goods,2021,TR,Turkey,kg/EUR,0.972
+Ceramic goods,2021,TW,"Taiwan, Province of China",kg/EUR,4.092
+Ceramic goods,2021,US,United States,kg/EUR,0.5107
+Ceramic goods,2021,ZA,South Africa,kg/EUR,2.1831
+Bitumen,2021,AU,Australia,kg/EUR,0.8281
+Bitumen,2021,BE,Belgium,kg/EUR,1.0231
+Bitumen,2021,BG,Bulgaria,kg/EUR,2.2357
+Bitumen,2021,BR,Brazil,kg/EUR,0.3778
+Bitumen,2021,CA,Canada,kg/EUR,0.9942
+Bitumen,2021,CY,Cyprus,kg/EUR,0.8085
+Bitumen,2021,CZ,Czech Republic,kg/EUR,2.3071
+Bitumen,2021,DE,Germany,kg/EUR,1.0692
+Bitumen,2021,DK,Denmark,kg/EUR,0.1712
+Bitumen,2021,EE,Estonia,kg/EUR,1.4277
+Bitumen,2021,ES,Spain,kg/EUR,2.0317
+Bitumen,2021,FI,Finland,kg/EUR,2.1752
+Bitumen,2021,GB,United Kingdom,kg/EUR,1.0323
+Bitumen,2021,GR,Greece,kg/EUR,1.6549
+Bitumen,2021,HR,Croatia,kg/EUR,2.178
+Bitumen,2021,HU,Hungary,kg/EUR,0.9391
+Bitumen,2021,IT,Italy,kg/EUR,1.937
+Bitumen,2021,LT,Lithuania,kg/EUR,1.43
+Bitumen,2021,MT,Malta,kg/EUR,1.428
+Bitumen,2021,MX,Mexico,kg/EUR,4.2172
+Bitumen,2021,NL,Netherlands,kg/EUR,1.2631
+Bitumen,2021,NO,Norway,kg/EUR,2.3488
+Bitumen,2021,PL,Poland,kg/EUR,1.9388
+Bitumen,2021,PT,Portugal,kg/EUR,1.6371
+Bitumen,2021,ROW_WA,"Central Asia and Pacific Asia, Oceania, Antarctica",kg/EUR,2.6819
+Bitumen,2021,ROW_WE,East Europe and Iceland,kg/EUR,2.6897
+Bitumen,2021,ROW_WF,Africa except Egypt and South Africa,kg/EUR,2.1009
+Bitumen,2021,ROW_WL,Latin America except Brazil,kg/EUR,1.5336
+Bitumen,2021,ROW_WM,"Middle East, Asia and Egypt",kg/EUR,1.9714
+Bitumen,2021,RU,Russian Federation,kg/EUR,2.2443
+Bitumen,2021,SE,Sweden,kg/EUR,0.6736
+Bitumen,2021,SK,Slovakia,kg/EUR,1.1604
+Bitumen,2021,TR,Turkey,kg/EUR,1.4989
+Bitumen,2021,US,United States,kg/EUR,1.2514
+Bitumen,2021,ZA,South Africa,kg/EUR,7.1991
+Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),2021,AT,Austria,kg/EUR,0.9843
+Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),2021,AU,Australia,kg/EUR,0.5945
+Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),2021,BE,Belgium,kg/EUR,0.9483
+Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),2021,BG,Bulgaria,kg/EUR,1.7935
+Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),2021,BR,Brazil,kg/EUR,2.742
+Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),2021,CA,Canada,kg/EUR,1.1252
+Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),2021,CH,Switzerland,kg/EUR,0.1812
+Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),2021,CN,China,kg/EUR,3.0121
+Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),2021,CY,Cyprus,kg/EUR,0.671
+Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),2021,CZ,Czech Republic,kg/EUR,2.6376
+Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),2021,DE,Germany,kg/EUR,0.5752
+Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),2021,DK,Denmark,kg/EUR,1.2446
+Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),2021,EE,Estonia,kg/EUR,6.4907
+Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),2021,ES,Spain,kg/EUR,0.508
+Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),2021,FI,Finland,kg/EUR,0.8287
+Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),2021,FR,France,kg/EUR,0.314
+Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),2021,GB,United Kingdom,kg/EUR,0.6595
+Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),2021,GR,Greece,kg/EUR,2.1092
+Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),2021,HR,Croatia,kg/EUR,2.0265
+Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),2021,HU,Hungary,kg/EUR,2.0302
+Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),2021,ID,Indonesia,kg/EUR,7.7635
+Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),2021,IE,Ireland,kg/EUR,0.619
+Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),2021,IN,India,kg/EUR,0.1822
+Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),2021,IT,Italy,kg/EUR,0.7265
+Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),2021,JP,Japan,kg/EUR,2.9395
+Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),2021,KR,"Korea, Republic of",kg/EUR,0.5323
+Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),2021,LT,Lithuania,kg/EUR,2.2737
+Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),2021,LV,Latvia,kg/EUR,0.6324
+Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),2021,MX,Mexico,kg/EUR,1.117
+Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),2021,NL,Netherlands,kg/EUR,0.599
+Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),2021,NO,Norway,kg/EUR,0.9846
+Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),2021,PL,Poland,kg/EUR,8.2986
+Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),2021,PT,Portugal,kg/EUR,3.1943
+Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),2021,RO,Romania,kg/EUR,0.9935
+Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),2021,ROW_WA,"Central Asia and Pacific Asia, Oceania, Antarctica",kg/EUR,3.7476
+Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),2021,ROW_WE,East Europe and Iceland,kg/EUR,1.7875
+Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),2021,ROW_WF,Africa except Egypt and South Africa,kg/EUR,1.6883
+Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),2021,ROW_WL,Latin America except Brazil,kg/EUR,1.1281
+Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),2021,ROW_WM,"Middle East, Asia and Egypt",kg/EUR,2.3309
+Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),2021,RU,Russian Federation,kg/EUR,0.9846
+Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),2021,SE,Sweden,kg/EUR,0.5843
+Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),2021,SI,Slovenia,kg/EUR,0.4721
+Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),2021,SK,Slovakia,kg/EUR,1.4676
+Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),2021,TR,Turkey,kg/EUR,0.983
+Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),2021,TW,"Taiwan, Province of China",kg/EUR,1.409
+Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),2021,US,United States,kg/EUR,0.9564
+Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),2021,ZA,South Africa,kg/EUR,1.4103
+Chemicals (not elsewhere specified),2021,AT,Austria,kg/EUR,0.6595
+Chemicals (not elsewhere specified),2021,AU,Australia,kg/EUR,0.661
+Chemicals (not elsewhere specified),2021,BE,Belgium,kg/EUR,0.7853
+Chemicals (not elsewhere specified),2021,BG,Bulgaria,kg/EUR,3.2038
+Chemicals (not elsewhere specified),2021,BR,Brazil,kg/EUR,0.905
+Chemicals (not elsewhere specified),2021,CA,Canada,kg/EUR,0.6646
+Chemicals (not elsewhere specified),2021,CH,Switzerland,kg/EUR,0.2492
+Chemicals (not elsewhere specified),2021,CN,China,kg/EUR,1.8816
+Chemicals (not elsewhere specified),2021,CY,Cyprus,kg/EUR,1.3561
+Chemicals (not elsewhere specified),2021,CZ,Czech Republic,kg/EUR,0.9851
+Chemicals (not elsewhere specified),2021,DE,Germany,kg/EUR,0.7087
+Chemicals (not elsewhere specified),2021,DK,Denmark,kg/EUR,0.4809
+Chemicals (not elsewhere specified),2021,EE,Estonia,kg/EUR,1.5588
+Chemicals (not elsewhere specified),2021,ES,Spain,kg/EUR,0.585
+Chemicals (not elsewhere specified),2021,FI,Finland,kg/EUR,0.8366
+Chemicals (not elsewhere specified),2021,FR,France,kg/EUR,0.4021
+Chemicals (not elsewhere specified),2021,GR,Greece,kg/EUR,0.683
+Chemicals (not elsewhere specified),2021,HR,Croatia,kg/EUR,0.9172
+Chemicals (not elsewhere specified),2021,HU,Hungary,kg/EUR,2.1265
+Chemicals (not elsewhere specified),2021,IE,Ireland,kg/EUR,0.3116
+Chemicals (not elsewhere specified),2021,IN,India,kg/EUR,1.0666
+Chemicals (not elsewhere specified),2021,IT,Italy,kg/EUR,0.7657
+Chemicals (not elsewhere specified),2021,LT,Lithuania,kg/EUR,1.3075
+Chemicals (not elsewhere specified),2021,LU,Luxembourg,kg/EUR,1.2156
+Chemicals (not elsewhere specified),2021,LV,Latvia,kg/EUR,2.0323
+Chemicals (not elsewhere specified),2021,MT,Malta,kg/EUR,1.1788
+Chemicals (not elsewhere specified),2021,MX,Mexico,kg/EUR,0.7963
+Chemicals (not elsewhere specified),2021,NL,Netherlands,kg/EUR,1.5777
+Chemicals (not elsewhere specified),2021,NO,Norway,kg/EUR,0.8527
+Chemicals (not elsewhere specified),2021,PL,Poland,kg/EUR,1.2533
+Chemicals (not elsewhere specified),2021,PT,Portugal,kg/EUR,0.7761
+Chemicals (not elsewhere specified),2021,ROW_WA,"Central Asia and Pacific Asia, Oceania, Antarctica",kg/EUR,1.4353
+Chemicals (not elsewhere specified),2021,ROW_WE,East Europe and Iceland,kg/EUR,2.4652
+Chemicals (not elsewhere specified),2021,ROW_WF,Africa except Egypt and South Africa,kg/EUR,2.1331
+Chemicals (not elsewhere specified),2021,ROW_WL,Latin America except Brazil,kg/EUR,1.8762
+Chemicals (not elsewhere specified),2021,ROW_WM,"Middle East, Asia and Egypt",kg/EUR,1.7397
+Chemicals (not elsewhere specified),2021,RU,Russian Federation,kg/EUR,3.9508
+Chemicals (not elsewhere specified),2021,SE,Sweden,kg/EUR,1.3278
+Chemicals (not elsewhere specified),2021,SI,Slovenia,kg/EUR,0.5471
+Chemicals (not elsewhere specified),2021,SK,Slovakia,kg/EUR,0.3451
+Chemicals (not elsewhere specified),2021,TR,Turkey,kg/EUR,0.9002
+Chemicals (not elsewhere specified),2021,TW,"Taiwan, Province of China",kg/EUR,1.5468
+Chemicals (not elsewhere specified),2021,ZA,South Africa,kg/EUR,6.9468
+Lubricants,2021,AU,Australia,kg/EUR,0.1949
+Lubricants,2021,BE,Belgium,kg/EUR,1.7536
+Lubricants,2021,BR,Brazil,kg/EUR,0.3632
+Lubricants,2021,CA,Canada,kg/EUR,1.0293
+Lubricants,2021,CH,Switzerland,kg/EUR,1.105
+Lubricants,2021,CY,Cyprus,kg/EUR,1.1881
+Lubricants,2021,CZ,Czech Republic,kg/EUR,2.4306
+Lubricants,2021,DE,Germany,kg/EUR,1.0585
+Lubricants,2021,DK,Denmark,kg/EUR,0.2349
+Lubricants,2021,EE,Estonia,kg/EUR,0.5872
+Lubricants,2021,ES,Spain,kg/EUR,2.1236
+Lubricants,2021,FI,Finland,kg/EUR,3.1232
+Lubricants,2021,GB,United Kingdom,kg/EUR,1.0622
+Lubricants,2021,GR,Greece,kg/EUR,1.654
+Lubricants,2021,HR,Croatia,kg/EUR,1.4232
+Lubricants,2021,HU,Hungary,kg/EUR,0.958
+Lubricants,2021,IT,Italy,kg/EUR,1.9397
+Lubricants,2021,LT,Lithuania,kg/EUR,1.4278
+Lubricants,2021,LV,Latvia,kg/EUR,1.9371
+Lubricants,2021,MT,Malta,kg/EUR,1.4319
+Lubricants,2021,MX,Mexico,kg/EUR,4.2171
+Lubricants,2021,NL,Netherlands,kg/EUR,1.3049
+Lubricants,2021,NO,Norway,kg/EUR,2.3482
+Lubricants,2021,PL,Poland,kg/EUR,1.6668
+Lubricants,2021,PT,Portugal,kg/EUR,1.6494
+Lubricants,2021,ROW_WA,"Central Asia and Pacific Asia, Oceania, Antarctica",kg/EUR,1.9782
+Lubricants,2021,ROW_WE,East Europe and Iceland,kg/EUR,2.185
+Lubricants,2021,ROW_WF,Africa except Egypt and South Africa,kg/EUR,1.9653
+Lubricants,2021,ROW_WL,Latin America except Brazil,kg/EUR,1.5303
+Lubricants,2021,ROW_WM,"Middle East, Asia and Egypt",kg/EUR,1.9164
+Lubricants,2021,RU,Russian Federation,kg/EUR,2.139
+Lubricants,2021,SE,Sweden,kg/EUR,1.3323
+Lubricants,2021,SK,Slovakia,kg/EUR,1.6466
+Lubricants,2021,US,United States,kg/EUR,0.9109
+White spirit/SBP,2021,AU,Australia,kg/EUR,0.9266
+White spirit/SBP,2021,BE,Belgium,kg/EUR,1.0782
+White spirit/SBP,2021,CA,Canada,kg/EUR,0.8144
+White spirit/SBP,2021,CY,Cyprus,kg/EUR,0.3728
+White spirit/SBP,2021,CZ,Czech Republic,kg/EUR,1.3169
+White spirit/SBP,2021,DE,Germany,kg/EUR,1.0551
+White spirit/SBP,2021,DK,Denmark,kg/EUR,0.1791
+White spirit/SBP,2021,EE,Estonia,kg/EUR,0.6861
+White spirit/SBP,2021,ES,Spain,kg/EUR,2.1258
+White spirit/SBP,2021,FI,Finland,kg/EUR,1.8742
+White spirit/SBP,2021,GB,United Kingdom,kg/EUR,1.0595
+White spirit/SBP,2021,GR,Greece,kg/EUR,0.6395
+White spirit/SBP,2021,HU,Hungary,kg/EUR,0.9642
+White spirit/SBP,2021,IN,India,kg/EUR,1.064
+White spirit/SBP,2021,IT,Italy,kg/EUR,0.8888
+White spirit/SBP,2021,MT,Malta,kg/EUR,2.2335
+White spirit/SBP,2021,MX,Mexico,kg/EUR,0.2975
+White spirit/SBP,2021,NL,Netherlands,kg/EUR,1.4041
+White spirit/SBP,2021,NO,Norway,kg/EUR,0.7066
+White spirit/SBP,2021,PL,Poland,kg/EUR,1.7868
+White spirit/SBP,2021,PT,Portugal,kg/EUR,2.1646
+White spirit/SBP,2021,ROW_WA,"Central Asia and Pacific Asia, Oceania, Antarctica",kg/EUR,2.4079
+White spirit/SBP,2021,ROW_WE,East Europe and Iceland,kg/EUR,3.1901
+White spirit/SBP,2021,ROW_WF,Africa except Egypt and South Africa,kg/EUR,1.599
+White spirit/SBP,2021,ROW_WL,Latin America except Brazil,kg/EUR,1.5271
+White spirit/SBP,2021,ROW_WM,"Middle East, Asia and Egypt",kg/EUR,1.9543
+White spirit/SBP,2021,RU,Russian Federation,kg/EUR,0.2078
+White spirit/SBP,2021,SE,Sweden,kg/EUR,0.3456
+White spirit/SBP,2021,SK,Slovakia,kg/EUR,1.6149
+White spirit/SBP,2021,TR,Turkey,kg/EUR,1.4972
+White spirit/SBP,2021,US,United States,kg/EUR,1.2897
+Post and telecommunication,2021,AT,Austria,kg/EUR,0.0815
+Post and telecommunication,2021,AU,Australia,kg/EUR,0.2502
+Post and telecommunication,2021,BE,Belgium,kg/EUR,0.1128
+Post and telecommunication,2021,BG,Bulgaria,kg/EUR,0.115
+Post and telecommunication,2021,BR,Brazil,kg/EUR,0.1046
+Post and telecommunication,2021,CA,Canada,kg/EUR,0.1182
+Post and telecommunication,2021,CH,Switzerland,kg/EUR,0.0682
+Post and telecommunication,2021,CN,China,kg/EUR,0.4296
+Post and telecommunication,2021,CY,Cyprus,kg/EUR,0.2138
+Post and telecommunication,2021,CZ,Czech Republic,kg/EUR,0.1321
+Post and telecommunication,2021,DE,Germany,kg/EUR,0.0919
+Post and telecommunication,2021,DK,Denmark,kg/EUR,0.2037
+Post and telecommunication,2021,EE,Estonia,kg/EUR,0.1977
+Post and telecommunication,2021,ES,Spain,kg/EUR,0.1018
+Post and telecommunication,2021,FI,Finland,kg/EUR,0.1057
+Post and telecommunication,2021,FR,France,kg/EUR,0.0691
+Post and telecommunication,2021,GB,United Kingdom,kg/EUR,0.0736
+Post and telecommunication,2021,GR,Greece,kg/EUR,0.3796
+Post and telecommunication,2021,HR,Croatia,kg/EUR,0.0974
+Post and telecommunication,2021,HU,Hungary,kg/EUR,0.1441
+Post and telecommunication,2021,ID,Indonesia,kg/EUR,0.7423
+Post and telecommunication,2021,IE,Ireland,kg/EUR,0.1103
+Post and telecommunication,2021,IN,India,kg/EUR,0.2621
+Post and telecommunication,2021,IT,Italy,kg/EUR,0.1125
+Post and telecommunication,2021,JP,Japan,kg/EUR,0.0525
+Post and telecommunication,2021,KR,"Korea, Republic of",kg/EUR,0.1566
+Post and telecommunication,2021,LT,Lithuania,kg/EUR,0.1179
+Post and telecommunication,2021,LU,Luxembourg,kg/EUR,0.1759
+Post and telecommunication,2021,LV,Latvia,kg/EUR,0.2136
+Post and telecommunication,2021,MT,Malta,kg/EUR,0.175
+Post and telecommunication,2021,MX,Mexico,kg/EUR,0.1332
+Post and telecommunication,2021,NL,Netherlands,kg/EUR,0.0879
+Post and telecommunication,2021,NO,Norway,kg/EUR,0.0673
+Post and telecommunication,2021,PL,Poland,kg/EUR,0.4898
+Post and telecommunication,2021,PT,Portugal,kg/EUR,0.0988
+Post and telecommunication,2021,RO,Romania,kg/EUR,0.284
+Post and telecommunication,2021,ROW_WA,"Central Asia and Pacific Asia, Oceania, Antarctica",kg/EUR,0.2895
+Post and telecommunication,2021,ROW_WE,East Europe and Iceland,kg/EUR,0.5408
+Post and telecommunication,2021,ROW_WF,Africa except Egypt and South Africa,kg/EUR,0.3314
+Post and telecommunication,2021,ROW_WL,Latin America except Brazil,kg/EUR,0.185
+Post and telecommunication,2021,ROW_WM,"Middle East, Asia and Egypt",kg/EUR,0.2336
+Post and telecommunication,2021,RU,Russian Federation,kg/EUR,0.6678
+Post and telecommunication,2021,SE,Sweden,kg/EUR,0.0672
+Post and telecommunication,2021,SI,Slovenia,kg/EUR,0.1633
+Post and telecommunication,2021,SK,Slovakia,kg/EUR,0.1255
+Post and telecommunication,2021,TR,Turkey,kg/EUR,0.4132
+Post and telecommunication,2021,TW,"Taiwan, Province of China",kg/EUR,0.1737
+Post and telecommunication,2021,US,United States,kg/EUR,0.0578
+Post and telecommunication,2021,ZA,South Africa,kg/EUR,0.4315
+Construction work,2021,AT,Austria,kg/EUR,0.2678
+Construction work,2021,AU,Australia,kg/EUR,0.4949
+Construction work,2021,BE,Belgium,kg/EUR,0.3221
+Construction work,2021,BG,Bulgaria,kg/EUR,1.021
+Construction work,2021,BR,Brazil,kg/EUR,0.5169
+Construction work,2021,CA,Canada,kg/EUR,0.2881
+Construction work,2021,CH,Switzerland,kg/EUR,0.1779
+Construction work,2021,CN,China,kg/EUR,1.6356
+Construction work,2021,CY,Cyprus,kg/EUR,0.7368
+Construction work,2021,CZ,Czech Republic,kg/EUR,0.397
+Construction work,2021,DE,Germany,kg/EUR,0.4011
+Construction work,2021,DK,Denmark,kg/EUR,0.2706
+Construction work,2021,EE,Estonia,kg/EUR,0.6019
+Construction work,2021,ES,Spain,kg/EUR,0.2483
+Construction work,2021,FI,Finland,kg/EUR,0.3144
+Construction work,2021,FR,France,kg/EUR,0.2332
+Construction work,2021,GB,United Kingdom,kg/EUR,0.1673
+Construction work,2021,GR,Greece,kg/EUR,0.7683
+Construction work,2021,HR,Croatia,kg/EUR,0.5133
+Construction work,2021,HU,Hungary,kg/EUR,0.4806
+Construction work,2021,ID,Indonesia,kg/EUR,0.6291
+Construction work,2021,IE,Ireland,kg/EUR,0.2758
+Construction work,2021,IN,India,kg/EUR,1.3149
+Construction work,2021,IT,Italy,kg/EUR,0.4258
+Construction work,2021,JP,Japan,kg/EUR,0.4024
+Construction work,2021,KR,"Korea, Republic of",kg/EUR,0.6796
+Construction work,2021,LT,Lithuania,kg/EUR,0.3743
+Construction work,2021,LU,Luxembourg,kg/EUR,0.1925
+Construction work,2021,LV,Latvia,kg/EUR,0.6525
+Construction work,2021,MT,Malta,kg/EUR,0.9514
+Construction work,2021,MX,Mexico,kg/EUR,0.4571
+Construction work,2021,NL,Netherlands,kg/EUR,0.3521
+Construction work,2021,NO,Norway,kg/EUR,0.1897
+Construction work,2021,PL,Poland,kg/EUR,0.6472
+Construction work,2021,PT,Portugal,kg/EUR,0.6751
+Construction work,2021,RO,Romania,kg/EUR,0.6631
+Construction work,2021,ROW_WA,"Central Asia and Pacific Asia, Oceania, Antarctica",kg/EUR,0.9371
+Construction work,2021,ROW_WE,East Europe and Iceland,kg/EUR,1.1844
+Construction work,2021,ROW_WF,Africa except Egypt and South Africa,kg/EUR,1.084
+Construction work,2021,ROW_WL,Latin America except Brazil,kg/EUR,0.5518
+Construction work,2021,ROW_WM,"Middle East, Asia and Egypt",kg/EUR,0.9881
+Construction work,2021,RU,Russian Federation,kg/EUR,0.694
+Construction work,2021,SE,Sweden,kg/EUR,0.1987
+Construction work,2021,SI,Slovenia,kg/EUR,0.3412
+Construction work,2021,SK,Slovakia,kg/EUR,0.3333
+Construction work,2021,TR,Turkey,kg/EUR,0.5326
+Construction work,2021,TW,"Taiwan, Province of China",kg/EUR,0.9112
+Construction work,2021,US,United States,kg/EUR,0.2708
+Construction work,2021,ZA,South Africa,kg/EUR,1.0749
+Beverages,2021,AT,Austria,kg/EUR,0.4682
+Beverages,2021,AU,Australia,kg/EUR,0.4268
+Beverages,2021,BE,Belgium,kg/EUR,0.3902
+Beverages,2021,BG,Bulgaria,kg/EUR,0.9821
+Beverages,2021,BR,Brazil,kg/EUR,0.4382
+Beverages,2021,CA,Canada,kg/EUR,0.3375
+Beverages,2021,CH,Switzerland,kg/EUR,0.1471
+Beverages,2021,CN,China,kg/EUR,1.0491
+Beverages,2021,CY,Cyprus,kg/EUR,0.8024
+Beverages,2021,CZ,Czech Republic,kg/EUR,0.6838
+Beverages,2021,DE,Germany,kg/EUR,0.4604
+Beverages,2021,DK,Denmark,kg/EUR,0.509
+Beverages,2021,EE,Estonia,kg/EUR,1.497
+Beverages,2021,ES,Spain,kg/EUR,0.5065
+Beverages,2021,FI,Finland,kg/EUR,0.5724
+Beverages,2021,FR,France,kg/EUR,0.3487
+Beverages,2021,GB,United Kingdom,kg/EUR,0.5994
+Beverages,2021,GR,Greece,kg/EUR,0.5567
+Beverages,2021,HR,Croatia,kg/EUR,1.245
+Beverages,2021,HU,Hungary,kg/EUR,0.8678
+Beverages,2021,ID,Indonesia,kg/EUR,1.0698
+Beverages,2021,IE,Ireland,kg/EUR,0.233
+Beverages,2021,IN,India,kg/EUR,1.321
+Beverages,2021,IT,Italy,kg/EUR,0.4229
+Beverages,2021,JP,Japan,kg/EUR,0.3296
+Beverages,2021,KR,"Korea, Republic of",kg/EUR,0.5106
+Beverages,2021,LT,Lithuania,kg/EUR,0.7645
+Beverages,2021,LU,Luxembourg,kg/EUR,0.6151
+Beverages,2021,LV,Latvia,kg/EUR,0.941
+Beverages,2021,MT,Malta,kg/EUR,0.393
+Beverages,2021,MX,Mexico,kg/EUR,0.5845
+Beverages,2021,NL,Netherlands,kg/EUR,0.5909
+Beverages,2021,NO,Norway,kg/EUR,0.1834
+Beverages,2021,PL,Poland,kg/EUR,0.6685
+Beverages,2021,PT,Portugal,kg/EUR,0.5768
+Beverages,2021,RO,Romania,kg/EUR,0.5514
+Beverages,2021,ROW_WA,"Central Asia and Pacific Asia, Oceania, Antarctica",kg/EUR,0.8988
+Beverages,2021,ROW_WE,East Europe and Iceland,kg/EUR,1.2923
+Beverages,2021,ROW_WF,Africa except Egypt and South Africa,kg/EUR,0.836
+Beverages,2021,ROW_WL,Latin America except Brazil,kg/EUR,0.6336
+Beverages,2021,ROW_WM,"Middle East, Asia and Egypt",kg/EUR,0.5604
+Beverages,2021,RU,Russian Federation,kg/EUR,0.7498
+Beverages,2021,SE,Sweden,kg/EUR,0.2513
+Beverages,2021,SI,Slovenia,kg/EUR,0.3946
+Beverages,2021,SK,Slovakia,kg/EUR,0.5368
+Beverages,2021,TR,Turkey,kg/EUR,1.1119
+Beverages,2021,TW,"Taiwan, Province of China",kg/EUR,0.7021
+Beverages,2021,US,United States,kg/EUR,0.4569
+Beverages,2021,ZA,South Africa,kg/EUR,0.7971
+Dairy products,2021,AT,Austria,kg/EUR,0.7735
+Dairy products,2021,AU,Australia,kg/EUR,1.8175
+Dairy products,2021,BE,Belgium,kg/EUR,0.7991
+Dairy products,2021,BG,Bulgaria,kg/EUR,0.9755
+Dairy products,2021,BR,Brazil,kg/EUR,3.798
+Dairy products,2021,CA,Canada,kg/EUR,1.4607
+Dairy products,2021,CH,Switzerland,kg/EUR,1.1191
+Dairy products,2021,CN,China,kg/EUR,3.7114
+Dairy products,2021,CY,Cyprus,kg/EUR,1.9242
+Dairy products,2021,CZ,Czech Republic,kg/EUR,1.1347
+Dairy products,2021,DE,Germany,kg/EUR,0.9415
+Dairy products,2021,DK,Denmark,kg/EUR,2.1072
+Dairy products,2021,EE,Estonia,kg/EUR,1.251
+Dairy products,2021,ES,Spain,kg/EUR,1.0275
+Dairy products,2021,FI,Finland,kg/EUR,1.0194
+Dairy products,2021,FR,France,kg/EUR,0.9808
+Dairy products,2021,GB,United Kingdom,kg/EUR,1.1143
+Dairy products,2021,GR,Greece,kg/EUR,1.5917
+Dairy products,2021,HR,Croatia,kg/EUR,0.5653
+Dairy products,2021,HU,Hungary,kg/EUR,1.0686
+Dairy products,2021,ID,Indonesia,kg/EUR,2.3619
+Dairy products,2021,IE,Ireland,kg/EUR,1.3607
+Dairy products,2021,IN,India,kg/EUR,2.1024
+Dairy products,2021,IT,Italy,kg/EUR,1.1056
+Dairy products,2021,JP,Japan,kg/EUR,0.8566
+Dairy products,2021,KR,"Korea, Republic of",kg/EUR,0.8169
+Dairy products,2021,LT,Lithuania,kg/EUR,1.0734
+Dairy products,2021,LU,Luxembourg,kg/EUR,1.4702
+Dairy products,2021,LV,Latvia,kg/EUR,0.542
+Dairy products,2021,MT,Malta,kg/EUR,0.4324
+Dairy products,2021,MX,Mexico,kg/EUR,1.951
+Dairy products,2021,NL,Netherlands,kg/EUR,1.0288
+Dairy products,2021,NO,Norway,kg/EUR,1.0984
+Dairy products,2021,PL,Poland,kg/EUR,0.7564
+Dairy products,2021,PT,Portugal,kg/EUR,0.8951
+Dairy products,2021,RO,Romania,kg/EUR,1.0573
+Dairy products,2021,ROW_WA,"Central Asia and Pacific Asia, Oceania, Antarctica",kg/EUR,2.7648
+Dairy products,2021,ROW_WE,East Europe and Iceland,kg/EUR,5.4723
+Dairy products,2021,ROW_WF,Africa except Egypt and South Africa,kg/EUR,10.1981
+Dairy products,2021,ROW_WL,Latin America except Brazil,kg/EUR,4.1328
+Dairy products,2021,ROW_WM,"Middle East, Asia and Egypt",kg/EUR,1.2386
+Dairy products,2021,RU,Russian Federation,kg/EUR,4.5609
+Dairy products,2021,SE,Sweden,kg/EUR,0.9087
+Dairy products,2021,SI,Slovenia,kg/EUR,0.4009
+Dairy products,2021,SK,Slovakia,kg/EUR,0.7342
+Dairy products,2021,TR,Turkey,kg/EUR,3.0248
+Dairy products,2021,TW,"Taiwan, Province of China",kg/EUR,1.1169
+Dairy products,2021,US,United States,kg/EUR,1.391
+Dairy products,2021,ZA,South Africa,kg/EUR,2.0486
+Fish products,2021,AT,Austria,kg/EUR,0.9421
+Fish products,2021,AU,Australia,kg/EUR,1.4831
+Fish products,2021,BE,Belgium,kg/EUR,0.57
+Fish products,2021,BG,Bulgaria,kg/EUR,0.5208
+Fish products,2021,BR,Brazil,kg/EUR,0.3966
+Fish products,2021,CA,Canada,kg/EUR,0.3988
+Fish products,2021,CH,Switzerland,kg/EUR,0.2937
+Fish products,2021,CN,China,kg/EUR,0.4028
+Fish products,2021,CY,Cyprus,kg/EUR,0.892
+Fish products,2021,CZ,Czech Republic,kg/EUR,0.8656
+Fish products,2021,DE,Germany,kg/EUR,0.5564
+Fish products,2021,DK,Denmark,kg/EUR,0.8718
+Fish products,2021,EE,Estonia,kg/EUR,1.9905
+Fish products,2021,ES,Spain,kg/EUR,0.726
+Fish products,2021,FI,Finland,kg/EUR,1.0359
+Fish products,2021,FR,France,kg/EUR,0.5811
+Fish products,2021,GB,United Kingdom,kg/EUR,0.6593
+Fish products,2021,GR,Greece,kg/EUR,0.6162
+Fish products,2021,HR,Croatia,kg/EUR,0.6855
+Fish products,2021,HU,Hungary,kg/EUR,1.3218
+Fish products,2021,ID,Indonesia,kg/EUR,0.4903
+Fish products,2021,IE,Ireland,kg/EUR,0.527
+Fish products,2021,IN,India,kg/EUR,0.3505
+Fish products,2021,IT,Italy,kg/EUR,0.6092
+Fish products,2021,JP,Japan,kg/EUR,0.3225
+Fish products,2021,KR,"Korea, Republic of",kg/EUR,0.5119
+Fish products,2021,LT,Lithuania,kg/EUR,0.7078
+Fish products,2021,LU,Luxembourg,kg/EUR,0.1643
+Fish products,2021,LV,Latvia,kg/EUR,0.8196
+Fish products,2021,MT,Malta,kg/EUR,0.9417
+Fish products,2021,MX,Mexico,kg/EUR,1.1128
+Fish products,2021,NL,Netherlands,kg/EUR,0.6271
+Fish products,2021,NO,Norway,kg/EUR,0.3197
+Fish products,2021,PL,Poland,kg/EUR,1.0633
+Fish products,2021,PT,Portugal,kg/EUR,0.9499
+Fish products,2021,RO,Romania,kg/EUR,0.8588
+Fish products,2021,ROW_WA,"Central Asia and Pacific Asia, Oceania, Antarctica",kg/EUR,0.8969
+Fish products,2021,ROW_WE,East Europe and Iceland,kg/EUR,1.4735
+Fish products,2021,ROW_WF,Africa except Egypt and South Africa,kg/EUR,1.9244
+Fish products,2021,ROW_WL,Latin America except Brazil,kg/EUR,1.3182
+Fish products,2021,ROW_WM,"Middle East, Asia and Egypt",kg/EUR,0.5518
+Fish products,2021,RU,Russian Federation,kg/EUR,0.9674
+Fish products,2021,SE,Sweden,kg/EUR,0.6567
+Fish products,2021,SI,Slovenia,kg/EUR,0.511
+Fish products,2021,SK,Slovakia,kg/EUR,0.6921
+Fish products,2021,TR,Turkey,kg/EUR,0.661
+Fish products,2021,TW,"Taiwan, Province of China",kg/EUR,1.1055
+Fish products,2021,US,United States,kg/EUR,0.4024
+Fish products,2021,ZA,South Africa,kg/EUR,3.6985
+Food products (not elsewhere specified),2021,AT,Austria,kg/EUR,0.2441
+Food products (not elsewhere specified),2021,AU,Australia,kg/EUR,0.8016
+Food products (not elsewhere specified),2021,BE,Belgium,kg/EUR,0.5284
+Food products (not elsewhere specified),2021,BG,Bulgaria,kg/EUR,1.1212
+Food products (not elsewhere specified),2021,BR,Brazil,kg/EUR,1.0244
+Food products (not elsewhere specified),2021,CA,Canada,kg/EUR,0.6436
+Food products (not elsewhere specified),2021,CH,Switzerland,kg/EUR,0.3149
+Food products (not elsewhere specified),2021,CN,China,kg/EUR,0.8188
+Food products (not elsewhere specified),2021,CY,Cyprus,kg/EUR,0.9558
+Food products (not elsewhere specified),2021,CZ,Czech Republic,kg/EUR,0.7227
+Food products (not elsewhere specified),2021,DE,Germany,kg/EUR,0.453
+Food products (not elsewhere specified),2021,DK,Denmark,kg/EUR,0.5543
+Food products (not elsewhere specified),2021,EE,Estonia,kg/EUR,0.9258
+Food products (not elsewhere specified),2021,ES,Spain,kg/EUR,0.5284
+Food products (not elsewhere specified),2021,FI,Finland,kg/EUR,0.6121
+Food products (not elsewhere specified),2021,FR,France,kg/EUR,0.4741
+Food products (not elsewhere specified),2021,GB,United Kingdom,kg/EUR,0.5546
+Food products (not elsewhere specified),2021,GR,Greece,kg/EUR,0.7382
+Food products (not elsewhere specified),2021,HR,Croatia,kg/EUR,0.5489
+Food products (not elsewhere specified),2021,HU,Hungary,kg/EUR,0.8908
+Food products (not elsewhere specified),2021,ID,Indonesia,kg/EUR,0.7027
+Food products (not elsewhere specified),2021,IE,Ireland,kg/EUR,0.3987
+Food products (not elsewhere specified),2021,IN,India,kg/EUR,1.0279
+Food products (not elsewhere specified),2021,IT,Italy,kg/EUR,0.5263
+Food products (not elsewhere specified),2021,JP,Japan,kg/EUR,0.569
+Food products (not elsewhere specified),2021,KR,"Korea, Republic of",kg/EUR,0.8194
+Food products (not elsewhere specified),2021,LT,Lithuania,kg/EUR,1.1533
+Food products (not elsewhere specified),2021,LU,Luxembourg,kg/EUR,0.6407
+Food products (not elsewhere specified),2021,LV,Latvia,kg/EUR,0.6732
+Food products (not elsewhere specified),2021,MT,Malta,kg/EUR,0.5416
+Food products (not elsewhere specified),2021,MX,Mexico,kg/EUR,0.416
+Food products (not elsewhere specified),2021,NL,Netherlands,kg/EUR,0.5796
+Food products (not elsewhere specified),2021,NO,Norway,kg/EUR,0.4298
+Food products (not elsewhere specified),2021,PL,Poland,kg/EUR,0.9089
+Food products (not elsewhere specified),2021,PT,Portugal,kg/EUR,0.6687
+Food products (not elsewhere specified),2021,RO,Romania,kg/EUR,0.6039
+Food products (not elsewhere specified),2021,ROW_WA,"Central Asia and Pacific Asia, Oceania, Antarctica",kg/EUR,1.8848
+Food products (not elsewhere specified),2021,ROW_WE,East Europe and Iceland,kg/EUR,1.4532
+Food products (not elsewhere specified),2021,ROW_WF,Africa except Egypt and South Africa,kg/EUR,2.5752
+Food products (not elsewhere specified),2021,ROW_WL,Latin America except Brazil,kg/EUR,1.153
+Food products (not elsewhere specified),2021,ROW_WM,"Middle East, Asia and Egypt",kg/EUR,0.7083
+Food products (not elsewhere specified),2021,RU,Russian Federation,kg/EUR,0.962
+Food products (not elsewhere specified),2021,SE,Sweden,kg/EUR,0.4675
+Food products (not elsewhere specified),2021,SI,Slovenia,kg/EUR,0.6024
+Food products (not elsewhere specified),2021,SK,Slovakia,kg/EUR,0.5296
+Food products (not elsewhere specified),2021,TR,Turkey,kg/EUR,1.086
+Food products (not elsewhere specified),2021,TW,"Taiwan, Province of China",kg/EUR,1.8286
+Food products (not elsewhere specified),2021,US,United States,kg/EUR,0.5535
+Food products (not elsewhere specified),2021,ZA,South Africa,kg/EUR,4.316
+Furniture/other manufactured goods (not elsewhere specified),2021,AT,Austria,kg/EUR,0.2611
+Furniture/other manufactured goods (not elsewhere specified),2021,AU,Australia,kg/EUR,0.4225
+Furniture/other manufactured goods (not elsewhere specified),2021,BE,Belgium,kg/EUR,0.6106
+Furniture/other manufactured goods (not elsewhere specified),2021,BG,Bulgaria,kg/EUR,0.4604
+Furniture/other manufactured goods (not elsewhere specified),2021,BR,Brazil,kg/EUR,0.6106
+Furniture/other manufactured goods (not elsewhere specified),2021,CA,Canada,kg/EUR,0.4485
+Furniture/other manufactured goods (not elsewhere specified),2021,CH,Switzerland,kg/EUR,0.3778
+Furniture/other manufactured goods (not elsewhere specified),2021,CN,China,kg/EUR,0.8989
+Furniture/other manufactured goods (not elsewhere specified),2021,CY,Cyprus,kg/EUR,0.2317
+Furniture/other manufactured goods (not elsewhere specified),2021,CZ,Czech Republic,kg/EUR,0.4569
+Furniture/other manufactured goods (not elsewhere specified),2021,DE,Germany,kg/EUR,0.2424
+Furniture/other manufactured goods (not elsewhere specified),2021,DK,Denmark,kg/EUR,0.205
+Furniture/other manufactured goods (not elsewhere specified),2021,EE,Estonia,kg/EUR,0.5906
+Furniture/other manufactured goods (not elsewhere specified),2021,ES,Spain,kg/EUR,0.439
+Furniture/other manufactured goods (not elsewhere specified),2021,FI,Finland,kg/EUR,0.4096
+Furniture/other manufactured goods (not elsewhere specified),2021,FR,France,kg/EUR,0.1881
+Furniture/other manufactured goods (not elsewhere specified),2021,GB,United Kingdom,kg/EUR,0.2871
+Furniture/other manufactured goods (not elsewhere specified),2021,GR,Greece,kg/EUR,1.7584
+Furniture/other manufactured goods (not elsewhere specified),2021,HR,Croatia,kg/EUR,0.4325
+Furniture/other manufactured goods (not elsewhere specified),2021,HU,Hungary,kg/EUR,0.5315
+Furniture/other manufactured goods (not elsewhere specified),2021,ID,Indonesia,kg/EUR,2.0136
+Furniture/other manufactured goods (not elsewhere specified),2021,IE,Ireland,kg/EUR,0.4225
+Furniture/other manufactured goods (not elsewhere specified),2021,IN,India,kg/EUR,0.9189
+Furniture/other manufactured goods (not elsewhere specified),2021,IT,Italy,kg/EUR,0.2438

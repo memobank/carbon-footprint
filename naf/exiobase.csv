@@ -1,0 +1,142 @@
+Name,Year,Region Code,Region Name,Unit,Factor
+Paddy Rice,2021,FR,France,kg/EUR,0.265
+Cereal grains (not elsewhere specified),2021,FR,France,kg/EUR,1.0522
+Crops (not elsewhere specified),2021,FR,France,kg/EUR,0.3909
+Oil seeds,2021,FR,France,kg/EUR,1.4252
+Plant-based fibres,2021,FR,France,kg/EUR,0.2311
+Sugar cane/sugar beet,2021,FR,France,kg/EUR,1.0346
+Vegetables/fruit/nuts,2021,FR,France,kg/EUR,0.2275
+Wheat,2021,FR,France,kg/EUR,1.054
+Bricks/tiles and construction products in baked clay,2021,FR,France,kg/EUR,0.5769
+Cement/lime and plaster,2021,FR,France,kg/EUR,1.0684
+Ceramic goods,2021,FR,France,kg/EUR,0.5112
+Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),2021,FR,France,kg/EUR,0.314
+Chemicals (not elsewhere specified),2021,FR,France,kg/EUR,0.4021
+Post and telecommunication,2021,FR,France,kg/EUR,0.0691
+Construction work,2021,FR,France,kg/EUR,0.2332
+Beverages,2021,FR,France,kg/EUR,0.3487
+Dairy products,2021,FR,France,kg/EUR,0.9808
+Fish products,2021,FR,France,kg/EUR,0.5811
+Food products (not elsewhere specified),2021,FR,France,kg/EUR,0.4741
+Furniture/other manufactured goods (not elsewhere specified),2021,FR,France,kg/EUR,0.1881
+Leather and leather products,2021,FR,France,kg/EUR,0.2112
+Meat products (beef),2021,FR,France,kg/EUR,1.9454
+Meat products (not elsewhere specified),2021,FR,France,kg/EUR,0.4784
+Meat products (pork),2021,FR,France,kg/EUR,0.3829
+Meat products (poultry),2021,FR,France,kg/EUR,0.3464
+Processed rice,2021,FR,France,kg/EUR,0.1156
+Recreational/cultural and sporting services,2021,FR,France,kg/EUR,0.176
+Sugar,2021,FR,France,kg/EUR,0.3251
+Tobacco products,2021,FR,France,kg/EUR,0.1009
+Vegetable oils and fats,2021,FR,France,kg/EUR,0.2491
+Wearing apparel/furs,2021,FR,France,kg/EUR,0.2085
+Private households with employed persons,2021,FR,France,kg/EUR,0.0051
+Education services,2021,FR,France,kg/EUR,0.0656
+Electrical machinery and apparatus (not elsewhere specified),2021,FR,France,kg/EUR,0.2217
+Medical/precision and optical instruments/watches and clocks,2021,FR,France,kg/EUR,0.1817
+Radio/television and communication equipment and apparatus,2021,FR,France,kg/EUR,0.1819
+Electricity generated from biomass and waste,2021,FR,France,kg/EUR,0.4322
+Electricity generated from coal,2021,FR,France,kg/EUR,4.694
+Electricity generated from gas,2021,FR,France,kg/EUR,1.8174
+Electricity generated from hydro,2021,FR,France,kg/EUR,0.1753
+Electricity generated from nuclear,2021,FR,France,kg/EUR,0.19
+Electricity generated from petroleum and other oil derivatives,2021,FR,France,kg/EUR,1.4679
+Electricity generated from solar photovoltaic,2021,FR,France,kg/EUR,0.6654
+Electricity (not elsewhere specified),2021,FR,France,kg/EUR,0.4618
+Electricity generated from wind,2021,FR,France,kg/EUR,0.5673
+Distribution of gaseous fuels through mains (services),2021,FR,France,kg/EUR,0.4987
+Distribution and trade of electricity (services),2021,FR,France,kg/EUR,0.7404
+Transmission of electricity (services),2021,FR,France,kg/EUR,0.7241
+Rental of machinery and equipment (without operator) and of personal and household goods (services),2021,FR,France,kg/EUR,0.1086
+Financial intermediation services (except insurance and pension funding services),2021,FR,France,kg/EUR,0.089
+Services auxiliary to financial intermediation,2021,FR,France,kg/EUR,0.1158
+Fish and other fishing products/services incidental of fishing,2021,FR,France,kg/EUR,0.3248
+Biodiesels,2021,FR,France,kg/EUR,0.4033
+Biogas,2021,FR,France,kg/EUR,0.4985
+Biogasoline,2021,FR,France,kg/EUR,0.4032
+Blast furnace gas,2021,FR,France,kg/EUR,0.4984
+Coke oven gas,2021,FR,France,kg/EUR,0.4975
+Gas works gas,2021,FR,France,kg/EUR,0.5293
+Retail trade of motor fuel (services),2021,FR,France,kg/EUR,0.2602
+Nuclear fuel,2021,FR,France,kg/EUR,0.2777
+Oxygen steel furnace gas,2021,FR,France,kg/EUR,0.0689
+Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),2021,FR,France,kg/EUR,0.0349
+Glass and glass products,2021,FR,France,kg/EUR,0.4039
+Health and social work,2021,FR,France,kg/EUR,0.058
+Steam and hot water supply (services),2021,FR,France,kg/EUR,1.8574
+Insurance and pension funding services (except compulsory social security services),2021,FR,France,kg/EUR,0.1066
+Animal products (not elsewhere specified),2021,FR,France,kg/EUR,3.7602
+Cattle,2021,FR,France,kg/EUR,4.602
+Meat animals (not elsewhere specified),2021,FR,France,kg/EUR,2.319
+Pigs,2021,FR,France,kg/EUR,0.8548
+Poultry,2021,FR,France,kg/EUR,0.6203
+Raw milk,2021,FR,France,kg/EUR,2.5494
+Machinery and equipment (not elsewhere specified),2021,FR,France,kg/EUR,0.2139
+Fabricated metal products/except machinery and equipment,2021,FR,France,kg/EUR,0.2634
+Aluminium and aluminium products,2021,FR,France,kg/EUR,0.4009
+Basic iron and steel and of ferroalloys and first products thereof,2021,FR,France,kg/EUR,0.7751
+Copper products,2021,FR,France,kg/EUR,0.6668
+Lead/zinc and tin and products thereof,2021,FR,France,kg/EUR,0.5703
+Other nonferrous metal products,2021,FR,France,kg/EUR,0.3778
+Precious metals,2021,FR,France,kg/EUR,0.6982
+Aluminium ores and concentrates,2021,FR,France,kg/EUR,2.6795
+Crude petroleum and services related to crude oil extraction (excluding surveying),2021,FR,France,kg/EUR,2.1257
+Other bituminous coal,2021,FR,France,kg/EUR,1.8322
+Other nonferrous metal ores and concentrates,2021,FR,France,kg/EUR,0.8395
+Patent fuel,2021,FR,France,kg/EUR,1.8364
+Office machinery and computers,2021,FR,France,kg/EUR,0.1278
+N fertiliser,2021,FR,France,kg/EUR,0.6799
+P and other fertiliser,2021,FR,France,kg/EUR,0.996
+Membership organisation services (not elsewhere specified),2021,FR,France,kg/EUR,0.1031
+Other services (not elsewhere specified),2021,FR,France,kg/EUR,0.0614
+Public administration and defense services/compulsory social security services,2021,FR,France,kg/EUR,0.101
+Additives/blending components,2021,FR,France,kg/EUR,0.4033
+Other nonmetallic mineral products,2021,FR,France,kg/EUR,0.5683
+Sand and clay,2021,FR,France,kg/EUR,1.0934
+Stone,2021,FR,France,kg/EUR,0.7717
+Paper and paper products,2021,FR,France,kg/EUR,0.3326
+Printed matter and recorded media,2021,FR,France,kg/EUR,0.1425
+Pulp,2021,FR,France,kg/EUR,0.2922
+Motor vehicles/trailers and semitrailers,2021,FR,France,kg/EUR,0.2422
+Other transport equipment,2021,FR,France,kg/EUR,0.2152
+Plastics/basic,2021,FR,France,kg/EUR,0.2878
+Rubber and plastic products,2021,FR,France,kg/EUR,0.1736
+Computer and related services,2021,FR,France,kg/EUR,0.0807
+Foundry work services,2021,FR,France,kg/EUR,0.5763
+Other business services,2021,FR,France,kg/EUR,0.0917
+Research and development services,2021,FR,France,kg/EUR,0.1321
+Real estate services,2021,FR,France,kg/EUR,0.0344
+Hotel and restaurant (services),2021,FR,France,kg/EUR,0.1015
+Textiles,2021,FR,France,kg/EUR,0.2508
+Products of forestry/logging and related services,2021,FR,France,kg/EUR,0.3231
+Wood and products of wood/cork/straw/plaiting materials,2021,FR,France,kg/EUR,0.1899
+Air transport services,2021,FR,France,kg/EUR,1.2705
+Other land transportation services,2021,FR,France,kg/EUR,0.0979
+Railway transportation services,2021,FR,France,kg/EUR,0.8256
+Inland water transportation services,2021,FR,France,kg/EUR,6.3186
+Sea and coastal water transportation services,2021,FR,France,kg/EUR,1.8088
+Supporting and auxiliary transport services/travel agency services,2021,FR,France,kg/EUR,0.2289
+Transportation services via pipelines,2021,FR,France,kg/EUR,5.8281
+Sale/maintenance/repair/parts/accessories of motor vehicles/motorcycles,2021,FR,France,kg/EUR,0.0539
+Food waste for treatment: biogasification and land application,2021,FR,France,kg/EUR,0.1751
+Food waste for treatment: composting and land application,2021,FR,France,kg/EUR,1.0307
+Food waste for treatment: incineration,2021,FR,France,kg/EUR,0.2077
+Food waste for treatment: landfill,2021,FR,France,kg/EUR,6.3719
+Food waste for treatment: waste water treatment,2021,FR,France,kg/EUR,1.1319
+Inert/metal/hazardous waste for treatment: landfill,2021,FR,France,kg/EUR,0.1925
+Intert/metal waste for treatment: incineration,2021,FR,France,kg/EUR,0.8457
+Oil/hazardous waste for treatment: incineration,2021,FR,France,kg/EUR,0.267
+Other waste for treatment: waste water treatment,2021,FR,France,kg/EUR,1.1805
+Paper for treatment: landfill,2021,FR,France,kg/EUR,3.395
+Paper waste for treatment: biogasification and land application,2021,FR,France,kg/EUR,0.1764
+Paper waste for treatment: incineration,2021,FR,France,kg/EUR,0.2068
+Paper and wood waste for treatment: composting and land application,2021,FR,France,kg/EUR,0.2469
+Plastic waste for treatment: incineration,2021,FR,France,kg/EUR,0.8445
+Plastic waste for treatment: landfill,2021,FR,France,kg/EUR,0.779
+Sewage sludge for treatment: biogasification and land application,2021,FR,France,kg/EUR,0.184
+Textiles waste for treatment: incineration,2021,FR,France,kg/EUR,0.8736
+Textiles waste for treatment: landfill,2021,FR,France,kg/EUR,0.9492
+Wood waste for treatment: incineration,2021,FR,France,kg/EUR,0.2055
+Wood waste for treatment: landfill,2021,FR,France,kg/EUR,0.9078
+Collected and purified water/distribution of water (services),2021,FR,France,kg/EUR,0.1276
+Wholesale trade and commission trade services (except of motor vehicles and motorcycles),2021,FR,France,kg/EUR,0.0662
