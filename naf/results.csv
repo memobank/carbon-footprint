@@ -1,0 +1,734 @@
+NAF Code,NAF French Name,NAF English Name,EXIOBASE Name,ADEME Name,Unit,EXIOBASE Monetary Factor,ADEME Monetary Factor
+0111Z,"Culture de céréales (à l'exception du riz), de légumineuses et de graines oléagineuses","Growing of cereals (except rice), leguminous crops and oil seeds",Wheat,Agriculture and fishery products,kgCO2e/€,1.054,2.3
+0112Z,Culture du riz,Growing of rice,Paddy Rice,Agriculture and fishery products,kgCO2e/€,0.265,2.3
+0113Z,"Culture de légumes, de melons, de racines et de tubercules","Growing of vegetables and melons, roots and tubers",Vegetables/fruit/nuts,Agriculture and fishery products,kgCO2e/€,0.2275,2.3
+0114Z,Culture de la canne à sucre,Growing of sugar cane,Sugar cane/sugar beet,Agriculture and fishery products,kgCO2e/€,1.0346,2.3
+0115Z,Culture du tabac,Growing of tobacco,Crops (not elsewhere specified),Agriculture and fishery products,kgCO2e/€,0.3909,2.3
+0116Z,Culture de plantes à fibres,Growing of fibre crops,Plant-based fibres,Agriculture and fishery products,kgCO2e/€,0.2311,2.3
+0119Z,Autres cultures non permanentes,Growing of other non-perennial crops,Crops (not elsewhere specified),Agriculture and fishery products,kgCO2e/€,0.3909,2.3
+0121Z,Culture de la vigne,Growing of grapes,Vegetables/fruit/nuts,Agriculture and fishery products,kgCO2e/€,0.2275,2.3
+0122Z,Culture de fruits tropicaux et subtropicaux,Growing of tropical and subtropical fruits,Vegetables/fruit/nuts,Agriculture and fishery products,kgCO2e/€,0.2275,2.3
+0123Z,Culture d'agrumes,Growing of citrus fruits,Vegetables/fruit/nuts,Agriculture and fishery products,kgCO2e/€,0.2275,2.3
+0124Z,Culture de fruits à pépins et à noyau,Growing of pome fruits and stone fruits,Vegetables/fruit/nuts,Agriculture and fishery products,kgCO2e/€,0.2275,2.3
+0125Z,Culture d'autres fruits d'arbres ou d'arbustes et de fruits à coque,Growing of other tree and bush fruits and nuts,Vegetables/fruit/nuts,Agriculture and fishery products,kgCO2e/€,0.2275,2.3
+0126Z,Culture de fruits oléagineux,Growing of oleaginous fruits,Vegetables/fruit/nuts,Agriculture and fishery products,kgCO2e/€,0.2275,2.3
+0127Z,Culture de plantes à boissons,Growing of beverage crops,Crops (not elsewhere specified),Agriculture and fishery products,kgCO2e/€,0.3909,2.3
+0128Z,"Culture de plantes à épices, aromatiques, médicinales et pharmaceutiques","Growing of spices, aromatic, drug and pharmaceutical crops",Crops (not elsewhere specified),Agriculture and fishery products,kgCO2e/€,0.3909,2.3
+0129Z,Autres cultures permanentes,Growing of other perennial crops,Crops (not elsewhere specified),Agriculture and fishery products,kgCO2e/€,0.3909,2.3
+0130Z,Reproduction de plantes,Plant propagation,Crops (not elsewhere specified),Agriculture and fishery products,kgCO2e/€,0.3909,2.3
+0141Z,Élevage de vaches laitières,Raising of dairy cattle,Raw milk,Agriculture and fishery products,kgCO2e/€,2.5494,2.3
+0142Z,Élevage d'autres bovins et de buffles,Raising of other cattle and buffaloes,Cattle,Agriculture and fishery products,kgCO2e/€,4.602,2.3
+0143Z,Élevage de chevaux et d'autres équidés,Raising of horses and other equines,Meat animals (not elsewhere specified),Agriculture and fishery products,kgCO2e/€,2.319,2.3
+0144Z,Élevage de chameaux et d'autres camélidés,Raising of camels and camelids,Meat animals (not elsewhere specified),Agriculture and fishery products,kgCO2e/€,2.319,2.3
+0145Z,Élevage d'ovins et de caprins,Raising of sheep and goats,Meat animals (not elsewhere specified),Agriculture and fishery products,kgCO2e/€,2.319,2.3
+0146Z,Élevage de porcins,Raising of swine/pigs,Pigs,Agriculture and fishery products,kgCO2e/€,0.8548,2.3
+0147Z,Élevage de volailles,Raising of poultry,Meat products (poultry),Agriculture and fishery products,kgCO2e/€,0.3464,2.3
+0149Z,Élevage d'autres animaux,Raising of other animals,Meat animals (not elsewhere specified),Agriculture and fishery products,kgCO2e/€,2.319,2.3
+0150Z,Culture et élevage associés,Mixed farming,Paddy Rice,Agriculture and fishery products,kgCO2e/€,0.265,2.3
+0161Z,Activités de soutien aux cultures,Support activities for crop production,Paddy Rice,Agriculture and fishery products,kgCO2e/€,0.265,2.3
+0162Z,Activités de soutien à la production animale,Support activities for animal production,Cattle,Agriculture and fishery products,kgCO2e/€,4.602,2.3
+0163Z,Traitement primaire des récoltes,Post-harvest crop activities,Paddy Rice,Agriculture and fishery products,kgCO2e/€,0.265,2.3
+0164Z,Traitement des semences,Seed processing for propagation,Paddy Rice,Agriculture and fishery products,kgCO2e/€,0.265,2.3
+0170Z,"Chasse, piégeage et services annexes","Hunting, trapping and related service activities",Meat animals (not elsewhere specified),Agriculture and fishery products,kgCO2e/€,2.319,2.3
+0210Z,Sylviculture et autres activités forestières,Silviculture and other forestry activities,Products of forestry/logging and related services,,kgCO2e/€,0.3231,
+0220Z,Exploitation forestière,Logging,Products of forestry/logging and related services,,kgCO2e/€,0.3231,
+0230Z,Récolte de produits forestiers non ligneux poussant à l'état sauvage,Gathering of wild growing non-wood products,Products of forestry/logging and related services,,kgCO2e/€,0.3231,
+0240Z,Services de soutien à l'exploitation forestière,Support services to forestry,Products of forestry/logging and related services,,kgCO2e/€,0.3231,
+0311Z,Pêche en mer,Marine fishing,Fish and other fishing products/services incidental of fishing,Agriculture and fishery products,kgCO2e/€,0.3248,2.3
+0312Z,Pêche en eau douce,Freshwater fishing,Fish and other fishing products/services incidental of fishing,Agriculture and fishery products,kgCO2e/€,0.3248,2.3
+0321Z,Aquaculture en mer,Marine aquaculture,Fish and other fishing products/services incidental of fishing,Agriculture and fishery products,kgCO2e/€,0.3248,2.3
+0322Z,Aquaculture en eau douce,Freshwater aquaculture,Fish and other fishing products/services incidental of fishing,Agriculture and fishery products,kgCO2e/€,0.3248,2.3
+0510Z,Extraction de houille,Mining of hard coal,Lignite/brown coal,,kgCO2e/€,,
+0520Z,Extraction de lignite,Mining of lignite,Lignite/brown coal,,kgCO2e/€,,
+0610Z,Extraction de pétrole brut,Extraction of crude petroleum,Crude petroleum and services related to crude oil extraction (excluding surveying),,kgCO2e/€,2.1257,
+0620Z,Extraction de gaz naturel,Extraction of natural gas,Natural gas and services related to natural gas extraction (excluding surveying),,kgCO2e/€,,
+0710Z,Extraction de minerais de fer,Mining of iron ores,Iron ores,,kgCO2e/€,,
+0721Z,Extraction de minerais d'uranium et de thorium,Mining of uranium and thorium ores,Uranium and thorium ores,,kgCO2e/€,,
+0729Z,Extraction d'autres minerais de métaux non ferreux,Mining of other non-ferrous metal ores,Copper ores and concentrates,,kgCO2e/€,,
+0811Z,"Extraction de pierres ornementales et de construction, de calcaire industriel, de gypse, de craie et d'ardoise","Quarrying of ornamental and building stone, limestone, gypsum, chalk and slate",Stone,,kgCO2e/€,0.7717,
+0812Z,"Exploitation de gravières et sablières, extraction d'argiles et de kaolin",Operation of gravel and sand pits; mining of clays and kaolin,Sand and clay,,kgCO2e/€,1.0934,
+0891Z,Extraction des minéraux chimiques et d'engrais minéraux,Mining of chemical and fertiliser minerals,Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),,kgCO2e/€,0.314,
+0892Z,Extraction de tourbe,Extraction of peat,Lignite/brown coal,,kgCO2e/€,,
+0893Z,Production de sel,Extraction of salt,Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),,kgCO2e/€,0.314,
+0899Z,Autres activités extractives n.c.a.,Other mining and quarrying n.e.c.,Chemical and fertilizer minerals/salt and other mining and quarrying products (not elsewhere specified),,kgCO2e/€,0.314,
+0910Z,Activités de soutien à l'extraction d'hydrocarbures,Support activities for petroleum and natural gas extraction,Crude petroleum and services related to crude oil extraction (excluding surveying),,kgCO2e/€,2.1257,
+0990Z,Activités de soutien aux autres industries extractives,Support activities for other mining and quarrying,Lignite/brown coal,,kgCO2e/€,,
+1011Z,Transformation et conservation de la viande de boucherie,Processing and preserving of meat,Cattle,Processed foods and foodstuffs,kgCO2e/€,4.602,1
+1012Z,Transformation et conservation de la viande de volaille,Processing and preserving of poultry meat,Meat products (poultry),Processed foods and foodstuffs,kgCO2e/€,0.3464,1
+1013A,Préparation industrielle de produits à base de viande,Industrial production of meat products,Cattle,Processed foods and foodstuffs,kgCO2e/€,4.602,1
+1013B,Charcuterie,Cooked meats production and trade,Cattle,Processed foods and foodstuffs,kgCO2e/€,4.602,1
+1020Z,"Transformation et conservation de poisson, de crustacés et de mollusques","Processing and preserving of fish, crustaceans and molluscs",Fish products,Processed foods and foodstuffs,kgCO2e/€,0.5811,1
+1031Z,Transformation et conservation de pommes de terre,Processing and preserving of potatoes,Food products (not elsewhere specified),Processed foods and foodstuffs,kgCO2e/€,0.4741,1
+1032Z,Préparation de jus de fruits et légumes,Manufacture of fruit and vegetable juice,Food products (not elsewhere specified),Processed foods and foodstuffs,kgCO2e/€,0.4741,1
+1039A,Autre transformation et conservation de légumes,Other processing and preserving of vegetables,Food products (not elsewhere specified),Processed foods and foodstuffs,kgCO2e/€,0.4741,1
+1039B,Transformation et conservation de fruits,Processing and preserving of fruit,Food products (not elsewhere specified),Processed foods and foodstuffs,kgCO2e/€,0.4741,1
+1041A,Fabrication d'huiles et graisses brutes,Manufacture of crude oils and fats,Vegetable oils and fats,Processed foods and foodstuffs,kgCO2e/€,0.2491,1
+1041B,Fabrication d'huiles et graisses raffinées,Manufacture of refined oils and fats,Vegetable oils and fats,Processed foods and foodstuffs,kgCO2e/€,0.2491,1
+1042Z,Fabrication de margarine et graisses comestibles similaires,Manufacture of margarine and similar edible fats,Vegetable oils and fats,Processed foods and foodstuffs,kgCO2e/€,0.2491,1
+1051A,Fabrication de lait liquide et de produits frais,Manufacture of liquid milk and of fresh dairy products,Dairy products,Processed foods and foodstuffs,kgCO2e/€,0.9808,1
+1051B,Fabrication de beurre,Manufacture of butter,Dairy products,Processed foods and foodstuffs,kgCO2e/€,0.9808,1
+1051C,Fabrication de fromage,Manufacture of cheese,Dairy products,Processed foods and foodstuffs,kgCO2e/€,0.9808,1
+1051D,Fabrication d'autres produits laitiers,Manufacture of other dairy products,Dairy products,Processed foods and foodstuffs,kgCO2e/€,0.9808,1
+1052Z,Fabrication de glaces et sorbets,Manufacture of ice cream,Dairy products,Processed foods and foodstuffs,kgCO2e/€,0.9808,1
+1061A,Meunerie,Flour milling,Processed rice,Processed foods and foodstuffs,kgCO2e/€,0.1156,1
+1061B,Autres activités du travail des grains,Other manufacture of grain mill products,Processed rice,Processed foods and foodstuffs,kgCO2e/€,0.1156,1
+1062Z,Fabrication de produits amylacés,Manufacture of starches and starch products,Processed rice,Processed foods and foodstuffs,kgCO2e/€,0.1156,1
+1071A,Fabrication industrielle de pain et de pâtisserie fraîche,Industrial manufacture of bread and fresh pastry,Food products (not elsewhere specified),Processed foods and foodstuffs,kgCO2e/€,0.4741,1
+1071B,Cuisson de produits de boulangerie,Baking of bakery products,Food products (not elsewhere specified),Processed foods and foodstuffs,kgCO2e/€,0.4741,1
+1071C,Boulangerie et boulangerie-pâtisserie,Bakery and bakery confectionery,Food products (not elsewhere specified),Processed foods and foodstuffs,kgCO2e/€,0.4741,1
+1071D,Pâtisserie,Confectionery,Food products (not elsewhere specified),Processed foods and foodstuffs,kgCO2e/€,0.4741,1
+1072Z,"Fabrication de biscuits, biscottes et pâtisseries de conservation",Manufacture of rusks and biscuits; manufacture of preserved pastry goods and cakes,Food products (not elsewhere specified),Processed foods and foodstuffs,kgCO2e/€,0.4741,1
+1073Z,Fabrication de pâtes alimentaires,"Manufacture of macaroni, noodles, couscous and similar farinaceous products",Food products (not elsewhere specified),Processed foods and foodstuffs,kgCO2e/€,0.4741,1
+1081Z,Fabrication de sucre,Manufacture of sugar,Sugar,Processed foods and foodstuffs,kgCO2e/€,0.3251,1
+1082Z,"Fabrication de cacao, chocolat et de produits de confiserie","Manufacture of cocoa, chocolate and sugar confectionery",Food products (not elsewhere specified),Processed foods and foodstuffs,kgCO2e/€,0.4741,1
+1083Z,Transformation du thé et du café,Processing of tea and coffee,Food products (not elsewhere specified),Processed foods and foodstuffs,kgCO2e/€,0.4741,1
+1084Z,Fabrication de condiments et assaisonnements,Manufacture of condiments and seasonings,Food products (not elsewhere specified),Processed foods and foodstuffs,kgCO2e/€,0.4741,1
+1085Z,Fabrication de plats préparés,Manufacture of prepared meals and dishes,Food products (not elsewhere specified),Processed foods and foodstuffs,kgCO2e/€,0.4741,1
+1086Z,Fabrication d'aliments homogénéisés et diététiques,Manufacture of homogenised food preparations and dietetic food,Food products (not elsewhere specified),Processed foods and foodstuffs,kgCO2e/€,0.4741,1
+1089Z,Fabrication d'autres produits alimentaires n.c.a.,Manufacture of other food products n.e.c.,Food products (not elsewhere specified),Processed foods and foodstuffs,kgCO2e/€,0.4741,1
+1091Z,Fabrication d'aliments pour animaux de ferme,Manufacture of prepared feeds for farm animals,Food products (not elsewhere specified),Processed foods and foodstuffs,kgCO2e/€,0.4741,1
+1092Z,Fabrication d'aliments pour animaux de compagnie,Manufacture of prepared pet foods,Food products (not elsewhere specified),Processed foods and foodstuffs,kgCO2e/€,0.4741,1
+1101Z,Production de boissons alcooliques distillées,"Distilling, rectifying and blending of spirits",Beverages,Processed foods and foodstuffs,kgCO2e/€,0.3487,1
+1102A,Fabrication de vins effervescents,Manufacture of sparkling wines,Beverages,Processed foods and foodstuffs,kgCO2e/€,0.3487,1
+1102B,Vinification,Wine-making,Beverages,Processed foods and foodstuffs,kgCO2e/€,0.3487,1
+1103Z,Fabrication de cidre et de vins de fruits,Manufacture of cider and other fruit wines,Beverages,Processed foods and foodstuffs,kgCO2e/€,0.3487,1
+1104Z,Production d'autres boissons fermentées non distillées,Manufacture of other non-distilled fermented beverages,Beverages,Processed foods and foodstuffs,kgCO2e/€,0.3487,1
+1105Z,Fabrication de bière,Manufacture of beer,Beverages,Processed foods and foodstuffs,kgCO2e/€,0.3487,1
+1106Z,Fabrication de malt,Manufacture of malt,Beverages,Processed foods and foodstuffs,kgCO2e/€,0.3487,1
+1107A,Industrie des eaux de table,Production of mineral water,Beverages,Processed foods and foodstuffs,kgCO2e/€,0.3487,1
+1107B,Production de boissons rafraîchissantes,Production of soft drinks,Beverages,Processed foods and foodstuffs,kgCO2e/€,0.3487,1
+1200Z,Fabrication de produits à base de tabac,Manufacture of tobacco products,Tobacco products,,kgCO2e/€,0.1009,
+1310Z,Préparation de fibres textiles et filature,Preparation and spinning of textile fibres,Textiles,Textiles and clothing,kgCO2e/€,0.2508,0.6
+1320Z,Tissage,Weaving of textiles,Textiles,Textiles and clothing,kgCO2e/€,0.2508,0.6
+1330Z,Ennoblissement textile,Finishing of textiles,Textiles,Textiles and clothing,kgCO2e/€,0.2508,0.6
+1391Z,Fabrication d'étoffes à mailles,Manufacture of knitted and crocheted fabrics,Textiles,Textiles and clothing,kgCO2e/€,0.2508,0.6
+1392Z,"Fabrication d'articles textiles, sauf habillement","Manufacture of made-up textile articles, except apparel",Textiles,Textiles and clothing,kgCO2e/€,0.2508,0.6
+1393Z,Fabrication de tapis et moquettes,Manufacture of carpets and rugs,Textiles,Textiles and clothing,kgCO2e/€,0.2508,0.6
+1394Z,"Fabrication de ficelles, cordes et filets","Manufacture of cordage, rope, twine and netting",Textiles,Textiles and clothing,kgCO2e/€,0.2508,0.6
+1395Z,"Fabrication de non-tissés, sauf habillement","Manufacture of non-wovens and articles made from non-wovens, except apparel",Textiles,Textiles and clothing,kgCO2e/€,0.2508,0.6
+1396Z,Fabrication d'autres textiles techniques et industriels,Manufacture of other technical and industrial textiles,Textiles,Textiles and clothing,kgCO2e/€,0.2508,0.6
+1399Z,Fabrication d'autres textiles n.c.a.,Manufacture of other textiles n.e.c.,Textiles,Textiles and clothing,kgCO2e/€,0.2508,0.6
+1411Z,Fabrication de vêtements en cuir,Manufacture of leather clothes,Wearing apparel/furs,Textiles and clothing,kgCO2e/€,0.2085,0.6
+1412Z,Fabrication de vêtements de travail,Manufacture of workwear,Wearing apparel/furs,Textiles and clothing,kgCO2e/€,0.2085,0.6
+1413Z,Fabrication de vêtements de dessus,Manufacture of other outerwear,Wearing apparel/furs,Textiles and clothing,kgCO2e/€,0.2085,0.6
+1414Z,Fabrication de vêtements de dessous,Manufacture of underwear,Wearing apparel/furs,Textiles and clothing,kgCO2e/€,0.2085,0.6
+1419Z,Fabrication d'autres vêtements et accessoires,Manufacture of other wearing apparel and accessories,Wearing apparel/furs,Textiles and clothing,kgCO2e/€,0.2085,0.6
+1420Z,Fabrication d'articles en fourrure,Manufacture of articles of fur,Wearing apparel/furs,Textiles and clothing,kgCO2e/€,0.2085,0.6
+1431Z,Fabrication d'articles chaussants à mailles,Manufacture of knitted and crocheted hosiery,Textiles,Textiles and clothing,kgCO2e/€,0.2508,0.6
+1439Z,Fabrication d'autres articles à mailles,Manufacture of other knitted and crocheted apparel,Textiles,Textiles and clothing,kgCO2e/€,0.2508,0.6
+1511Z,Apprêt et tannage des cuirs ; préparation et teinture des fourrures,Tanning and dressing of leather; dressing and dyeing of fur,Leather and leather products,Textiles and clothing,kgCO2e/€,0.2112,0.6
+1512Z,"Fabrication d'articles de voyage, de maroquinerie et de sellerie","Manufacture of luggage, handbags and the like, saddlery and harness",Leather and leather products,Textiles and clothing,kgCO2e/€,0.2112,0.6
+1520Z,Fabrication de chaussures,Manufacture of footwear,Leather and leather products,Textiles and clothing,kgCO2e/€,0.2112,0.6
+1610A,"Sciage et rabotage du bois, hors imprégnation","Sawmilling and planing of wood, excluding impregnation",Wood and products of wood/cork/straw/plaiting materials,Wood and wood products,kgCO2e/€,0.1899,0.5
+1610B,Imprégnation du bois,Impregnation of wood,Wood and products of wood/cork/straw/plaiting materials,Wood and wood products,kgCO2e/€,0.1899,0.5
+1621Z,Fabrication de placage et de panneaux de bois,Manufacture of veneer sheets and wood-based panels,Wood and products of wood/cork/straw/plaiting materials,Wood and wood products,kgCO2e/€,0.1899,0.5
+1622Z,Fabrication de parquets assemblés,Manufacture of assembled parquet floors,Wood and products of wood/cork/straw/plaiting materials,Wood and wood products,kgCO2e/€,0.1899,0.5
+1623Z,Fabrication de charpentes et d'autres menuiseries,Manufacture of other builders' carpentry and joinery,Wood and products of wood/cork/straw/plaiting materials,Wood and wood products,kgCO2e/€,0.1899,0.5
+1624Z,Fabrication d'emballages en bois,Manufacture of wooden containers,Wood and products of wood/cork/straw/plaiting materials,Wood and wood products,kgCO2e/€,0.1899,0.5
+1629Z,"Fabrication d'objets divers en bois ; fabrication d'objets en liège, vannerie et sparterie","Manufacture of other products of wood; manufacture of articles of cork, straw and plaiting materials",Wood and products of wood/cork/straw/plaiting materials,Wood and wood products,kgCO2e/€,0.1899,0.5
+1711Z,Fabrication de pâte à papier,Manufacture of pulp,Pulp,Paper and cardboard,kgCO2e/€,0.2922,0.9
+1712Z,Fabrication de papier et de carton,Manufacture of paper and paperboard,Pulp,Paper and cardboard,kgCO2e/€,0.2922,0.9
+1721A,Fabrication de carton ondulé,Manufacture of corrugated paperboard,Paper and paper products,Paper and cardboard,kgCO2e/€,0.3326,0.9
+1721B,Fabrication de cartonnages,Manufacture of paperboard and containers of paperboard,Paper and paper products,Paper and cardboard,kgCO2e/€,0.3326,0.9
+1721C,Fabrication d'emballages en papier,Manufacture of containers of paper,Paper and paper products,Paper and cardboard,kgCO2e/€,0.3326,0.9
+1722Z,Fabrication d'articles en papier à usage sanitaire ou domestique,Manufacture of household and sanitary goods and of toilet requisites,Paper and paper products,Paper and cardboard,kgCO2e/€,0.3326,0.9
+1723Z,Fabrication d'articles de papeterie,Manufacture of paper stationery,Paper and paper products,Paper and cardboard,kgCO2e/€,0.3326,0.9
+1724Z,Fabrication de papiers peints,Manufacture of wallpaper,Paper and paper products,Paper and cardboard,kgCO2e/€,0.3326,0.9
+1729Z,Fabrication d'autres articles en papier ou en carton,Manufacture of other articles of paper and paperboard,Paper and paper products,Paper and cardboard,kgCO2e/€,0.3326,0.9
+1811Z,Imprimerie de journaux,Printing of newspapers,Printed matter and recorded media,,kgCO2e/€,0.1425,
+1812Z,Autre imprimerie (labeur),Other printing,Printed matter and recorded media,,kgCO2e/€,0.1425,
+1813Z,Activités de pré-presse,Pre-press and pre-media services,Printed matter and recorded media,,kgCO2e/€,0.1425,
+1814Z,Reliure et activités connexes,Binding and related services,Printed matter and recorded media,,kgCO2e/€,0.1425,
+1820Z,Reproduction d'enregistrements,Reproduction of recorded media,Printed matter and recorded media,,kgCO2e/€,0.1425,
+1910Z,Cokéfaction,Manufacture of coke oven products,Coke oven gas,,kgCO2e/€,0.4975,
+1920Z,Raffinage du pétrole,Manufacture of refined petroleum products,Refinery feedstocks,,kgCO2e/€,,
+2011Z,Fabrication de gaz industriels,Manufacture of industrial gases,Chemicals (not elsewhere specified),Chemicals,kgCO2e/€,0.4021,1.6
+2012Z,Fabrication de colorants et de pigments,Manufacture of dyes and pigments,Chemicals (not elsewhere specified),Chemicals,kgCO2e/€,0.4021,1.6
+2013A,Enrichissement et retraitement de matières nucléaires,Enrichment and reprocessing of nuclear fuel,Chemicals (not elsewhere specified),Chemicals,kgCO2e/€,0.4021,1.6
+2013B,Fabrication d'autres produits chimiques inorganiques de base n.c.a.,Manufacture of other inorganic basic chemicals n.e.c.,Chemicals (not elsewhere specified),Chemicals,kgCO2e/€,0.4021,1.6
+2014Z,Fabrication d'autres produits chimiques organiques de base,Manufacture of other organic basic chemicals,Chemicals (not elsewhere specified),Chemicals,kgCO2e/€,0.4021,1.6
+2015Z,Fabrication de produits azotés et d'engrais,Manufacture of fertilisers and nitrogen compounds,N fertiliser,Chemicals,kgCO2e/€,0.6799,1.6
+2016Z,Fabrication de matières plastiques de base,Manufacture of plastics in primary forms,Plastics/basic,Chemicals,kgCO2e/€,0.2878,1.6
+2017Z,Fabrication de caoutchouc synthétique,Manufacture of synthetic rubber in primary forms,Plastics/basic,Chemicals,kgCO2e/€,0.2878,1.6
+2020Z,Fabrication de pesticides et d'autres produits agrochimiques,Manufacture of pesticides and other agrochemical products,Chemicals (not elsewhere specified),Chemicals,kgCO2e/€,0.4021,1.6
+2030Z,"Fabrication de peintures, vernis, encres et mastics","Manufacture of paints, varnishes and similar coatings, printing ink and mastics",Chemicals (not elsewhere specified),Chemicals,kgCO2e/€,0.4021,1.6
+2041Z,"Fabrication de savons, détergents et produits d'entretien","Manufacture of soap and detergents, cleaning and polishing preparations",Chemicals (not elsewhere specified),Chemicals,kgCO2e/€,0.4021,1.6
+2042Z,Fabrication de parfums et de produits pour la toilette,Manufacture of perfumes and toilet preparations,Chemicals (not elsewhere specified),Chemicals,kgCO2e/€,0.4021,1.6
+2051Z,Fabrication de produits explosifs,Manufacture of explosives,Chemicals (not elsewhere specified),Chemicals,kgCO2e/€,0.4021,1.6
+2052Z,Fabrication de colles,Manufacture of glues,Chemicals (not elsewhere specified),Chemicals,kgCO2e/€,0.4021,1.6
+2053Z,Fabrication d'huiles essentielles,Manufacture of essential oils,Chemicals (not elsewhere specified),Chemicals,kgCO2e/€,0.4021,1.6
+2059Z,Fabrication d'autres produits chimiques n.c.a.,Manufacture of other chemical products n.e.c.,Chemicals (not elsewhere specified),Chemicals,kgCO2e/€,0.4021,1.6
+2060Z,Fabrication de fibres artificielles ou synthétiques,Manufacture of man-made fibres,Chemicals (not elsewhere specified),Chemicals,kgCO2e/€,0.4021,1.6
+2110Z,Fabrication de produits pharmaceutiques de base,Manufacture of basic pharmaceutical products,Chemicals (not elsewhere specified),Pharmaceuticals,kgCO2e/€,0.4021,0.5
+2120Z,Fabrication de préparations pharmaceutiques,Manufacture of pharmaceutical preparations,Chemicals (not elsewhere specified),Pharmaceuticals,kgCO2e/€,0.4021,0.5
+2211Z,Fabrication et rechapage de pneumatiques,Manufacture of rubber tyres and tubes; retreading and rebuilding of rubber tyres,Rubber and plastic products,Plastics and rubber,kgCO2e/€,0.1736,0.8
+2219Z,Fabrication d'autres articles en caoutchouc,Manufacture of other rubber products,Rubber and plastic products,Plastics and rubber,kgCO2e/€,0.1736,0.8
+2221Z,"Fabrication de plaques, feuilles, tubes et profilés en matières plastiques","Manufacture of plastic plates, sheets, tubes and profiles",Rubber and plastic products,Plastics and rubber,kgCO2e/€,0.1736,0.8
+2222Z,Fabrication d'emballages en matières plastiques,Manufacture of plastic packing goods,Rubber and plastic products,Plastics and rubber,kgCO2e/€,0.1736,0.8
+2223Z,Fabrication d'éléments en matières plastiques pour la construction,Manufacture of builders' ware of plastic,Rubber and plastic products,Plastics and rubber,kgCO2e/€,0.1736,0.8
+2229A,Fabrication de pièces techniques à base de matières plastiques,Manufacture of plastic-based technical parts,Rubber and plastic products,Plastics and rubber,kgCO2e/€,0.1736,0.8
+2229B,Fabrication de produits de consommation courante en matières plastiques,Manufacture of common consumer goods of plastic products,Rubber and plastic products,Plastics and rubber,kgCO2e/€,0.1736,0.8
+2311Z,Fabrication de verre plat,Manufacture of flat glass,Glass and glass products,"Mineral products (cement, glass, and so on)",kgCO2e/€,0.4039,1.8
+2312Z,Façonnage et transformation du verre plat,Shaping and processing of flat glass,Glass and glass products,"Mineral products (cement, glass, and so on)",kgCO2e/€,0.4039,1.8
+2313Z,Fabrication de verre creux,Manufacture of hollow glass,Glass and glass products,"Mineral products (cement, glass, and so on)",kgCO2e/€,0.4039,1.8
+2314Z,Fabrication de fibres de verre,Manufacture of glass fibres,Glass and glass products,"Mineral products (cement, glass, and so on)",kgCO2e/€,0.4039,1.8
+2319Z,"Fabrication et façonnage d'autres articles en verre, y compris verre technique","Manufacture and processing of other glass, including technical glassware",Glass and glass products,"Mineral products (cement, glass, and so on)",kgCO2e/€,0.4039,1.8
+2320Z,Fabrication de produits réfractaires,Manufacture of refractory products,Ceramic goods,"Mineral products (cement, glass, and so on)",kgCO2e/€,0.5112,1.8
+2331Z,Fabrication de carreaux en céramique,Manufacture of ceramic tiles and flags,Ceramic goods,"Mineral products (cement, glass, and so on)",kgCO2e/€,0.5112,1.8
+2332Z,"Fabrication de briques, tuiles et produits de construction, en terre cuite","Manufacture of bricks, tiles and construction products, in baked clay",Bricks/tiles and construction products in baked clay,"Mineral products (cement, glass, and so on)",kgCO2e/€,0.5769,1.8
+2341Z,Fabrication d'articles céramiques à usage domestique ou ornemental,Manufacture of ceramic household and ornamental articles,Ceramic goods,"Mineral products (cement, glass, and so on)",kgCO2e/€,0.5112,1.8
+2342Z,Fabrication d'appareils sanitaires en céramique,Manufacture of ceramic sanitary fixtures,Ceramic goods,"Mineral products (cement, glass, and so on)",kgCO2e/€,0.5112,1.8
+2343Z,Fabrication d'isolateurs et pièces isolantes en céramique,Manufacture of ceramic insulators and insulating fittings,Ceramic goods,"Mineral products (cement, glass, and so on)",kgCO2e/€,0.5112,1.8
+2344Z,Fabrication d'autres produits céramiques à usage technique,Manufacture of other technical ceramic products,Ceramic goods,"Mineral products (cement, glass, and so on)",kgCO2e/€,0.5112,1.8
+2349Z,Fabrication d'autres produits céramiques,Manufacture of other ceramic products,Ceramic goods,"Mineral products (cement, glass, and so on)",kgCO2e/€,0.5112,1.8
+2351Z,Fabrication de ciment,Manufacture of cement,Cement/lime and plaster,"Mineral products (cement, glass, and so on)",kgCO2e/€,1.0684,1.8
+2352Z,Fabrication de chaux et plâtre,Manufacture of lime and plaster,Cement/lime and plaster,"Mineral products (cement, glass, and so on)",kgCO2e/€,1.0684,1.8
+2361Z,Fabrication d'éléments en béton pour la construction,Manufacture of concrete products for construction purposes,Other nonmetallic mineral products,"Mineral products (cement, glass, and so on)",kgCO2e/€,0.5683,1.8
+2362Z,Fabrication d'éléments en plâtre pour la construction,Manufacture of plaster products for construction purposes,Other nonmetallic mineral products,"Mineral products (cement, glass, and so on)",kgCO2e/€,0.5683,1.8
+2363Z,Fabrication de béton prêt à l'emploi,Manufacture of ready-mixed concrete,Other nonmetallic mineral products,"Mineral products (cement, glass, and so on)",kgCO2e/€,0.5683,1.8
+2364Z,Fabrication de mortiers et bétons secs,Manufacture of mortars,Other nonmetallic mineral products,"Mineral products (cement, glass, and so on)",kgCO2e/€,0.5683,1.8
+2365Z,Fabrication d'ouvrages en fibre-ciment,Manufacture of fibre cement,Other nonmetallic mineral products,"Mineral products (cement, glass, and so on)",kgCO2e/€,0.5683,1.8
+2369Z,"Fabrication d'autres ouvrages en béton, en ciment ou en plâtre","Manufacture of other articles of concrete, plaster and cement",Other nonmetallic mineral products,"Mineral products (cement, glass, and so on)",kgCO2e/€,0.5683,1.8
+2370Z,"Taille, façonnage et finissage de pierres","Cutting, shaping and finishing of stone",Other nonmetallic mineral products,"Mineral products (cement, glass, and so on)",kgCO2e/€,0.5683,1.8
+2391Z,Fabrication de produits abrasifs,Production of abrasive products,Other nonmetallic mineral products,"Mineral products (cement, glass, and so on)",kgCO2e/€,0.5683,1.8
+2399Z,Fabrication d'autres produits minéraux non métalliques n.c.a.,Manufacture of other non-metallic mineral products n.e.c.,Other nonmetallic mineral products,"Mineral products (cement, glass, and so on)",kgCO2e/€,0.5683,1.8
+2410Z,Sidérurgie,Manufacture of basic iron and steel and of ferro-alloys,Basic iron and steel and of ferroalloys and first products thereof,"Metals (aluminium, copper, steel, and so on)",kgCO2e/€,0.7751,1.7
+2420Z,"Fabrication de tubes, tuyaux, profilés creux et accessoires correspondants en acier","Manufacture of tubes, pipes, hollow profiles and related fittings, of steel",Basic iron and steel and of ferroalloys and first products thereof,"Metals (aluminium, copper, steel, and so on)",kgCO2e/€,0.7751,1.7
+2431Z,Étirage à froid de barres,Cold drawing of bars,Basic iron and steel and of ferroalloys and first products thereof,"Metals (aluminium, copper, steel, and so on)",kgCO2e/€,0.7751,1.7
+2432Z,Laminage à froid de feuillards,Cold rolling of narrow strip,Basic iron and steel and of ferroalloys and first products thereof,"Metals (aluminium, copper, steel, and so on)",kgCO2e/€,0.7751,1.7
+2433Z,Profilage à froid par formage ou pliage,Cold forming or folding,Basic iron and steel and of ferroalloys and first products thereof,"Metals (aluminium, copper, steel, and so on)",kgCO2e/€,0.7751,1.7
+2434Z,Tréfilage à froid,Cold drawing of wire,Basic iron and steel and of ferroalloys and first products thereof,"Metals (aluminium, copper, steel, and so on)",kgCO2e/€,0.7751,1.7
+2441Z,Production de métaux précieux,Precious metals production,Precious metals,"Metals (aluminium, copper, steel, and so on)",kgCO2e/€,0.6982,1.7
+2442Z,Métallurgie de l'aluminium,Aluminium production,Aluminium and aluminium products,"Metals (aluminium, copper, steel, and so on)",kgCO2e/€,0.4009,1.7
+2443Z,"Métallurgie du plomb, du zinc ou de l'étain","Lead, zinc and tin production",Lead/zinc and tin and products thereof,"Metals (aluminium, copper, steel, and so on)",kgCO2e/€,0.5703,1.7
+2444Z,Métallurgie du cuivre,Copper production,Copper products,"Metals (aluminium, copper, steel, and so on)",kgCO2e/€,0.6668,1.7
+2445Z,Métallurgie des autres métaux non ferreux,Other non-ferrous metal production,Other nonferrous metal products,"Metals (aluminium, copper, steel, and so on)",kgCO2e/€,0.3778,1.7
+2446Z,Élaboration et transformation de matières nucléaires,Processing of nuclear fuel,Nuclear fuel,"Metals (aluminium, copper, steel, and so on)",kgCO2e/€,0.2777,1.7
+2451Z,Fonderie de fonte,Casting of iron,Fabricated metal products/except machinery and equipment,"Metals (aluminium, copper, steel, and so on)",kgCO2e/€,0.2634,1.7
+2452Z,Fonderie d'acier,Casting of steel,Fabricated metal products/except machinery and equipment,"Metals (aluminium, copper, steel, and so on)",kgCO2e/€,0.2634,1.7
+2453Z,Fonderie de métaux légers,Casting of light metals,Fabricated metal products/except machinery and equipment,"Metals (aluminium, copper, steel, and so on)",kgCO2e/€,0.2634,1.7
+2454Z,Fonderie d'autres métaux non ferreux,Casting of other non-ferrous metals,Fabricated metal products/except machinery and equipment,"Metals (aluminium, copper, steel, and so on)",kgCO2e/€,0.2634,1.7
+2511Z,Fabrication de structures métalliques et de parties de structures,Manufacture of metal structures and parts of structures,Fabricated metal products/except machinery and equipment,"Metallic products, other than machinery and equipment",kgCO2e/€,0.2634,0.6
+2512Z,Fabrication de portes et fenêtres en métal,Manufacture of doors and windows of metal,Fabricated metal products/except machinery and equipment,"Metallic products, other than machinery and equipment",kgCO2e/€,0.2634,0.6
+2521Z,Fabrication de radiateurs et de chaudières pour le chauffage central,Manufacture of central heating radiators and boilers,Fabricated metal products/except machinery and equipment,"Metallic products, other than machinery and equipment",kgCO2e/€,0.2634,0.6
+2529Z,"Fabrication d'autres réservoirs, citernes et conteneurs métalliques","Manufacture of other tanks, reservoirs and containers of metal",Fabricated metal products/except machinery and equipment,"Metallic products, other than machinery and equipment",kgCO2e/€,0.2634,0.6
+2530Z,"Fabrication de générateurs de vapeur, à l'exception des chaudières pour le chauffage central","Manufacture of steam generators, except central heating hot water boilers",Fabricated metal products/except machinery and equipment,"Metallic products, other than machinery and equipment",kgCO2e/€,0.2634,0.6
+2540Z,Fabrication d'armes et de munitions,Manufacture of weapons and ammunition,Machinery and equipment (not elsewhere specified),"Metallic products, other than machinery and equipment",kgCO2e/€,0.2139,0.6
+2550A,"Forge, estampage, matriçage; métallurgie des poudres","Forging, pressing, stamping; powder metallurgy",Fabricated metal products/except machinery and equipment,"Metallic products, other than machinery and equipment",kgCO2e/€,0.2634,0.6
+2550B,"Découpage, emboutissage","Cutting out, pressing",Fabricated metal products/except machinery and equipment,"Metallic products, other than machinery and equipment",kgCO2e/€,0.2634,0.6
+2561Z,Traitement et revêtement des métaux,Treatment and coating of metals,Fabricated metal products/except machinery and equipment,"Metallic products, other than machinery and equipment",kgCO2e/€,0.2634,0.6
+2562A,Décolletage,Cutting-off,Fabricated metal products/except machinery and equipment,"Metallic products, other than machinery and equipment",kgCO2e/€,0.2634,0.6
+2562B,Mécanique industrielle,Industrial mechanical engineering,Fabricated metal products/except machinery and equipment,"Metallic products, other than machinery and equipment",kgCO2e/€,0.2634,0.6
+2571Z,Fabrication de coutellerie,Manufacture of cutlery,Fabricated metal products/except machinery and equipment,"Metallic products, other than machinery and equipment",kgCO2e/€,0.2634,0.6
+2572Z,Fabrication de serrures et de ferrures,Manufacture of locks and hinges,Fabricated metal products/except machinery and equipment,"Metallic products, other than machinery and equipment",kgCO2e/€,0.2634,0.6
+2573A,Fabrication de moules et modèles,Manufacture of moulds and models,Fabricated metal products/except machinery and equipment,"Metallic products, other than machinery and equipment",kgCO2e/€,0.2634,0.6
+2573B,Fabrication d'autres outillages,Manufacture of other tools,Fabricated metal products/except machinery and equipment,"Metallic products, other than machinery and equipment",kgCO2e/€,0.2634,0.6
+2591Z,Fabrication de fûts et emballages métalliques similaires,Manufacture of steel drums and similar containers,Fabricated metal products/except machinery and equipment,"Metallic products, other than machinery and equipment",kgCO2e/€,0.2634,0.6
+2592Z,Fabrication d'emballages métalliques légers,Manufacture of light metal packaging,Fabricated metal products/except machinery and equipment,"Metallic products, other than machinery and equipment",kgCO2e/€,0.2634,0.6
+2593Z,"Fabrication d'articles en fils métalliques, de chaînes et de ressorts","Manufacture of wire products, chain and springs",Fabricated metal products/except machinery and equipment,"Metallic products, other than machinery and equipment",kgCO2e/€,0.2634,0.6
+2594Z,Fabrication de vis et de boulons,Manufacture of fasteners and screw machine products,Fabricated metal products/except machinery and equipment,"Metallic products, other than machinery and equipment",kgCO2e/€,0.2634,0.6
+2599A,Fabrication d'articles métalliques ménagers,Manufacture of household fabricated metal articles,Fabricated metal products/except machinery and equipment,"Metallic products, other than machinery and equipment",kgCO2e/€,0.2634,0.6
+2599B,Fabrication d'autres articles métalliques,Manufacture of other fabricated metal articles,Fabricated metal products/except machinery and equipment,"Metallic products, other than machinery and equipment",kgCO2e/€,0.2634,0.6
+2611Z,Fabrication de composants électroniques,Manufacture of electronic components,Electrical machinery and apparatus (not elsewhere specified),Electrical and optical IT and office equipment,kgCO2e/€,0.2217,0.4
+2612Z,Fabrication de cartes électroniques assemblées,Manufacture of loaded electronic boards,Radio/television and communication equipment and apparatus,Electrical and optical IT and office equipment,kgCO2e/€,0.1819,0.4
+2620Z,Fabrication d'ordinateurs et d'équipements périphériques,Manufacture of computers and peripheral equipment,Office machinery and computers,Electrical and optical IT and office equipment,kgCO2e/€,0.1278,0.4
+2630Z,Fabrication d'équipements de communication,Manufacture of communication equipment,Electrical machinery and apparatus (not elsewhere specified),Electrical and optical IT and office equipment,kgCO2e/€,0.2217,0.4
+2640Z,Fabrication de produits électroniques grand public,Manufacture of consumer electronics,Radio/television and communication equipment and apparatus,Electrical and optical IT and office equipment,kgCO2e/€,0.1819,0.4
+2651A,Fabrication d'équipements d'aide à la navigation,Manufacture of aid to navigation equipment,Medical/precision and optical instruments/watches and clocks,Electrical and optical IT and office equipment,kgCO2e/€,0.1817,0.4
+2651B,Fabrication d'instrumentation scientifique et technique,Manufacture of scientific and technical instruments,Medical/precision and optical instruments/watches and clocks,Electrical and optical IT and office equipment,kgCO2e/€,0.1817,0.4
+2652Z,Horlogerie,Manufacture of watches and clocks,Medical/precision and optical instruments/watches and clocks,Electrical and optical IT and office equipment,kgCO2e/€,0.1817,0.4
+2660Z,"Fabrication d'équipements d'irradiation médicale, d'équipements électromédicaux et électrothérapeutiques","Manufacture of irradiation, electromedical and electrotherapeutic equipment",Medical/precision and optical instruments/watches and clocks,Electrical and optical IT and office equipment,kgCO2e/€,0.1817,0.4
+2670Z,Fabrication de matériels optique et photographique,Manufacture of optical instruments and photographic equipment,Medical/precision and optical instruments/watches and clocks,Electrical and optical IT and office equipment,kgCO2e/€,0.1817,0.4
+2680Z,Fabrication de supports magnétiques et optiques,Manufacture of magnetic and optical media,Medical/precision and optical instruments/watches and clocks,Electrical and optical IT and office equipment,kgCO2e/€,0.1817,0.4
+2711Z,"Fabrication de moteurs, génératrices et transformateurs électriques","Manufacture of electric motors, generators and transformers",Electrical machinery and apparatus (not elsewhere specified),Machinery and equipment,kgCO2e/€,0.2217,0.7
+2712Z,Fabrication de matériel de distribution et de commande électrique,Manufacture of electricity distribution and control apparatus,Electrical machinery and apparatus (not elsewhere specified),Machinery and equipment,kgCO2e/€,0.2217,0.7
+2720Z,Fabrication de piles et d'accumulateurs électriques,Manufacture of batteries and accumulators,Electrical machinery and apparatus (not elsewhere specified),Machinery and equipment,kgCO2e/€,0.2217,0.7
+2731Z,Fabrication de câbles de fibres optiques,Manufacture of fibre optic cables,Electrical machinery and apparatus (not elsewhere specified),Machinery and equipment,kgCO2e/€,0.2217,0.7
+2732Z,Fabrication d'autres fils et câbles électroniques ou électriques,Manufacture of other electronic and electric wires and cables,Electrical machinery and apparatus (not elsewhere specified),Machinery and equipment,kgCO2e/€,0.2217,0.7
+2733Z,Fabrication de matériel d'installation électrique,Manufacture of wiring devices,Electrical machinery and apparatus (not elsewhere specified),Machinery and equipment,kgCO2e/€,0.2217,0.7
+2740Z,Fabrication d'appareils d'éclairage électrique,Manufacture of electric lighting equipment,Electrical machinery and apparatus (not elsewhere specified),Machinery and equipment,kgCO2e/€,0.2217,0.7
+2751Z,Fabrication d'appareils électroménagers,Manufacture of electric domestic appliances,Machinery and equipment (not elsewhere specified),Machinery and equipment,kgCO2e/€,0.2139,0.7
+2752Z,Fabrication d'appareils ménagers non électriques,Manufacture of non-electric domestic appliances,Machinery and equipment (not elsewhere specified),Machinery and equipment,kgCO2e/€,0.2139,0.7
+2790Z,Fabrication d'autres matériels électriques,Manufacture of other electrical equipment,Electrical machinery and apparatus (not elsewhere specified),Machinery and equipment,kgCO2e/€,0.2217,0.7
+2811Z,"Fabrication de moteurs et turbines, à l'exception des moteurs d'avions et de véhicules","Manufacture of engines and turbines, except aircraft, vehicle and cycle engines",Machinery and equipment (not elsewhere specified),Machinery and equipment,kgCO2e/€,0.2139,0.7
+2812Z,Fabrication d'équipements hydrauliques et pneumatiques,Manufacture of fluid power equipment,Machinery and equipment (not elsewhere specified),Machinery and equipment,kgCO2e/€,0.2139,0.7
+2813Z,Fabrication d'autres pompes et compresseurs,Manufacture of other pumps and compressors,Machinery and equipment (not elsewhere specified),Machinery and equipment,kgCO2e/€,0.2139,0.7
+2814Z,Fabrication d'autres articles de robinetterie,Manufacture of other taps and valves,Machinery and equipment (not elsewhere specified),Machinery and equipment,kgCO2e/€,0.2139,0.7
+2815Z,Fabrication d'engrenages et d'organes mécaniques de transmission,"Manufacture of bearings, gears, gearing and driving elements",Machinery and equipment (not elsewhere specified),Machinery and equipment,kgCO2e/€,0.2139,0.7
+2821Z,Fabrication de fours et brûleurs,"Manufacture of ovens, furnaces and furnace burners",Machinery and equipment (not elsewhere specified),Machinery and equipment,kgCO2e/€,0.2139,0.7
+2822Z,Fabrication de matériel de levage et de manutention,Manufacture of lifting and handling equipment,Machinery and equipment (not elsewhere specified),Machinery and equipment,kgCO2e/€,0.2139,0.7
+2823Z,Fabrication de machines et d'équipements de bureau (à l'exception des ordinateurs et équipements périphériques),Manufacture of office machinery and equipment (except computers and peripheral equipment),Office machinery and computers,Machinery and equipment,kgCO2e/€,0.1278,0.7
+2824Z,Fabrication d'outillage portatif à moteur incorporé,Manufacture of power-driven hand tools,Machinery and equipment (not elsewhere specified),Machinery and equipment,kgCO2e/€,0.2139,0.7
+2825Z,Fabrication d'équipements aérauliques et frigorifiques industriels,Manufacture of non-domestic cooling and ventilation equipment,Machinery and equipment (not elsewhere specified),Machinery and equipment,kgCO2e/€,0.2139,0.7
+2829A,"Fabrication d'équipements d'emballage, de conditionnement et de pesage","Manufacture of packing, packaging and weighing equipment",Machinery and equipment (not elsewhere specified),Machinery and equipment,kgCO2e/€,0.2139,0.7
+2829B,Fabrication d'autres machines d'usage général,Manufacture of other general purpose machinery,Machinery and equipment (not elsewhere specified),Machinery and equipment,kgCO2e/€,0.2139,0.7
+2830Z,Fabrication de machines agricoles et forestières,Manufacture of agricultural and forestry machinery,Machinery and equipment (not elsewhere specified),Machinery and equipment,kgCO2e/€,0.2139,0.7
+2841Z,Fabrication de machines-outils pour le travail des métaux,Manufacture of machine-tools for metal work,Machinery and equipment (not elsewhere specified),Machinery and equipment,kgCO2e/€,0.2139,0.7
+2849Z,Fabrication d'autres machines-outils,Manufacture of other machine tools,Machinery and equipment (not elsewhere specified),Machinery and equipment,kgCO2e/€,0.2139,0.7
+2891Z,Fabrication de machines pour la métallurgie,Manufacture of machinery for metallurgy,Machinery and equipment (not elsewhere specified),Machinery and equipment,kgCO2e/€,0.2139,0.7
+2892Z,Fabrication de machines pour l'extraction ou la construction,"Manufacture of machinery for mining, quarrying and construction",Machinery and equipment (not elsewhere specified),Machinery and equipment,kgCO2e/€,0.2139,0.7
+2893Z,Fabrication de machines pour l'industrie agro-alimentaire,"Manufacture of machinery for food, beverage and tobacco processing",Machinery and equipment (not elsewhere specified),Machinery and equipment,kgCO2e/€,0.2139,0.7
+2894Z,Fabrication de machines pour les industries textiles,"Manufacture of machinery for textile, apparel and leather production",Machinery and equipment (not elsewhere specified),Machinery and equipment,kgCO2e/€,0.2139,0.7
+2895Z,Fabrication de machines pour les industries du papier et du carton,Manufacture of machinery for paper and paperboard production,Machinery and equipment (not elsewhere specified),Machinery and equipment,kgCO2e/€,0.2139,0.7
+2896Z,Fabrication de machines pour le travail du caoutchouc ou des plastiques,Manufacture of plastics and rubber machinery,Machinery and equipment (not elsewhere specified),Machinery and equipment,kgCO2e/€,0.2139,0.7
+2899A,Fabrication de machines d'imprimerie,Manufacture of printing machinery,Machinery and equipment (not elsewhere specified),Machinery and equipment,kgCO2e/€,0.2139,0.7
+2899B,Fabrication d'autres machines spécialisées,Manufacture of other special purpose machinery,Machinery and equipment (not elsewhere specified),Machinery and equipment,kgCO2e/€,0.2139,0.7
+2910Z,Construction de véhicules automobiles,Manufacture of motor vehicles,Motor vehicles/trailers and semitrailers,,kgCO2e/€,0.2422,
+2920Z,Fabrication de carrosseries et remorques,Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers,Motor vehicles/trailers and semitrailers,,kgCO2e/€,0.2422,
+2931Z,Fabrication d'équipements électriques et électroniques automobiles,Manufacture of electrical and electronic equipment for motor vehicles,Electrical machinery and apparatus (not elsewhere specified),,kgCO2e/€,0.2217,
+2932Z,Fabrication d'autres équipements automobiles,Manufacture of other parts and accessories for motor vehicles,Motor vehicles/trailers and semitrailers,,kgCO2e/€,0.2422,
+3011Z,Construction de navires et de structures flottantes,Building of ships and floating structures,Other transport equipment,Transport equipment,kgCO2e/€,0.2152,0.7
+3012Z,Construction de bateaux de plaisance,Building of pleasure and sporting boats,Other transport equipment,Transport equipment,kgCO2e/€,0.2152,0.7
+3020Z,Construction de locomotives et d'autre matériel ferroviaire roulant,Manufacture of railway locomotives and rolling stock,Other transport equipment,Transport equipment,kgCO2e/€,0.2152,0.7
+3030Z,Construction aéronautique et spatiale,Manufacture of air and spacecraft and related machinery,Other transport equipment,Transport equipment,kgCO2e/€,0.2152,0.7
+3040Z,Construction de véhicules militaires de combat,Manufacture of military fighting vehicles,Other transport equipment,Transport equipment,kgCO2e/€,0.2152,0.7
+3091Z,Fabrication de motocycles,Manufacture of motorcycles,Motor vehicles/trailers and semitrailers,Transport equipment,kgCO2e/€,0.2422,0.7
+3092Z,Fabrication de bicyclettes et de véhicules pour invalides,Manufacture of bicycles and invalid carriages,Other transport equipment,Transport equipment,kgCO2e/€,0.2152,0.7
+3099Z,Fabrication d'autres équipements de transport n.c.a.,Manufacture of other transport equipment n.e.c.,Other transport equipment,Transport equipment,kgCO2e/€,0.2152,0.7
+3101Z,Fabrication de meubles de bureau et de magasin,Manufacture of office and shop furniture,Furniture/other manufactured goods (not elsewhere specified),Furniture and other manufactured goods,kgCO2e/€,0.1881,0.5
+3102Z,Fabrication de meubles de cuisine,Manufacture of kitchen furniture,Furniture/other manufactured goods (not elsewhere specified),Furniture and other manufactured goods,kgCO2e/€,0.1881,0.5
+3103Z,Fabrication de matelas,Manufacture of mattresses,Furniture/other manufactured goods (not elsewhere specified),Furniture and other manufactured goods,kgCO2e/€,0.1881,0.5
+3109A,Fabrication de sièges d'ameublement d'intérieur,Manufacture of home furnishing chairs and seats,Furniture/other manufactured goods (not elsewhere specified),Furniture and other manufactured goods,kgCO2e/€,0.1881,0.5
+3109B,Fabrication d'autres meubles et industries connexes de l'ameublement,Manufacture of other furniture and industry closely related to furnishing,Furniture/other manufactured goods (not elsewhere specified),Furniture and other manufactured goods,kgCO2e/€,0.1881,0.5
+3211Z,Frappe de monnaie,Striking of coins,Furniture/other manufactured goods (not elsewhere specified),Furniture and other manufactured goods,kgCO2e/€,0.1881,0.5
+3212Z,Fabrication d'articles de joaillerie et bijouterie,Manufacture of jewellery and related articles,Furniture/other manufactured goods (not elsewhere specified),Furniture and other manufactured goods,kgCO2e/€,0.1881,0.5
+3213Z,Fabrication d'articles de bijouterie fantaisie et articles similaires,Manufacture of imitation jewellery and related articles,Furniture/other manufactured goods (not elsewhere specified),Furniture and other manufactured goods,kgCO2e/€,0.1881,0.5
+3220Z,Fabrication d'instruments de musique,Manufacture of musical instruments,Furniture/other manufactured goods (not elsewhere specified),Furniture and other manufactured goods,kgCO2e/€,0.1881,0.5
+3230Z,Fabrication d'articles de sport,Manufacture of sports goods,Furniture/other manufactured goods (not elsewhere specified),Furniture and other manufactured goods,kgCO2e/€,0.1881,0.5
+3240Z,Fabrication de jeux et jouets,Manufacture of games and toys,Furniture/other manufactured goods (not elsewhere specified),Furniture and other manufactured goods,kgCO2e/€,0.1881,0.5
+3250A,Fabrication de matériel médico-chirurgical et dentaire,"Manufacture of medical, surgical and dental equipment",Medical/precision and optical instruments/watches and clocks,Furniture and other manufactured goods,kgCO2e/€,0.1817,0.5
+3250B,Fabrication de lunettes,Manufacture of glasses,Medical/precision and optical instruments/watches and clocks,Furniture and other manufactured goods,kgCO2e/€,0.1817,0.5
+3291Z,Fabrication d'articles de brosserie,Manufacture of brooms and brushes,Furniture/other manufactured goods (not elsewhere specified),Furniture and other manufactured goods,kgCO2e/€,0.1881,0.5
+3299Z,Autres activités manufacturières n.c.a.,Other manufacturing n.e.c.,Furniture/other manufactured goods (not elsewhere specified),Furniture and other manufactured goods,kgCO2e/€,0.1881,0.5
+3311Z,Réparation d'ouvrages en métaux,Repair of fabricated metal products,Fabricated metal products/except machinery and equipment,Machinery and equipment installation and repairs,kgCO2e/€,0.2634,0.39
+3312Z,Réparation de machines et équipements mécaniques,Repair of machinery,Machinery and equipment (not elsewhere specified),Machinery and equipment installation and repairs,kgCO2e/€,0.2139,0.39
+3313Z,Réparation de matériels électroniques et optiques,Repair of electronic and optical equipment,Electrical machinery and apparatus (not elsewhere specified),Machinery and equipment installation and repairs,kgCO2e/€,0.2217,0.39
+3314Z,Réparation d'équipements électriques,Repair of electrical equipment,Electrical machinery and apparatus (not elsewhere specified),Machinery and equipment installation and repairs,kgCO2e/€,0.2217,0.39
+3315Z,Réparation et maintenance navale,Repair and maintenance of ships and boats,Other transport equipment,Machinery and equipment installation and repairs,kgCO2e/€,0.2152,0.39
+3316Z,Réparation et maintenance d'aéronefs et d'engins spatiaux,Repair and maintenance of aircraft and spacecraft,Other transport equipment,Machinery and equipment installation and repairs,kgCO2e/€,0.2152,0.39
+3317Z,Réparation et maintenance d'autres équipements de transport,Repair and maintenance of other transport equipment,Other transport equipment,Machinery and equipment installation and repairs,kgCO2e/€,0.2152,0.39
+3319Z,Réparation d'autres équipements,Repair of other equipment,Furniture/other manufactured goods (not elsewhere specified),Machinery and equipment installation and repairs,kgCO2e/€,0.1881,0.39
+3320A,"Installation de structures métalliques, chaudronnées et de tuyauterie","Installation of metallic, boiler structures and pipes",Machinery and equipment (not elsewhere specified),Machinery and equipment installation and repairs,kgCO2e/€,0.2139,0.39
+3320B,Installation de machines et équipements mécaniques,Installation of machinery and mechanical equipment,Machinery and equipment (not elsewhere specified),Machinery and equipment installation and repairs,kgCO2e/€,0.2139,0.39
+3320C,Conception d'ensemble et assemblage sur site industriel d'équipements de contrôle des processus industriels,Overall conception and assembly of industrial process control equipment in industrial plant,Machinery and equipment (not elsewhere specified),Machinery and equipment installation and repairs,kgCO2e/€,0.2139,0.39
+3320D,"Installation d'équipements électriques, de matériels électroniques et optiques ou d'autres matériels","Installation of electrical equipment, electronic and optical equipment or other equipment",Machinery and equipment (not elsewhere specified),Machinery and equipment installation and repairs,kgCO2e/€,0.2139,0.39
+3511Z,Production d'électricité,Production of electricity,Electricity generated from coal,,kgCO2e/€,4.694,
+3512Z,Transport d'électricité,Transmission of electricity,Transmission of electricity (services),,kgCO2e/€,0.7241,
+3513Z,Distribution d'électricité,Distribution of electricity,Distribution and trade of electricity (services),,kgCO2e/€,0.7404,
+3514Z,Commerce d'électricité,Trade of electricity,Distribution and trade of electricity (services),,kgCO2e/€,0.7404,
+3521Z,Production de combustibles gazeux,Manufacture of gas,Distribution of gaseous fuels through mains (services),,kgCO2e/€,0.4987,
+3522Z,Distribution de combustibles gazeux par conduites,Distribution of gaseous fuels through mains,Distribution of gaseous fuels through mains (services),,kgCO2e/€,0.4987,
+3523Z,Commerce de combustibles gazeux par conduites,Trade of gas through mains,Distribution of gaseous fuels through mains (services),,kgCO2e/€,0.4987,
+3530Z,Production et distribution de vapeur et d'air conditionné,Steam and air conditioning supply,Steam and hot water supply (services),,kgCO2e/€,1.8574,
+3600Z,"Captage, traitement et distribution d'eau","Water collection, treatment and supply",Collected and purified water/distribution of water (services),,kgCO2e/€,0.1276,
+3700Z,Collecte et traitement des eaux usées,Sewerage,Other waste for treatment: waste water treatment,,kgCO2e/€,1.1805,
+3811Z,Collecte des déchets non dangereux,Collection of non-hazardous waste,Food waste for treatment: incineration,,kgCO2e/€,0.2077,
+3812Z,Collecte des déchets dangereux,Collection of hazardous waste,Food waste for treatment: incineration,,kgCO2e/€,0.2077,
+3821Z,Traitement et élimination des déchets non dangereux,Treatment and disposal of non-hazardous waste,Food waste for treatment: incineration,,kgCO2e/€,0.2077,
+3822Z,Traitement et élimination des déchets dangereux,Treatment and disposal of hazardous waste,Food waste for treatment: incineration,,kgCO2e/€,0.2077,
+3831Z,Démantèlement d'épaves,Dismantling of wrecks,Inert/metal/hazardous waste for treatment: landfill,,kgCO2e/€,0.1925,
+3832Z,Récupération de déchets triés,Recovery of sorted materials,Inert/metal/hazardous waste for treatment: landfill,,kgCO2e/€,0.1925,
+3900Z,Dépollution et autres services de gestion des déchets,Remediation activities and other waste management services,Food waste for treatment: incineration,,kgCO2e/€,0.2077,
+4110A,Promotion immobilière de logements,Development and selling of dwellings,Construction work,Construction,kgCO2e/€,0.2332,0.36
+4110B,Promotion immobilière de bureaux,Development and selling of offices,Construction work,Construction,kgCO2e/€,0.2332,0.36
+4110C,Promotion immobilière d'autres bâtiments,Development and selling of other buildings,Construction work,Construction,kgCO2e/€,0.2332,0.36
+4110D,Supports juridiques de programmes,Juridical compartmentalization of property programmes,Construction work,Construction,kgCO2e/€,0.2332,0.36
+4120A,Construction de maisons individuelles,Construction of detached and semi-detached houses,Construction work,Construction,kgCO2e/€,0.2332,0.36
+4120B,Construction d'autres bâtiments,Construction of other buildings,Construction work,Construction,kgCO2e/€,0.2332,0.36
+4211Z,Construction de routes et autoroutes,Construction of roads and motorways,Construction work,Construction,kgCO2e/€,0.2332,0.36
+4212Z,Construction de voies ferrées de surface et souterraines,Construction of railways and underground railways,Construction work,Construction,kgCO2e/€,0.2332,0.36
+4213A,Construction d'ouvrages d'art,Construction of civil engineering structures,Construction work,Construction,kgCO2e/€,0.2332,0.36
+4213B,Construction et entretien de tunnels,Construction and maintenance of tunnels,Construction work,Construction,kgCO2e/€,0.2332,0.36
+4221Z,Construction de réseaux pour fluides,Construction of utility projects for fluids,Construction work,Construction,kgCO2e/€,0.2332,0.36
+4222Z,Construction de réseaux électriques et de télécommunications,Construction of utility projects for electricity and telecommunications,Construction work,Construction,kgCO2e/€,0.2332,0.36
+4291Z,Construction d'ouvrages maritimes et fluviaux,Construction of water projects,Construction work,Construction,kgCO2e/€,0.2332,0.36
+4299Z,Construction d'autres ouvrages de génie civil n.c.a.,Construction of other civil engineering projects n.e.c.,Construction work,Construction,kgCO2e/€,0.2332,0.36
+4311Z,Travaux de démolition,Demolition,Construction work,Construction,kgCO2e/€,0.2332,0.36
+4312A,Travaux de terrassement courants et travaux préparatoires,Standard earth moving and preparation works,Construction work,Construction,kgCO2e/€,0.2332,0.36
+4312B,Travaux de terrassement spécialisés ou de grande masse,Specialized earth moving or in great mass,Construction work,Construction,kgCO2e/€,0.2332,0.36
+4313Z,Forages et sondages,Test drilling and boring,Construction work,Construction,kgCO2e/€,0.2332,0.36
+4321A,Travaux d'installation électrique dans tous locaux,Installation works of electrical wiring and fittings in all kind of buildings,Construction work,Construction,kgCO2e/€,0.2332,0.36
+4321B,Travaux d'installation électrique sur la voie publique,Installation works of electrical wiring and fittings on public thoroughfare,Construction work,Construction,kgCO2e/€,0.2332,0.36
+4322A,Travaux d'installation d'eau et de gaz en tous locaux,Water and gas installation works in all kind of premises,Construction work,Construction,kgCO2e/€,0.2332,0.36
+4322B,Travaux d'installation d'équipements thermiques et de climatisation,Installation works of thermic and air conditioning equipment,Construction work,Construction,kgCO2e/€,0.2332,0.36
+4329A,Travaux d'isolation,Insulation work activities,Construction work,Construction,kgCO2e/€,0.2332,0.36
+4329B,Autres travaux d'installation n.c.a.,Other building installation works n.e.c.,Construction work,Construction,kgCO2e/€,0.2332,0.36
+4331Z,Travaux de plâtrerie,Plastering,Construction work,Construction,kgCO2e/€,0.2332,0.36
+4332A,Travaux de menuiserie bois et PVC,Wood and PVC joinery works,Construction work,Construction,kgCO2e/€,0.2332,0.36
+4332B,Travaux de menuiserie métallique et serrurerie,Metal joinery works and ironwork,Construction work,Construction,kgCO2e/€,0.2332,0.36
+4332C,Agencement de lieux de vente,Finishing of sale premises,Construction work,Construction,kgCO2e/€,0.2332,0.36
+4333Z,Travaux de revêtement des sols et des murs,Floor and wall covering,Construction work,Construction,kgCO2e/€,0.2332,0.36
+4334Z,Travaux de peinture et vitrerie,Painting and glazing,Construction work,Construction,kgCO2e/€,0.2332,0.36
+4339Z,Autres travaux de finition,Other building completion and finishing,Construction work,Construction,kgCO2e/€,0.2332,0.36
+4391A,Travaux de charpente,Roof frames works,Construction work,Construction,kgCO2e/€,0.2332,0.36
+4391B,Travaux de couverture par éléments,Roof covering activities by elements,Construction work,Construction,kgCO2e/€,0.2332,0.36
+4399A,Travaux d'étanchéification,Waterproofness works,Construction work,Construction,kgCO2e/€,0.2332,0.36
+4399B,Travaux de montage de structures métalliques,Assembly works of metal structures,Construction work,Construction,kgCO2e/€,0.2332,0.36
+4399C,Travaux de maçonnerie générale et gros œuvre de bâtiment,Masonery works and building structural works,Construction work,Construction,kgCO2e/€,0.2332,0.36
+4399D,Autres travaux spécialisés de construction,Other construction works involving special trades,Construction work,Construction,kgCO2e/€,0.2332,0.36
+4399E,Location avec opérateur de matériel de construction,Renting of construction equipment with operator,Construction work,Construction,kgCO2e/€,0.2332,0.36
+4511Z,Commerce de voitures et de véhicules automobiles légers,Sale of cars and light motor vehicles,Sale/maintenance/repair/parts/accessories of motor vehicles/motorcycles,,kgCO2e/€,0.0539,
+4519Z,Commerce d'autres véhicules automobiles,Sale of other motor vehicles,Sale/maintenance/repair/parts/accessories of motor vehicles/motorcycles,,kgCO2e/€,0.0539,
+4520A,Entretien et réparation de véhicules automobiles légers,Maintenance and repair of light motor vehicles,Sale/maintenance/repair/parts/accessories of motor vehicles/motorcycles,,kgCO2e/€,0.0539,
+4520B,Entretien et réparation d'autres véhicules automobiles,Maintenance and repair of other motor vehicles,Sale/maintenance/repair/parts/accessories of motor vehicles/motorcycles,,kgCO2e/€,0.0539,
+4531Z,Commerce de gros d'équipements automobiles,Wholesale trade of motor vehicle parts and accessories,Sale/maintenance/repair/parts/accessories of motor vehicles/motorcycles,,kgCO2e/€,0.0539,
+4532Z,Commerce de détail d'équipements automobiles,Retail trade of motor vehicle parts and accessories,Sale/maintenance/repair/parts/accessories of motor vehicles/motorcycles,,kgCO2e/€,0.0539,
+4540Z,Commerce et réparation de motocycles,"Sale, maintenance and repair of motorcycles and related parts and accessories",Sale/maintenance/repair/parts/accessories of motor vehicles/motorcycles,,kgCO2e/€,0.0539,
+4611Z,"Intermédiaires du commerce en matières premières agricoles, animaux vivants, matières premières textiles et produits semi-finis","Agents involved in the sale of agricultural raw materials, live animals, textile raw materials and semi-finished goods",Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4612A,Centrales d'achat de carburant,Automotive fuel buying groups,Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4612B,"Autres intermédiaires du commerce en combustibles, métaux, minéraux et produits chimiques","Other agents involved in the sale of fuels, ores, metals and industrial chemicals",Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4613Z,Intermédiaires du commerce en bois et matériaux de construction,Agents involved in the sale of timber and building materials,Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4614Z,"Intermédiaires du commerce en machines, équipements industriels, navires et avions","Agents involved in the sale of machinery, industrial equipment, ships and aircraft",Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4615Z,"Intermédiaires du commerce en meubles, articles de ménage et quincaillerie","Agents involved in the sale of furniture, household goods, hardware and ironmongery",Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4616Z,"Intermédiaires du commerce en textiles, habillement, fourrures, chaussures et articles en cuir","Agents involved in the sale of textiles, clothing, fur, footwear and leather goods",Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4617A,Centrales d'achat alimentaires,Food buying groups,Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4617B,"Autres intermédiaires du commerce en denrées, boissons et tabac","Other agents involved in the sale of food, beverages and tobacco",Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4618Z,Intermédiaires spécialisés dans le commerce d'autres produits spécifiques,Agents specialised in the sale of other particular products,Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4619A,Centrales d'achat non alimentaires,Non food buying groups,Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4619B,Autres intermédiaires du commerce en produits divers,Other agents involved in the sale of a variety of goods,Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4621Z,"Commerce de gros (commerce interentreprises) de céréales, de tabac non manufacturé, de semences et d'aliments pour le bétail","Wholesale (intercompany trade) of grain, unmanufactured tobacco, seeds and animal feeds",Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4622Z,Commerce de gros (commerce interentreprises) de fleurs et plantes,Wholesale (intercompany trade) of flowers and plants,Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4623Z,Commerce de gros (commerce interentreprises) d'animaux vivants,Wholesale (intercompany trade) of live animals,Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4624Z,Commerce de gros (commerce interentreprises) de cuirs et peaux,"Wholesale (intercompany trade) of hides, skins and leather",Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4631Z,Commerce de gros (commerce interentreprises) de fruits et légumes,Wholesale (intercompany trade) of fruit and vegetables,Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4632A,Commerce de gros (commerce interentreprises) de viandes de boucherie,Wholesale (intercompany trade) of fresh meat,Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4632B,Commerce de gros (commerce interentreprises) de produits à base de viande,Wholesale (intercompany trade) of meat products,Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4632C,Commerce de gros (commerce interentreprises) de volailles et gibier,Wholesale (intercompany trade) of poultry and game,Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4633Z,"Commerce de gros (commerce interentreprises) de produits laitiers, œufs, huiles et matières grasses comestibles","Wholesale (intercompany trade) of dairy products, eggs and edible oils and fats",Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4634Z,Commerce de gros (commerce interentreprises) de boissons,Wholesale (intercompany trade) of beverages,Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4635Z,Commerce de gros (commerce interentreprises) de produits à base de tabac,Wholesale (intercompany trade) of tobacco products,Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4636Z,"Commerce de gros (commerce interentreprises) de sucre, chocolat et confiserie",Wholesale (intercompany trade) of sugar and chocolate and sugar confectionery,Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4637Z,"Commerce de gros (commerce interentreprises) de café, thé, cacao et épices","Wholesale (intercompany trade) of coffee, tea, cocoa and spices",Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4638A,"Commerce de gros (commerce interentreprises) de poissons, crustacés et mollusques","Wholesale (intercompany trade) of fish, crustaceans and molluscs",Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4638B,Commerce de gros (commerce interentreprises) alimentaire spécialisé divers,"Wholesale (intercompany trade) of sundry food, specialized",Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4639A,Commerce de gros (commerce interentreprises) de produits surgelés,Wholesale (intercompany trade) of frozen products,Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4639B,Commerce de gros (commerce interentreprises) alimentaire non spécialisé,"Wholesale (intercompany trade) of food, non specialized",Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4641Z,Commerce de gros (commerce interentreprises) de textiles,Wholesale (intercompany trade) of textiles,Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4642Z,Commerce de gros (commerce interentreprises) d'habillement et de chaussures,Wholesale (intercompany trade) of clothing and footwear,Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4643Z,Commerce de gros (commerce interentreprises) d'appareils électroménagers,Wholesale (intercompany trade) of electrical household appliances,Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4644Z,"Commerce de gros (commerce interentreprises) de vaisselle, verrerie et produits d'entretien",Wholesale (intercompany trade) of china and glassware and cleaning materials,Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4645Z,Commerce de gros (commerce interentreprises) de parfumerie et de produits de beauté,Wholesale (intercompany trade) of perfume and cosmetics,Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4646Z,Commerce de gros (commerce interentreprises) de produits pharmaceutiques,Wholesale (intercompany trade) of pharmaceutical goods,Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4647Z,"Commerce de gros (commerce interentreprises) de meubles, de tapis et d'appareils d'éclairage","Wholesale (intercompany trade) of furniture, carpets and lighting equipment",Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4648Z,Commerce de gros (commerce interentreprises) d'articles d'horlogerie et de bijouterie,Wholesale (intercompany trade) of watches and jewellery,Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4649Z,Commerce de gros (commerce interentreprises) d'autres biens domestiques,Wholesale (intercompany trade) of other household goods,Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4651Z,"Commerce de gros (commerce interentreprises) d'ordinateurs, d'équipements informatiques périphériques et de logiciels","Wholesale (intercompany trade) of computers, computer peripheral equipment and software",Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4652Z,Commerce de gros (commerce interentreprises) de composants et d'équipements électroniques et de télécommunication,Wholesale (intercompany trade) of electronic and telecommunications equipment and parts,Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4661Z,Commerce de gros (commerce interentreprises) de matériel agricole,"Wholesale (intercompany trade) of agricultural machinery, equipment and supplies",Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4662Z,Commerce de gros (commerce interentreprises) de machines-outils,Wholesale (intercompany trade) of machine tools,Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4663Z,"Commerce de gros (commerce interentreprises) de machines pour l'extraction, la construction et le génie civil","Wholesale (intercompany trade) of mining, construction and civil engineering machinery",Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4664Z,Commerce de gros (commerce interentreprises) de machines pour l'industrie textile et l'habillement,Wholesale (intercompany trade) of machinery for the textile industry and of sewing and knitting machines,Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4665Z,Commerce de gros (commerce interentreprises) de mobilier de bureau,Wholesale (intercompany trade) of office furniture,Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4666Z,Commerce de gros (commerce interentreprises) d'autres machines et équipements de bureau,Wholesale (intercompany trade) of other office machinery and equipment,Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4669A,Commerce de gros (commerce interentreprises) de matériel électrique,Wholesale (intercompany trade) of electric equipment,Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4669B,Commerce de gros (commerce interentreprises) de fournitures et équipements industriels divers,Wholesale (intercompany trade) of sundry industrial supplies and equipment,Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4669C,Commerce de gros (commerce interentreprises) de fournitures et équipements divers pour le commerce et les services,Wholesale (intercompany trade) of sundry supplies and equipment for trade and services,Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4671Z,Commerce de gros (commerce interentreprises) de combustibles et de produits annexes,"Wholesale (intercompany trade) of solid, liquid and gaseous fuels and related products",Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4672Z,Commerce de gros (commerce interentreprises) de minerais et métaux,Wholesale (intercompany trade) of metals and metal ores,Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4673A,Commerce de gros (commerce interentreprises) de bois et de matériaux de construction,Wholesale (intercompany trade) of wood and construction materials,Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4673B,Commerce de gros (commerce interentreprises) d'appareils sanitaires et de produits de décoration,Wholesale (intercompany trade) of sanitary equipment and fitting out of housing materials,Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4674A,Commerce de gros (commerce interentreprises) de quincaillerie,Wholesale (intercompany trade) of hardware,Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4674B,Commerce de gros (commerce interentreprises) de fournitures pour la plomberie et le chauffage,Wholesale (intercompany trade) of plumbing and heating equipment and supplies,Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4675Z,Commerce de gros (commerce interentreprises) de produits chimiques,Wholesale (intercompany trade) of chemical products,Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4676Z,Commerce de gros (commerce interentreprises) d'autres produits intermédiaires,Wholesale (intercompany trade) of other intermediate products,Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4677Z,Commerce de gros (commerce interentreprises) de déchets et débris,Wholesale (intercompany trade) of waste and scrap,Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4690Z,Commerce de gros (commerce interentreprises) non spécialisé,Non-specialised wholesale trade (intercompany trade),Wholesale trade and commission trade services (except of motor vehicles and motorcycles),,kgCO2e/€,0.0662,
+4711A,Commerce de détail de produits surgelés,Retail sale of frozen products,Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),,kgCO2e/€,0.0349,
+4711B,Commerce d'alimentation générale,General food retail stores,Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),,kgCO2e/€,0.0349,
+4711C,Supérettes,Mini-markets,Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),,kgCO2e/€,0.0349,
+4711D,Supermarchés,Supermarkets,Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),,kgCO2e/€,0.0349,
+4711E,Magasins multi-commerces,Multi-trade stores,Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),,kgCO2e/€,0.0349,
+4711F,Hypermarchés,Hypermarkets,Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),,kgCO2e/€,0.0349,
+4719A,Grands magasins,Department stores,Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),,kgCO2e/€,0.0349,
+4719B,Autres commerces de détail en magasin non spécialisé,Other retail sale in non specialized stores,Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),,kgCO2e/€,0.0349,
+4721Z,Commerce de détail de fruits et légumes en magasin spécialisé,Retail sale of fruit and vegetables in specialised stores,Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),,kgCO2e/€,0.0349,
+4722Z,Commerce de détail de viandes et de produits à base de viande en magasin spécialisé,Retail sale of meat and meat products in specialised stores,Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),,kgCO2e/€,0.0349,
+4723Z,"Commerce de détail de poissons, crustacés et mollusques en magasin spécialisé","Retail sale of fish, crustaceans and molluscs in specialised stores",Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),,kgCO2e/€,0.0349,
+4724Z,"Commerce de détail de pain, pâtisserie et confiserie en magasin spécialisé","Retail sale of bread, cakes, flour confectionery and sugar confectionery in specialised stores",Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),,kgCO2e/€,0.0349,
+4725Z,Commerce de détail de boissons en magasin spécialisé,Retail sale of beverages in specialised stores,Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),,kgCO2e/€,0.0349,
+4726Z,Commerce de détail de produits à base de tabac en magasin spécialisé,Retail sale of tobacco products in specialised stores,Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),,kgCO2e/€,0.0349,
+4729Z,Autres commerces de détail alimentaires en magasin spécialisé,Other retail sale of food in specialised stores,Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),,kgCO2e/€,0.0349,
+4730Z,Commerce de détail de carburants en magasin spécialisé,Retail sale of automotive fuel in specialised stores,Retail trade of motor fuel (services),,kgCO2e/€,0.2602,
+4741Z,"Commerce de détail d'ordinateurs, d'unités périphériques et de logiciels en magasin spécialisé","Retail sale of computers, peripheral units and software in specialised stores",Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),,kgCO2e/€,0.0349,
+4742Z,Commerce de détail de matériels de télécommunication en magasin spécialisé,Retail sale of telecommunications equipment in specialised stores,Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),,kgCO2e/€,0.0349,
+4743Z,Commerce de détail de matériels audio et vidéo en magasin spécialisé,Retail sale of audio and video equipment in specialised stores,Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),,kgCO2e/€,0.0349,
+4751Z,Commerce de détail de textiles en magasin spécialisé,Retail sale of textiles in specialised stores,Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),,kgCO2e/€,0.0349,
+4752A,"Commerce de détail de quincaillerie, peintures et verres en petites surfaces (moins de 400 m2)","Retail sale of hardware, paints and glass in small stores (less than 400 m2)",Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),,kgCO2e/€,0.0349,
+4752B,"Commerce de détail de quincaillerie, peintures et verres en grandes surfaces (400 m2et plus)","Retail sale of hardware, paints and glass in DIY superstores (400 m2 and more)",Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),,kgCO2e/€,0.0349,
+4753Z,"Commerce de détail de tapis, moquettes et revêtements de murs et de sols en magasin spécialisé","Retail sale of carpets, rugs, wall and floor coverings in specialised stores",Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),,kgCO2e/€,0.0349,
+4754Z,Commerce de détail d'appareils électroménagers en magasin spécialisé,Retail sale of electrical household appliances in specialised stores,Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),,kgCO2e/€,0.0349,
+4759A,Commerce de détail de meubles,Retail sale of furniture,Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),,kgCO2e/€,0.0349,
+4759B,Commerce de détail d'autres équipements du foyer,Retail sale of other household equipment and articles,Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),,kgCO2e/€,0.0349,
+4761Z,Commerce de détail de livres en magasin spécialisé,Retail sale of books in specialised stores,Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),,kgCO2e/€,0.0349,
+4762Z,Commerce de détail de journaux et papeterie en magasin spécialisé,Retail sale of newspapers and stationery in specialised stores,Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),,kgCO2e/€,0.0349,
+4763Z,Commerce de détail d'enregistrements musicaux et vidéo en magasin spécialisé,Retail sale of music and video recordings in specialised stores,Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),,kgCO2e/€,0.0349,
+4764Z,Commerce de détail d'articles de sport en magasin spécialisé,Retail sale of sporting equipment in specialised stores,Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),,kgCO2e/€,0.0349,
+4765Z,Commerce de détail de jeux et jouets en magasin spécialisé,Retail sale of games and toys in specialised stores,Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),,kgCO2e/€,0.0349,
+4771Z,Commerce de détail d'habillement en magasin spécialisé,Retail sale of clothing in specialised stores,Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),,kgCO2e/€,0.0349,
+4772A,Commerce de détail de la chaussure,Retail sale of footwear,Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),,kgCO2e/€,0.0349,
+4772B,Commerce de détail de maroquinerie et d'articles de voyage,Retail sale of fine leather goods and of travel articles,Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),,kgCO2e/€,0.0349,
+4773Z,Commerce de détail de produits pharmaceutiques en magasin spécialisé,Dispensing chemist in specialised stores,Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),,kgCO2e/€,0.0349,
+4774Z,Commerce de détail d'articles médicaux et orthopédiques en magasin spécialisé,Retail sale of medical and orthopaedic goods in specialised stores,Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),,kgCO2e/€,0.0349,
+4775Z,Commerce de détail de parfumerie et de produits de beauté en magasin spécialisé,Retail sale of cosmetic and toilet articles in specialised stores,Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),,kgCO2e/€,0.0349,
+4776Z,"Commerce de détail de fleurs, plantes, graines, engrais, animaux de compagnie et aliments pour ces animaux en magasin spécialisé","Retail sale of flowers, plants, seeds, fertilisers, pet animals and pet food in specialised stores",Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),,kgCO2e/€,0.0349,
+4777Z,Commerce de détail d'articles d'horlogerie et de bijouterie en magasin spécialisé,Retail sale of watches and jewellery in specialised stores,Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),,kgCO2e/€,0.0349,
+4778A,Commerces de détail d'optique,Retail sale of optics,Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),,kgCO2e/€,0.0349,
+4778B,Commerces de détail de charbons et combustibles,Retail sale of coal and fuels,Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),,kgCO2e/€,0.0349,
+4778C,Autres commerces de détail spécialisés divers,Other sundry specialized retail sale,Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),,kgCO2e/€,0.0349,
+4779Z,Commerce de détail de biens d'occasion en magasin,Retail sale of second-hand goods in stores,Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),,kgCO2e/€,0.0349,
+4781Z,Commerce de détail alimentaire sur éventaires et marchés,"Retail sale via stalls and markets of food, beverages and tobacco products",Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),,kgCO2e/€,0.0349,
+4782Z,"Commerce de détail de textiles, d'habillement et de chaussures sur éventaires et marchés","Retail sale via stalls and markets of textiles, clothing and footwear",Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),,kgCO2e/€,0.0349,
+4789Z,Autres commerces de détail sur éventaires et marchés,Retail sale via stalls and markets of other goods,Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),,kgCO2e/€,0.0349,
+4791A,Vente à distance sur catalogue général,Retail sale via home-shopping by general catalogue,Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),,kgCO2e/€,0.0349,
+4791B,Vente à distance sur catalogue spécialisé,Retail sale via home-shopping by specialized catalogue,Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),,kgCO2e/€,0.0349,
+4799A,Vente à domicile,From door to door sale,Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),,kgCO2e/€,0.0349,
+4799B,"Vente par automates et autres commerces de détail hors magasin, éventaires ou marchés n.c.a.","Vending machine sale and sundry retail trade not in stores, stalls or markets, n.e.c.",Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),,kgCO2e/€,0.0349,
+4910Z,Transport ferroviaire interurbain de voyageurs,"Passenger rail transport, interurban",Railway transportation services,Land transport,kgCO2e/€,0.8256,0.56
+4920Z,Transports ferroviaires de fret,Freight rail transport,Railway transportation services,Land transport,kgCO2e/€,0.8256,0.56
+4931Z,Transports urbains et suburbains de voyageurs,Urban and suburban passenger land transport,Other land transportation services,Land transport,kgCO2e/€,0.0979,0.56
+4932Z,Transports de voyageurs par taxis,Taxi operation,Other land transportation services,Land transport,kgCO2e/€,0.0979,0.56
+4939A,Transports routiers réguliers de voyageurs,Road scheduled passengers land transport,Other land transportation services,Land transport,kgCO2e/€,0.0979,0.56
+4939B,Autres transports routiers de voyageurs,Other land passenger transport,Other land transportation services,Land transport,kgCO2e/€,0.0979,0.56
+4939C,Téléphériques et remontées mécaniques,Cableway and ski lifts,Other land transportation services,Land transport,kgCO2e/€,0.0979,0.56
+4941A,Transports routiers de fret interurbains,Interurban freight transport by road,Other land transportation services,Land transport,kgCO2e/€,0.0979,0.56
+4941B,Transports routiers de fret de proximité,Proximity freight transport by road,Other land transportation services,Land transport,kgCO2e/€,0.0979,0.56
+4941C,Location de camions avec chauffeur,Rent of lorries with driver,Other land transportation services,Land transport,kgCO2e/€,0.0979,0.56
+4942Z,Services de déménagement,Removal services,Other land transportation services,Land transport,kgCO2e/€,0.0979,0.56
+4950Z,Transports par conduites,Transport via pipeline,Transportation services via pipelines,Land transport,kgCO2e/€,5.8281,0.56
+5010Z,Transports maritimes et côtiers de passagers,Sea and coastal passenger water transport,Sea and coastal water transportation services,Rivel and maritime transport,kgCO2e/€,1.8088,0.59
+5020Z,Transports maritimes et côtiers de fret,Sea and coastal freight water transport,Sea and coastal water transportation services,Rivel and maritime transport,kgCO2e/€,1.8088,0.59
+5030Z,Transports fluviaux de passagers,Inland passenger water transport,Inland water transportation services,Rivel and maritime transport,kgCO2e/€,6.3186,0.59
+5040Z,Transports fluviaux de fret,Inland freight water transport,Inland water transportation services,Rivel and maritime transport,kgCO2e/€,6.3186,0.59
+5110Z,Transports aériens de passagers,Passenger air transport,Air transport services,Air freight,kgCO2e/€,1.2705,1.19
+5121Z,Transports aériens de fret,Freight air transport,Air transport services,Air freight,kgCO2e/€,1.2705,1.19
+5122Z,Transports spatiaux,Space transport,Air transport services,Air freight,kgCO2e/€,1.2705,1.19
+5210A,Entreposage et stockage frigorifique,Refrigerating warehousing and storage,Supporting and auxiliary transport services/travel agency services,Warehousing and other ancillary transport services,kgCO2e/€,0.2289,0.17
+5210B,Entreposage et stockage non frigorifique,Non refrigerating warehousing and storage,Supporting and auxiliary transport services/travel agency services,Warehousing and other ancillary transport services,kgCO2e/€,0.2289,0.17
+5221Z,Services auxiliaires des transports terrestres,Service activities incidental to land transportation,Supporting and auxiliary transport services/travel agency services,Warehousing and other ancillary transport services,kgCO2e/€,0.2289,0.17
+5222Z,Services auxiliaires des transports par eau,Service activities incidental to water transportation,Supporting and auxiliary transport services/travel agency services,Warehousing and other ancillary transport services,kgCO2e/€,0.2289,0.17
+5223Z,Services auxiliaires des transports aériens,Service activities incidental to air transportation,Supporting and auxiliary transport services/travel agency services,Warehousing and other ancillary transport services,kgCO2e/€,0.2289,0.17
+5224A,Manutention portuaire,Harbour cargo handling,Supporting and auxiliary transport services/travel agency services,Warehousing and other ancillary transport services,kgCO2e/€,0.2289,0.17
+5224B,Manutention non portuaire,Non harbour cargo handling,Supporting and auxiliary transport services/travel agency services,Warehousing and other ancillary transport services,kgCO2e/€,0.2289,0.17
+5229A,"Messagerie, fret express",Freight services organization,Supporting and auxiliary transport services/travel agency services,Warehousing and other ancillary transport services,kgCO2e/€,0.2289,0.17
+5229B,Affrètement et organisation des transports,Chartering and transportation organisation,Supporting and auxiliary transport services/travel agency services,Warehousing and other ancillary transport services,kgCO2e/€,0.2289,0.17
+5310Z,Activités de poste dans le cadre d'une obligation de service universel,Postal activities under universal service obligation,Post and telecommunication,Postal services,kgCO2e/€,0.0691,0.13
+5320Z,Autres activités de poste et de courrier,Other postal and courier activities,Post and telecommunication,Postal services,kgCO2e/€,0.0691,0.13
+5510Z,Hôtels et hébergement similaire,Hotels and similar accommodation,Hotel and restaurant (services),Accommodations and meals,kgCO2e/€,0.1015,0.32
+5520Z,Hébergement touristique et autre hébergement de courte durée,Holiday and other short-stay accommodation,Hotel and restaurant (services),Accommodations and meals,kgCO2e/€,0.1015,0.32
+5530Z,Terrains de camping et parcs pour caravanes ou véhicules de loisirs,"Camping grounds, recreational vehicle parks and trailer parks",Hotel and restaurant (services),Accommodations and meals,kgCO2e/€,0.1015,0.32
+5590Z,Autres hébergements,Other accommodation,Hotel and restaurant (services),Accommodations and meals,kgCO2e/€,0.1015,0.32
+5610A,Restauration traditionnelle,Traditional catering,Hotel and restaurant (services),Accommodations and meals,kgCO2e/€,0.1015,0.32
+5610B,Cafétérias et autres libres-services,Cafeterias and other self-service catering,Hotel and restaurant (services),Accommodations and meals,kgCO2e/€,0.1015,0.32
+5610C,Restauration de type rapide,Fast food restaurants,Hotel and restaurant (services),Accommodations and meals,kgCO2e/€,0.1015,0.32
+5621Z,Services des traiteurs,Event catering activities,Hotel and restaurant (services),Accommodations and meals,kgCO2e/€,0.1015,0.32
+5629A,Restauration collective sous contrat,Collective catering under contract,Hotel and restaurant (services),Accommodations and meals,kgCO2e/€,0.1015,0.32
+5629B,Autres services de restauration n.c.a.,Other catering n.e.c.,Hotel and restaurant (services),Accommodations and meals,kgCO2e/€,0.1015,0.32
+5630Z,Débits de boissons,Beverage serving activities,Hotel and restaurant (services),Accommodations and meals,kgCO2e/€,0.1015,0.32
+5811Z,Édition de livres,Book publishing,Printed matter and recorded media,"Documentation (books, journals, newspapers, and so on)",kgCO2e/€,0.1425,0.28
+5812Z,Édition de répertoires et de fichiers d'adresses,Publishing of directories and mailing lists,Printed matter and recorded media,"Documentation (books, journals, newspapers, and so on)",kgCO2e/€,0.1425,0.28
+5813Z,Édition de journaux,Publishing of newspapers,Printed matter and recorded media,"Documentation (books, journals, newspapers, and so on)",kgCO2e/€,0.1425,0.28
+5814Z,Édition de revues et périodiques,Publishing of journals and periodicals,Printed matter and recorded media,"Documentation (books, journals, newspapers, and so on)",kgCO2e/€,0.1425,0.28
+5819Z,Autres activités d'édition,Other publishing activities,Printed matter and recorded media,"Documentation (books, journals, newspapers, and so on)",kgCO2e/€,0.1425,0.28
+5821Z,Édition de jeux électroniques,Publishing of computer games,Computer and related services,"Documentation (books, journals, newspapers, and so on)",kgCO2e/€,0.0807,0.28
+5829A,Édition de logiciels système et de réseau,System and network software publishing,Computer and related services,"Documentation (books, journals, newspapers, and so on)",kgCO2e/€,0.0807,0.28
+5829B,Edition de logiciels outils de développement et de langages,Development tools and programming languages software publishing,Computer and related services,"Documentation (books, journals, newspapers, and so on)",kgCO2e/€,0.0807,0.28
+5829C,Edition de logiciels applicatifs,Application software publishing,Computer and related services,"Documentation (books, journals, newspapers, and so on)",kgCO2e/€,0.0807,0.28
+5911A,Production de films et de programmes pour la télévision,Production of motion pictures for television and television programmes,Recreational/cultural and sporting services,,kgCO2e/€,0.176,
+5911B,Production de films institutionnels et publicitaires,Production of institutional and promotional motion pictures,Recreational/cultural and sporting services,,kgCO2e/€,0.176,
+5911C,Production de films pour le cinéma,Production of motion pictures for cinema,Recreational/cultural and sporting services,,kgCO2e/€,0.176,
+5912Z,"Post-production de films cinématographiques, de vidéo et de programmes de télévision","Motion picture, video and television programme post-production activities",Recreational/cultural and sporting services,,kgCO2e/€,0.176,
+5913A,Distribution de films cinématographiques,Motion pictures for cinema distribution,Recreational/cultural and sporting services,,kgCO2e/€,0.176,
+5913B,Edition et distribution vidéo,Video edition and distribution,Recreational/cultural and sporting services,,kgCO2e/€,0.176,
+5914Z,Projection de films cinématographiques,Motion picture projection activities,Recreational/cultural and sporting services,,kgCO2e/€,0.176,
+5920Z,Enregistrement sonore et édition musicale,Sound recording and music publishing activities,Printed matter and recorded media,,kgCO2e/€,0.1425,
+6010Z,Édition et diffusion de programmes radio,Radio broadcasting,Recreational/cultural and sporting services,,kgCO2e/€,0.176,
+6020A,Edition de chaînes généralistes,Broadcast of general-interest television programmes,Recreational/cultural and sporting services,,kgCO2e/€,0.176,
+6020B,Edition de chaînes thématiques,Broadcast of thematic television programmes,Recreational/cultural and sporting services,,kgCO2e/€,0.176,
+6110Z,Télécommunications filaires,Wired telecommunications activities,Post and telecommunication,Telecommunications,kgCO2e/€,0.0691,0.17
+6120Z,Télécommunications sans fil,Wireless telecommunications activities,Post and telecommunication,Telecommunications,kgCO2e/€,0.0691,0.17
+6130Z,Télécommunications par satellite,Satellite telecommunications activities,Post and telecommunication,Telecommunications,kgCO2e/€,0.0691,0.17
+6190Z,Autres activités de télécommunication,Other telecommunications activities,Post and telecommunication,Telecommunications,kgCO2e/€,0.0691,0.17
+6201Z,Programmation informatique,Computer programming activities,Computer and related services,,kgCO2e/€,0.0807,
+6202A,Conseil en systèmes et logiciels informatiques,Hardware and software consultancy,Computer and related services,,kgCO2e/€,0.0807,
+6202B,Tierce maintenance de systèmes et d'applications informatiques,Third party maintenance of computer sytems and applications,Computer and related services,,kgCO2e/€,0.0807,
+6203Z,Gestion d'installations informatiques,Computer facilities management activities,Computer and related services,,kgCO2e/€,0.0807,
+6209Z,Autres activités informatiques,Other information technology and computer service activities,Computer and related services,,kgCO2e/€,0.0807,
+6311Z,"Traitement de données, hébergement et activités connexes","Data processing, hosting and related activities",Computer and related services,,kgCO2e/€,0.0807,
+6312Z,Portails Internet,Web portals,Computer and related services,,kgCO2e/€,0.0807,
+6391Z,Activités des agences de presse,News agency activities,Recreational/cultural and sporting services,,kgCO2e/€,0.176,
+6399Z,Autres services d'information n.c.a.,Other information service activities n.e.c.,Other business services,,kgCO2e/€,0.0917,
+6411Z,Activités de banque centrale,Central banking,Financial intermediation services (except insurance and pension funding services),"Insurance, banking, consulting services and honoraria",kgCO2e/€,0.089,0.11
+6419Z,Autres intermédiations monétaires,Other monetary intermediation,Financial intermediation services (except insurance and pension funding services),"Insurance, banking, consulting services and honoraria",kgCO2e/€,0.089,0.11
+6420Z,Activités des sociétés holding,Activities of holding companies,Financial intermediation services (except insurance and pension funding services),"Insurance, banking, consulting services and honoraria",kgCO2e/€,0.089,0.11
+6430Z,Fonds de placement et entités financières similaires,"Trusts, funds and similar financial entities",Financial intermediation services (except insurance and pension funding services),"Insurance, banking, consulting services and honoraria",kgCO2e/€,0.089,0.11
+6491Z,Crédit-bail,Financial leasing,Financial intermediation services (except insurance and pension funding services),"Insurance, banking, consulting services and honoraria",kgCO2e/€,0.089,0.11
+6492Z,Autre distribution de crédit,Other credit granting,Financial intermediation services (except insurance and pension funding services),"Insurance, banking, consulting services and honoraria",kgCO2e/€,0.089,0.11
+6499Z,"Autres activités des services financiers, hors assurance et caisses de retraite, n.c.a.","Other financial service activities, except insurance and pension funding n.e.c.",Financial intermediation services (except insurance and pension funding services),"Insurance, banking, consulting services and honoraria",kgCO2e/€,0.089,0.11
+6511Z,Assurance vie,Life insurance,Insurance and pension funding services (except compulsory social security services),"Insurance, banking, consulting services and honoraria",kgCO2e/€,0.1066,0.11
+6512Z,Autres assurances,Non-life insurance,Insurance and pension funding services (except compulsory social security services),"Insurance, banking, consulting services and honoraria",kgCO2e/€,0.1066,0.11
+6520Z,Réassurance,Reinsurance,Insurance and pension funding services (except compulsory social security services),"Insurance, banking, consulting services and honoraria",kgCO2e/€,0.1066,0.11
+6530Z,Caisses de retraite,Pension funding,Insurance and pension funding services (except compulsory social security services),"Insurance, banking, consulting services and honoraria",kgCO2e/€,0.1066,0.11
+6611Z,Administration de marchés financiers,Administration of financial markets,Services auxiliary to financial intermediation,"Insurance, banking, consulting services and honoraria",kgCO2e/€,0.1158,0.11
+6612Z,Courtage de valeurs mobilières et de marchandises,Security and commodity contracts brokerage,Services auxiliary to financial intermediation,"Insurance, banking, consulting services and honoraria",kgCO2e/€,0.1158,0.11
+6619A,Supports juridiques de gestion de patrimoine mobilier,Juridical arrangement of movable property management,Services auxiliary to financial intermediation,"Insurance, banking, consulting services and honoraria",kgCO2e/€,0.1158,0.11
+6619B,"Autres activités auxiliaires de services financiers, hors assurance et caisses de retraite, n.c.a.","Other activities auxiliary to financial services, except insurance and pension funding, n.e.c.",Services auxiliary to financial intermediation,"Insurance, banking, consulting services and honoraria",kgCO2e/€,0.1158,0.11
+6621Z,Évaluation des risques et dommages,Risk and damage evaluation,Services auxiliary to financial intermediation,"Insurance, banking, consulting services and honoraria",kgCO2e/€,0.1158,0.11
+6622Z,Activités des agents et courtiers d'assurances,Activities of insurance agents and brokers,Services auxiliary to financial intermediation,"Insurance, banking, consulting services and honoraria",kgCO2e/€,0.1158,0.11
+6629Z,Autres activités auxiliaires d'assurance et de caisses de retraite,Other activities auxiliary to insurance and pension funding,Services auxiliary to financial intermediation,"Insurance, banking, consulting services and honoraria",kgCO2e/€,0.1158,0.11
+6630Z,Gestion de fonds,Fund management activities,Services auxiliary to financial intermediation,"Insurance, banking, consulting services and honoraria",kgCO2e/€,0.1158,0.11
+6810Z,Activités des marchands de biens immobiliers,Buying and selling of own real estate,Real estate services,,kgCO2e/€,0.0344,
+6820A,Location de logements,Letting of dwellings,Real estate services,,kgCO2e/€,0.0344,
+6820B,Location de terrains et d'autres biens immobiliers,Letting of land and other own property,Real estate services,,kgCO2e/€,0.0344,
+6831Z,Agences immobilières,Real estate agencies,Real estate services,,kgCO2e/€,0.0344,
+6832A,Administration d'immeubles et autres biens immobiliers,Management of residential building and other real estate on a fee or contract basis,Real estate services,,kgCO2e/€,0.0344,
+6832B,Supports juridiques de gestion de patrimoine immobilier,Juridical arrangement of immovable property management,Real estate services,,kgCO2e/€,0.0344,
+6910Z,Activités juridiques,Legal activities,Other business services,,kgCO2e/€,0.0917,
+6920Z,Activités comptables,"Accounting, bookkeeping and auditing activities; tax consultancy",Other business services,,kgCO2e/€,0.0917,
+7010Z,Activités des sièges sociaux,Activities of head offices,Other business services,,kgCO2e/€,0.0917,
+7021Z,Conseil en relations publiques et communication,Public relations and communication activities,Other business services,,kgCO2e/€,0.0917,
+7022Z,Conseil pour les affaires et autres conseils de gestion,Business and other management consultancy activities,Other business services,,kgCO2e/€,0.0917,
+7111Z,Activités d'architecture,Architectural activities,Other business services,,kgCO2e/€,0.0917,
+7112A,Activité des géomètres,Surveyor activities,Other business services,,kgCO2e/€,0.0917,
+7112B,"Ingénierie, études techniques","Engineering, technical studies",Other business services,,kgCO2e/€,0.0917,
+7120A,Contrôle technique automobile,Car technical testing,Other business services,,kgCO2e/€,0.0917,
+7120B,"Analyses, essais et inspections techniques","Technical analyses, testing and inspections",Other business services,,kgCO2e/€,0.0917,
+7211Z,Recherche-développement en biotechnologie,Research and experimental development on biotechnology,Research and development services,Research and development,kgCO2e/€,0.1321,0.25
+7219Z,Recherche-développement en autres sciences physiques et naturelles,Other research and experimental development on natural sciences and engineering,Research and development services,Research and development,kgCO2e/€,0.1321,0.25
+7220Z,Recherche-développement en sciences humaines et sociales,Research and experimental development on social sciences and humanities,Research and development services,Research and development,kgCO2e/€,0.1321,0.25
+7311Z,Activités des agences de publicité,Advertising agencies,Other business services,,kgCO2e/€,0.0917,
+7312Z,Régie publicitaire de médias,Media representation,Other business services,,kgCO2e/€,0.0917,
+7320Z,Études de marché et sondages,Market research and public opinion polling,Other business services,,kgCO2e/€,0.0917,
+7410Z,Activités spécialisées de design,Specialised design activities,Other business services,,kgCO2e/€,0.0917,
+7420Z,Activités photographiques,Photographic activities,Other business services,,kgCO2e/€,0.0917,
+7430Z,Traduction et interprétation,Translation and interpretation activities,Other business services,,kgCO2e/€,0.0917,
+7490A,Activité des économistes de la construction,Activities of quantity surveyors,Other business services,,kgCO2e/€,0.0917,
+7490B,"Activités spécialisées, scientifiques et techniques diverses","Sundry professional, scientific and technical activities",Other business services,,kgCO2e/€,0.0917,
+7500Z,Activités vétérinaires,Veterinary activities,Health and social work,,kgCO2e/€,0.058,
+7711A,Location de courte durée de voitures et de véhicules automobiles légers,Short term renting of cars and light motor vehicles,Rental of machinery and equipment (without operator) and of personal and household goods (services),,kgCO2e/€,0.1086,
+7711B,Location de longue durée de voitures et de véhicules automobiles légers,Long term renting of cars and light motor vehicles,Rental of machinery and equipment (without operator) and of personal and household goods (services),,kgCO2e/€,0.1086,
+7712Z,Location et location-bail de camions,Renting and leasing of trucks,Rental of machinery and equipment (without operator) and of personal and household goods (services),,kgCO2e/€,0.1086,
+7721Z,Location et location-bail d'articles de loisirs et de sport,Renting and leasing of recreational and sports goods,Rental of machinery and equipment (without operator) and of personal and household goods (services),,kgCO2e/€,0.1086,
+7722Z,Location de vidéocassettes et disques vidéo,Renting of video tapes and disks,Rental of machinery and equipment (without operator) and of personal and household goods (services),,kgCO2e/€,0.1086,
+7729Z,Location et location-bail d'autres biens personnels et domestiques,Renting and leasing of other personal and household goods,Rental of machinery and equipment (without operator) and of personal and household goods (services),,kgCO2e/€,0.1086,
+7731Z,Location et location-bail de machines et équipements agricoles,Renting and leasing of agricultural machinery and equipment,Rental of machinery and equipment (without operator) and of personal and household goods (services),,kgCO2e/€,0.1086,
+7732Z,Location et location-bail de machines et équipements pour la construction,Renting and leasing of construction and civil engineering machinery and equipment,Rental of machinery and equipment (without operator) and of personal and household goods (services),,kgCO2e/€,0.1086,
+7733Z,Location et location-bail de machines de bureau et de matériel informatique,Renting and leasing of office machinery and equipment (including computers),Rental of machinery and equipment (without operator) and of personal and household goods (services),,kgCO2e/€,0.1086,
+7734Z,Location et location-bail de matériels de transport par eau,Renting and leasing of water transport equipment,Rental of machinery and equipment (without operator) and of personal and household goods (services),,kgCO2e/€,0.1086,
+7735Z,Location et location-bail de matériels de transport aérien,Renting and leasing of air transport equipment,Rental of machinery and equipment (without operator) and of personal and household goods (services),,kgCO2e/€,0.1086,
+7739Z,"Location et location-bail d'autres machines, équipements et biens matériels n.c.a.","Renting and leasing of other machinery, equipment and tangible goods n.e.c.",Rental of machinery and equipment (without operator) and of personal and household goods (services),,kgCO2e/€,0.1086,
+7740Z,"Location-bail de propriété intellectuelle et de produits similaires, à l'exception des œuvres soumises à copyright","Leasing of intellectual property and similar products, except copyrighted works",Other business services,,kgCO2e/€,0.0917,
+7810Z,Activités des agences de placement de main-d'œuvre,Activities of employment placement agencies,Other business services,,kgCO2e/€,0.0917,
+7820Z,Activités des agences de travail temporaire,Temporary employment agency activities,Other business services,,kgCO2e/€,0.0917,
+7830Z,Autre mise à disposition de ressources humaines,Other human resources provision,Other business services,,kgCO2e/€,0.0917,
+7911Z,Activités des agences de voyage,Travel agency activities,Supporting and auxiliary transport services/travel agency services,,kgCO2e/€,0.2289,
+7912Z,Activités des voyagistes,Tour operator activities,Supporting and auxiliary transport services/travel agency services,,kgCO2e/€,0.2289,
+7990Z,Autres services de réservation et activités connexes,Other reservation service and related activities,Supporting and auxiliary transport services/travel agency services,,kgCO2e/€,0.2289,
+8010Z,Activités de sécurité privée,Private security activities,Other business services,,kgCO2e/€,0.0917,
+8020Z,Activités liées aux systèmes de sécurité,Security systems service activities,Other business services,,kgCO2e/€,0.0917,
+8030Z,Activités d'enquête,Investigation activities,Other business services,,kgCO2e/€,0.0917,
+8110Z,Activités combinées de soutien lié aux bâtiments,Combined facilities support activities,Other business services,,kgCO2e/€,0.0917,
+8121Z,Nettoyage courant des bâtiments,General cleaning of buildings,Other business services,,kgCO2e/€,0.0917,
+8122Z,Autres activités de nettoyage des bâtiments et nettoyage industriel,Other building and industrial cleaning activities,Other business services,,kgCO2e/€,0.0917,
+8129A,"Désinfection, désinsectisation, dératisation","Desinfection, insect and rat extermination",Other business services,,kgCO2e/€,0.0917,
+8129B,Autres activités de nettoyage n.c.a.,Other cleaning activities n.e.c.,Other business services,,kgCO2e/€,0.0917,
+8130Z,Services d'aménagement paysager,Landscape service activities,Other business services,,kgCO2e/€,0.0917,
+8211Z,Services administratifs combinés de bureau,Combined office administrative service activities,Other business services,,kgCO2e/€,0.0917,
+8219Z,"Photocopie, préparation de documents et autres activités spécialisées de soutien de bureau","Photocopying, document preparation and other specialised office support activities",Other business services,,kgCO2e/€,0.0917,
+8220Z,Activités de centres d'appels,Activities of call centres,Other business services,,kgCO2e/€,0.0917,
+8230Z,"Organisation de foires, salons professionnels et congrès","Organisation of trade fairs, trade shows and conventions",Other business services,,kgCO2e/€,0.0917,
+8291Z,Activités des agences de recouvrement de factures et des sociétés d'information financière sur la clientèle,Activities of collection agencies and credit bureaus,Other business services,,kgCO2e/€,0.0917,
+8292Z,Activités de conditionnement,Packaging activities,Other business services,,kgCO2e/€,0.0917,
+8299Z,Autres activités de soutien aux entreprises n.c.a.,Other business support service activities n.e.c.,Other business services,,kgCO2e/€,0.0917,
+8411Z,Administration publique générale,General public administration activities,Public administration and defense services/compulsory social security services,"Public administration and defence, mandatory health insurance",kgCO2e/€,0.101,0.16
+8412Z,"Administration publique (tutelle) de la santé, de la formation, de la culture et des services sociaux, autre que sécurité sociale","Regulation of the activities of providing health care, education, cultural services and other social services, excluding social security",Public administration and defense services/compulsory social security services,"Public administration and defence, mandatory health insurance",kgCO2e/€,0.101,0.16
+8413Z,Administration publique (tutelle) des activités économiques,Regulation of and contribution to more efficient operation of businesses,Public administration and defense services/compulsory social security services,"Public administration and defence, mandatory health insurance",kgCO2e/€,0.101,0.16
+8421Z,Affaires étrangères,Foreign affairs,Public administration and defense services/compulsory social security services,"Public administration and defence, mandatory health insurance",kgCO2e/€,0.101,0.16
+8422Z,Défense,Defence activities,Public administration and defense services/compulsory social security services,"Public administration and defence, mandatory health insurance",kgCO2e/€,0.101,0.16
+8423Z,Justice,Justice and judicial activities,Public administration and defense services/compulsory social security services,"Public administration and defence, mandatory health insurance",kgCO2e/€,0.101,0.16
+8424Z,Activités d'ordre public et de sécurité,Public order and safety activities,Public administration and defense services/compulsory social security services,"Public administration and defence, mandatory health insurance",kgCO2e/€,0.101,0.16
+8425Z,Services du feu et de secours,Fire service activities,Public administration and defense services/compulsory social security services,"Public administration and defence, mandatory health insurance",kgCO2e/€,0.101,0.16
+8430A,Activités générales de sécurité sociale,Social security general activities,Public administration and defense services/compulsory social security services,"Public administration and defence, mandatory health insurance",kgCO2e/€,0.101,0.16
+8430B,Gestion des retraites complémentaires,Management of supplementary pensions,Public administration and defense services/compulsory social security services,"Public administration and defence, mandatory health insurance",kgCO2e/€,0.101,0.16
+8430C,Distribution sociale de revenus,Social distribution of incomes,Public administration and defense services/compulsory social security services,"Public administration and defence, mandatory health insurance",kgCO2e/€,0.101,0.16
+8510Z,Enseignement pré-primaire,Pre-primary education,Education services,Education,kgCO2e/€,0.0656,0.12
+8520Z,Enseignement primaire,Primary education,Education services,Education,kgCO2e/€,0.0656,0.12
+8531Z,Enseignement secondaire général,General secondary education,Education services,Education,kgCO2e/€,0.0656,0.12
+8532Z,Enseignement secondaire technique ou professionnel,Technical and vocational secondary education,Education services,Education,kgCO2e/€,0.0656,0.12
+8541Z,Enseignement post-secondaire non supérieur,Post-secondary non-tertiary education,Education services,Education,kgCO2e/€,0.0656,0.12
+8542Z,Enseignement supérieur,Tertiary education,Education services,Education,kgCO2e/€,0.0656,0.12
+8551Z,Enseignement de disciplines sportives et d'activités de loisirs,Sports and recreation education,Education services,Education,kgCO2e/€,0.0656,0.12
+8552Z,Enseignement culturel,Cultural education,Education services,Education,kgCO2e/€,0.0656,0.12
+8553Z,Enseignement de la conduite,Driving school activities,Education services,Education,kgCO2e/€,0.0656,0.12
+8559A,Formation continue d'adultes,Continuing education for adults,Education services,Education,kgCO2e/€,0.0656,0.12
+8559B,Autres enseignements,Sundry education,Education services,Education,kgCO2e/€,0.0656,0.12
+8560Z,Activités de soutien à l'enseignement,Educational support activities,Other business services,Education,kgCO2e/€,0.0917,0.12
+8610Z,Activités hospitalières,Hospital activities,Health and social work,Human health services,kgCO2e/€,0.058,0.12
+8621Z,Activité des médecins généralistes,General medical practice activities,Health and social work,Human health services,kgCO2e/€,0.058,0.12
+8622A,Activités de radiodiagnostic et de radiothérapie,X-ray diagnosis and radiotherapy activities,Health and social work,Human health services,kgCO2e/€,0.058,0.12
+8622B,Activités chirurgicales,Surgery activities,Health and social work,Human health services,kgCO2e/€,0.058,0.12
+8622C,Autres activités des médecins spécialistes,Other specialist medical practice activities,Health and social work,Human health services,kgCO2e/€,0.058,0.12
+8623Z,Pratique dentaire,Dental practice activities,Health and social work,Human health services,kgCO2e/€,0.058,0.12
+8690A,Ambulances,Ambulances,Health and social work,Human health services,kgCO2e/€,0.058,0.12
+8690B,Laboratoires d'analyses médicales,Medical analysis laboratory,Health and social work,Human health services,kgCO2e/€,0.058,0.12
+8690C,Centres de collecte et banques d'organes,Collection centers and organ banks,Health and social work,Human health services,kgCO2e/€,0.058,0.12
+8690D,Activités des infirmiers et des sages-femmes,Activities of nurses and midwives,Health and social work,Human health services,kgCO2e/€,0.058,0.12
+8690E,"Activités des professionnels de la rééducation, de l'appareillage et des pédicures-podologues","Activities of professionnals in re-education, prosthesis or health devices and chiropodists",Health and social work,Human health services,kgCO2e/€,0.058,0.12
+8690F,Activités de santé humaine non classées ailleurs,Human health activities n.e.c.,Health and social work,Human health services,kgCO2e/€,0.058,0.12
+8710A,Hébergement médicalisé pour personnes âgées,Residential nursing care activities for the elderly,Health and social work,Social action,kgCO2e/€,0.058,0.1
+8710B,Hébergement médicalisé pour enfants handicapés,Residential nursing care activities for disabled children,Health and social work,Social action,kgCO2e/€,0.058,0.1
+8710C,Hébergement médicalisé pour adultes handicapés et autre hébergement médicalisé,Residential nursing care activities for disabled adults and other residential nursing care,Health and social work,Social action,kgCO2e/€,0.058,0.1
+8720A,Hébergement social pour handicapés mentaux et malades mentaux,Residential care activities for mental retardation and mental health,Health and social work,Social action,kgCO2e/€,0.058,0.1
+8720B,Hébergement social pour toxicomanes,Residential care activities for substance abuse,Health and social work,Social action,kgCO2e/€,0.058,0.1
+8730A,Hébergement social pour personnes âgées,Residential care activities for the elderly,Health and social work,Social action,kgCO2e/€,0.058,0.1
+8730B,Hébergement social pour handicapés physiques,Residential care activities for the disabled,Health and social work,Social action,kgCO2e/€,0.058,0.1
+8790A,Hébergement social pour enfants en difficultés,Residential care activities for children with difficulties,Health and social work,Social action,kgCO2e/€,0.058,0.1
+8790B,Hébergement social pour adultes et familles en difficultés et autre hébergement social,Residential care activities for adults and families with difficulties and other residential care activities,Health and social work,Social action,kgCO2e/€,0.058,0.1
+8810A,Aide à domicile,Home helps,Health and social work,Social action,kgCO2e/€,0.058,0.1
+8810B,Accueil ou accompagnement sans hébergement d'adultes handicapés ou de personnes âgées,Other welcome or guidance without accomodation for disabled adults or the elderly,Health and social work,Social action,kgCO2e/€,0.058,0.1
+8810C,Aide par le travail,Assistance by work,Health and social work,Social action,kgCO2e/€,0.058,0.1
+8891A,Accueil de jeunes enfants,Welcome facilities for young children,Health and social work,Social action,kgCO2e/€,0.058,0.1
+8891B,Accueil ou accompagnement sans hébergement d'enfants handicapés,Welcome or guidance without accomodation for disabled children,Health and social work,Social action,kgCO2e/€,0.058,0.1
+8899A,"Autre accueil ou accompagnement sans hébergement d'enfants 
+et d'adolescents",Other welcome or guidance without accomodation for children and teenagers,Health and social work,Social action,kgCO2e/€,0.058,0.1
+8899B,Action sociale sans hébergement n.c.a.,Social work activities without accommodation n.e.c.,Health and social work,Social action,kgCO2e/€,0.058,0.1
+9001Z,Arts du spectacle vivant,Performing arts,Recreational/cultural and sporting services,"Creative, artistic and performing arts (libraries, archives, museums and other cultural activities, organization of games and betting)",kgCO2e/€,0.176,0.21
+9002Z,Activités de soutien au spectacle vivant,Support activities to performing arts,Recreational/cultural and sporting services,"Creative, artistic and performing arts (libraries, archives, museums and other cultural activities, organization of games and betting)",kgCO2e/€,0.176,0.21
+9003A,Création artistique relevant des arts plastiques,Artistic creation related to fine arts,Recreational/cultural and sporting services,"Creative, artistic and performing arts (libraries, archives, museums and other cultural activities, organization of games and betting)",kgCO2e/€,0.176,0.21
+9003B,Autre création artistique,Other artistic creation,Recreational/cultural and sporting services,"Creative, artistic and performing arts (libraries, archives, museums and other cultural activities, organization of games and betting)",kgCO2e/€,0.176,0.21
+9004Z,Gestion de salles de spectacles,Operation of arts facilities,Recreational/cultural and sporting services,"Creative, artistic and performing arts (libraries, archives, museums and other cultural activities, organization of games and betting)",kgCO2e/€,0.176,0.21
+9101Z,Gestion des bibliothèques et des archives,Library and archives activities,Recreational/cultural and sporting services,"Creative, artistic and performing arts (libraries, archives, museums and other cultural activities, organization of games and betting)",kgCO2e/€,0.176,0.21
+9102Z,Gestion des musées,Museums activities,Recreational/cultural and sporting services,"Creative, artistic and performing arts (libraries, archives, museums and other cultural activities, organization of games and betting)",kgCO2e/€,0.176,0.21
+9103Z,Gestion des sites et monuments historiques et des attractions touristiques similaires,Operation of historical sites and buildings and similar visitor attractions,Recreational/cultural and sporting services,"Creative, artistic and performing arts (libraries, archives, museums and other cultural activities, organization of games and betting)",kgCO2e/€,0.176,0.21
+9104Z,Gestion des jardins botaniques et zoologiques et des réserves naturelles,Botanical and zoological gardens and nature reserves activities,Recreational/cultural and sporting services,"Creative, artistic and performing arts (libraries, archives, museums and other cultural activities, organization of games and betting)",kgCO2e/€,0.176,0.21
+9200Z,Organisation de jeux de hasard et d'argent,Gambling and betting activities,Recreational/cultural and sporting services,"Creative, artistic and performing arts (libraries, archives, museums and other cultural activities, organization of games and betting)",kgCO2e/€,0.176,0.21
+9311Z,Gestion d'installations sportives,Operation of sports facilities,Recreational/cultural and sporting services,"Sports, recreation and leisure activities",kgCO2e/€,0.176,0.27
+9312Z,Activités de clubs de sports,Activities of sport clubs,Recreational/cultural and sporting services,"Sports, recreation and leisure activities",kgCO2e/€,0.176,0.27
+9313Z,Activités des centres de culture physique,Fitness facilities,Other services (not elsewhere specified),"Sports, recreation and leisure activities",kgCO2e/€,0.0614,0.27
+9319Z,Autres activités liées au sport,Other sports activities,Recreational/cultural and sporting services,"Sports, recreation and leisure activities",kgCO2e/€,0.176,0.27
+9321Z,Activités des parcs d'attractions et parcs à thèmes,Activities of amusement parks and theme parks,Recreational/cultural and sporting services,"Sports, recreation and leisure activities",kgCO2e/€,0.176,0.27
+9329Z,Autres activités récréatives et de loisirs,Other amusement and recreation activities,Recreational/cultural and sporting services,"Sports, recreation and leisure activities",kgCO2e/€,0.176,0.27
+9411Z,Activités des organisations patronales et consulaires,Activities of business and employers membership organisations,Membership organisation services (not elsewhere specified),Not-for-profit activities and charities,kgCO2e/€,0.1031,0.22
+9412Z,Activités des organisations professionnelles,Activities of professional membership organisations,Membership organisation services (not elsewhere specified),Not-for-profit activities and charities,kgCO2e/€,0.1031,0.22
+9420Z,Activités des syndicats de salariés,Activities of trade unions,Membership organisation services (not elsewhere specified),Not-for-profit activities and charities,kgCO2e/€,0.1031,0.22
+9491Z,Activités des organisations religieuses,Activities of religious organisations,Membership organisation services (not elsewhere specified),Not-for-profit activities and charities,kgCO2e/€,0.1031,0.22
+9492Z,Activités des organisations politiques,Activities of political organisations,Membership organisation services (not elsewhere specified),Not-for-profit activities and charities,kgCO2e/€,0.1031,0.22
+9499Z,Autres organisations fonctionnant par adhésion volontaire,Other membership organisations based on voluntary membership,Membership organisation services (not elsewhere specified),Not-for-profit activities and charities,kgCO2e/€,0.1031,0.22
+9511Z,Réparation d'ordinateurs et d'équipements périphériques,Repair of computers and peripheral equipment,Computer and related services,Machinery and equipment installation and repairs,kgCO2e/€,0.0807,0.39
+9512Z,Réparation d'équipements de communication,Repair of communication equipment,Radio/television and communication equipment and apparatus,Machinery and equipment installation and repairs,kgCO2e/€,0.1819,0.39
+9521Z,Réparation de produits électroniques grand public,Repair of consumer electronics,Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),Machinery and equipment installation and repairs,kgCO2e/€,0.0349,0.39
+9522Z,Réparation d'appareils électroménagers et d'équipements pour la maison et le jardin,Repair of household appliances and home and garden equipment,Machinery and equipment (not elsewhere specified),Machinery and equipment installation and repairs,kgCO2e/€,0.2139,0.39
+9523Z,Réparation de chaussures et d'articles en cuir,Repair of footwear and leather goods,Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),Machinery and equipment installation and repairs,kgCO2e/€,0.0349,0.39
+9524Z,Réparation de meubles et d'équipements du foyer,Repair of furniture and home furnishings,Furniture/other manufactured goods (not elsewhere specified),Machinery and equipment installation and repairs,kgCO2e/€,0.1881,0.39
+9525Z,Réparation d'articles d'horlogerie et de bijouterie,"Repair of watches, clocks and jewellery",Retail trade (except of motor vehicles and motorcycles) and repair of personal and household goods (services),Machinery and equipment installation and repairs,kgCO2e/€,0.0349,0.39
+9529Z,Réparation d'autres biens personnels et domestiques,Repair of other personal and household goods,Furniture/other manufactured goods (not elsewhere specified),Machinery and equipment installation and repairs,kgCO2e/€,0.1881,0.39
+9601A,Blanchisserie-teinturerie de gros,Washing and dry cleaning general services,Other services (not elsewhere specified),,kgCO2e/€,0.0614,
+9601B,Blanchisserie-teinturerie de détail,Washing and dry cleaning household services,Other services (not elsewhere specified),,kgCO2e/€,0.0614,
+9602A,Coiffure,Hairdressing,Other services (not elsewhere specified),,kgCO2e/€,0.0614,
+9602B,Soins de beauté,Beauty treatment,Other services (not elsewhere specified),,kgCO2e/€,0.0614,
+9603Z,Services funéraires,Funeral and related activities,Other services (not elsewhere specified),,kgCO2e/€,0.0614,
+9604Z,Entretien corporel,Physical well-being activities,Other services (not elsewhere specified),,kgCO2e/€,0.0614,
+9609Z,Autres services personnels n.c.a.,Other personal service activities n.e.c.,Other services (not elsewhere specified),,kgCO2e/€,0.0614,
+9700Z,Activités des ménages en tant qu'employeurs de personnel domestique,Activities of households as employers of domestic personnel,Private households with employed persons,,kgCO2e/€,0.0051,
+9810Z,Activités indifférenciées des ménages en tant que producteurs de biens pour usage propre,Undifferentiated goods-producing activities of private households for own use,Private households with employed persons,,kgCO2e/€,0.0051,
+9820Z,Activités indifférenciées des ménages en tant que producteurs de services pour usage propre,Undifferentiated service-producing activities of private households for own use,Private households with employed persons,,kgCO2e/€,0.0051,
+9900Z,Activités des organisations et organismes extraterritoriaux,Activities of extraterritorial organisations and bodies,,,kgCO2e/€,,
