@@ -33,7 +33,7 @@ The final output file is `results.csv`. We use commas as separators. Here is a q
 | `ADEME Name`       | Name of ADEME category mapped to a given NAF.    |
 | `Unit`             | Unit of monetary factor.                         |
 | `EXIOBASE Factor`  | Monetary factor of a given NAF                   |
-| `ADEME Factor`     | Monetary factor of a given MCC.                  |
+| `ADEME Factor`     | Monetary factor of a given NAF.                  |
 
 ## Sources
 
