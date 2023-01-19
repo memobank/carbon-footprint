@@ -4,7 +4,7 @@
 
 ### English
 
-The goal of this dataset is to provide an estimate of the carbon footprint of purchases made by payment cards through the Visa or Mastercard network. The estimate is based on the Merchant Category Code of the transaction, the country of the merchant, and monetary factors. 
+The goal of this dataset is to provide an estimate of the carbon footprint of purchases made by payment cards through the Visa or Mastercard network. The estimate is based on the Merchant Category Code of the transaction, the country of the merchant, and monetary factors.
 
 ### French
 
@@ -18,25 +18,18 @@ Whenever a country of the ISO-3166-1 list existed in the EXIOBASE database, we m
 
 1. A nearby country with a monetary factor that would likely be similar. For example, we mapped:
 
-    * Andorra and Monaco to France
-
-    * San Marino and Vatican to Italy
-
-    * Gibraltar to Spain
-
-    * Hong Kong and Macau to China
+   - Andorra and Monaco to France
+   - San Marino and Vatican to Italy
+   - Gibraltar to Spain
+   - Hong Kong and Macau to China
 
 2. One of the rest of world regions based on the location of the country:
 
-    * Central Asia and Pacific Asia Oceania Antarctica
-
-    * East Europe and Iceland
-
-    * Africa except Egypt and South Africa
-
-    * Latin America except Brazil
-
-    * Middle East Asia and Egypt.
+   - Central Asia and Pacific Asia Oceania Antarctica
+   - East Europe and Iceland
+   - Africa except Egypt and South Africa
+   - Latin America except Brazil
+   - Middle East Asia and Egypt.
 
 ### Merchant Category Code to EXIOBASE
 
@@ -46,15 +39,15 @@ Mapping between the list of Merchant Category Codes and EXIOBASE was done manual
 
 The final output file is `results.csv`. We use commas as separators. Here is a quick description of each column:
 
-| Column Name     | Column Description                                                                              |
-|-----------------|-------------------------------------------------------------------------------------------------|
-| `MCC`           | Merchant Category Code number provided by Visa.                                                 |
-| `MCC Name`      | Name of Merchant Category Code provided by Visa.                                                |
-| `EXIOBASE Name` | Name of EXIOBASE category mapped to a given MCC.                                                |
-| `Network`       | Payment network using this MCC: Visa and/or Mastercard.                                         |
-| `Year`          | Year of EXIOBASE data.                                                                          |
-| `Unit`          | Unit of EXIOBASE monetary factor.                                                               |
-| `AD` (example)  | Monetary factor of a given MCC and a given country, represented by its ISO 3166-1 alpha-2 code. |
+| Column Name | Column Description |
+| --- | --- |
+| `MCC` | Merchant Category Code number provided by Visa. |
+| `MCC Name` | Name of Merchant Category Code provided by Visa. |
+| `EXIOBASE Name` | Name of EXIOBASE category mapped to a given MCC. |
+| `Network` | Payment network using this MCC: Visa and/or Mastercard. |
+| `Year` | Year of EXIOBASE data. |
+| `Unit` | Unit of EXIOBASE monetary factor. |
+| `AD` (example) | Monetary factor of a given MCC and a given country, represented by its ISO 3166-1 alpha-2 code. |
 
 ## Sources
 
@@ -62,9 +55,8 @@ The final output file is `results.csv`. We use commas as separators. Here is a q
 
 This list of MCCs combines MCC from both Visa and Mastercard network:
 
-* The list of Visa MCC was released publicly in [November 2021](https://usa.visa.com/content/dam/VCOM/download/merchants/visa-merchant-data-standards-manual.pdf);
-
-* The list of Mastercard MCC was released publicly in [October 2022](https://www.mastercard.us/content/dam/public/mastercardcom/na/global-site/documents/quick-reference-booklet-merchant.pdf).
+- The list of Visa MCC was released publicly in [November 2021](https://usa.visa.com/content/dam/VCOM/download/merchants/visa-merchant-data-standards-manual.pdf);
+- The list of Mastercard MCC was released publicly in [October 2022](https://www.mastercard.us/content/dam/public/mastercardcom/na/global-site/documents/quick-reference-booklet-merchant.pdf).
 
 Both sources are used officially by institutions like [Citibank](https://www.citibank.com/tts/solutions/commercial-cards/assets/docs/govt/Merchant-Category-Codes.pdf) and [Wikipedia](https://en.wikipedia.org/wiki/Merchant_category_code). More up-to-date versions may exist but have not been provided by Visa or Mastercard so far.
 
