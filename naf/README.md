@@ -25,7 +25,7 @@ French NAF codes were manually mapped to ADEME categories whenever possible.
 The final output file is `results.csv`. We use commas as separators. Here is a quick description of each column:
 
 | Column Name        | Column Description                               |
-|--------------------|--------------------------------------------------|
+| ------------------ | ------------------------------------------------ |
 | `NAF Code`         | Code of the sector provided by INSEE.            |
 | `NAF French Name`  | French name of the sector provided INSEE.        |
 | `NAF English Name` | English name of the sector provided INSEE.       |
