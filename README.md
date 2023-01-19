@@ -10,9 +10,13 @@ The goal of this repository is to provide useful data to third-parties to allow 
 
 The goal of this dataset is to provide an estimate of the carbon footprint of purchases made by payment cards through the Visa or Mastercard network. The estimate is based on the Merchant Category Code of the transaction, the country of the merchant, and monetary factors.
 
+[See our payment cards dataset](https://github.com/memobank/carbon-footprint/tree/main/payment-cards)
+
 ### NAF codes
 
 The goal of this dataset is to provide an estimate of the carbon footprint of a given NAF or APE code.
+
+[See our NAF codes dataset](https://github.com/memobank/carbon-footprint/tree/main/naf)
 
 ## Contributors
 
