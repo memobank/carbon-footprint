@@ -70,7 +70,7 @@ The list of countries has been extracted from the Github repository [ISO-3166-Co
 
 ## Additional resources
 
-To understand how we use this data on our own service, you can find more information on its [help centre](https://docs.google.com/document/d/1sl2Wh3h6sv0-wrhWmjbmQRoqvP1q3JoHZOEthZlsCsM/edit#) (in French).
+To understand how we use this data on our own service, you can find more information on its [help centre](https://aide.memo.bank/article/356-comprendre-lien-paiement-carte-emissions-co2) (in French).
 
 ## Contributors
 
