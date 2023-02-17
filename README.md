@@ -18,11 +18,11 @@ The goal of this dataset is to provide an estimate of the carbon footprint of a 
 
 [See our NAF codes dataset](https://github.com/memobank/carbon-footprint/tree/main/naf)
 
-### Credit institutions
+### Financial institutions
 
-The goal of this dataset is to collect available data about the intensity factor of French credit institutions whenever they invest 1 million euros.
+The goal of this dataset is to collect available data about the intensity factor of French financial institutions whenever they invest 1 million euros.
 
-[See our credit institutions dataset](https://github.com/memobank/carbon-footprint/tree/main/credit-institutions)
+[See our financial institutions dataset](https://github.com/memobank/carbon-footprint/tree/main/financial-institutions)
 
 ## Contributors
 
