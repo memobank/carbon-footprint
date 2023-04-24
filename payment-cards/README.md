@@ -62,7 +62,7 @@ Both sources are used officially by institutions like [Citibank](https://www.cit
 
 ### EXIOBASE Monetary Factors
 
-Monetary factors are extracted from [EXIOBASE3 monetary database](https://www.exiobase.eu/index.php/data-download/exiobase3hyb). This database is licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). Any usage of EXIOBASE3 data should mention its licence. EXIOBASE3 includes monetary factors for 185 industries, across 49 geographical areas (44 countries and 5 rest of world areas). Extraction from EXIOBASE was performed using [Climatiq.io](https://www.climatiq.io/explorer?source=EXIOBASE&year=2021) Data explorer. EXIOBASE3 source data range from 2011 to 2019.
+Monetary factors are extracted from [EXIOBASE3 monetary database](https://www.exiobase.eu/index.php/data-download/exiobase3hyb). This database is licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). Any usage of EXIOBASE3 data should mention its licence. EXIOBASE3 includes monetary factors for 185 industries, across 49 geographical areas (44 countries and 5 rest of world areas). EXIOBASE3 source data range from 2011 to 2019.
 
 ### Countries
 
