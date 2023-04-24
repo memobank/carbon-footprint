@@ -1,250 +1,250 @@
-ISO Country Code,ISO Country Name,EXIOBASE Region Code,EXIOBASE Region Name
-AD,Andorra,FR,France
-AE,United Arab Emirates,ROW_WM,Middle East Asia and Egypt
-AF,Afghanistan,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-AG,Antigua and Barbuda,ROW_WL,Latin America except Brazil
-AI,Anguilla,ROW_WL,Latin America except Brazil
-AL,Albania,ROW_WE,East Europe and Iceland
-AM,Armenia,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-AO,Angola,ROW_WF,Africa except Egypt and South Africa
-AQ,Antarctica,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-AR,Argentina,ROW_WL,Latin America except Brazil
-AS,American Samoa,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-AT,Austria,AT,Austria
-AU,Australia,AU,Australia
-AW,Aruba,ROW_WL,Latin America except Brazil
-AX,Aland Islands,ROW_WE,East Europe and Iceland
-AZ,Azerbaijan,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-BA,Bosnia and Herzegovina,ROW_WE,East Europe and Iceland
-BB,Barbados,ROW_WL,Latin America except Brazil
-BD,Bangladesh,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-BE,Belgium,BE,Belgium
-BF,Burkina Faso,ROW_WF,Africa except Egypt and South Africa
-BG,Bulgaria,BG,Bulgaria
-BH,Bahrain,ROW_WM,Middle East Asia and Egypt
-BI,Burundi,ROW_WF,Africa except Egypt and South Africa
-BJ,Benin,ROW_WF,Africa except Egypt and South Africa
-BL,Saint Barthelemy,ROW_WL,Latin America except Brazil
-BM,Bermuda,ROW_WL,Latin America except Brazil
-BN,Brunei,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-BO,Bolivia,ROW_WL,Latin America except Brazil
-BQ,"Bonaire, Saint Eustatius and Saba",ROW_WL,Latin America except Brazil
-BR,Brazil,BR,Brazil
-BS,Bahamas,ROW_WL,Latin America except Brazil
-BT,Bhutan,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-BV,Bouvet Island,ROW_WL,Latin America except Brazil
-BW,Botswana,ROW_WF,Africa except Egypt and South Africa
-BY,Belarus,ROW_WE,East Europe and Iceland
-BZ,Belize,ROW_WL,Latin America except Brazil
-CA,Canada,CA,Canada
-CC,Cocos Islands,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-CD,Democratic Republic of the Congo,ROW_WF,Africa except Egypt and South Africa
-CF,Central African Republic,ROW_WF,Africa except Egypt and South Africa
-CG,Republic of the Congo,ROW_WF,Africa except Egypt and South Africa
-CH,Switzerland,CH,Switzerland
-CI,Ivory Coast,ROW_WF,Africa except Egypt and South Africa
-CK,Cook Islands,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-CL,Chile,ROW_WL,Latin America except Brazil
-CM,Cameroon,ROW_WF,Africa except Egypt and South Africa
-CN,China,CN,China
-CO,Colombia,ROW_WL,Latin America except Brazil
-CR,Costa Rica,ROW_WL,Latin America except Brazil
-CU,Cuba,ROW_WL,Latin America except Brazil
-CV,Cabo Verde,ROW_WF,Africa except Egypt and South Africa
-CW,Curacao,ROW_WL,Latin America except Brazil
-CX,Christmas Island,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-CY,Cyprus,CY,Cyprus
-CZ,Czechia,CZ,Czech Republic
-DE,Germany,DE,Germany
-DJ,Djibouti,ROW_WF,Africa except Egypt and South Africa
-DK,Denmark,DK,Denmark
-DM,Dominica,ROW_WL,Latin America except Brazil
-DO,Dominican Republic,ROW_WL,Latin America except Brazil
-DZ,Algeria,ROW_WF,Africa except Egypt and South Africa
-EC,Ecuador,ROW_WL,Latin America except Brazil
-EE,Estonia,EE,Estonia
-EG,Egypt,ROW_WM,Middle East Asia and Egypt
-EH,Western Sahara,ROW_WF,Africa except Egypt and South Africa
-ER,Eritrea,ROW_WF,Africa except Egypt and South Africa
-ES,Spain,ES,Spain
-ET,Ethiopia,ROW_WF,Africa except Egypt and South Africa
-FI,Finland,FI,Finland
-FJ,Fiji,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-FK,Falkland Islands,ROW_WL,Latin America except Brazil
-FM,Micronesia,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-FO,Faroe Islands,ROW_WE,East Europe and Iceland
-FR,France,FR,France
-GA,Gabon,ROW_WF,Africa except Egypt and South Africa
-GB,United Kingdom,GB,United Kingdom
-GD,Grenada,ROW_WL,Latin America except Brazil
-GE,Georgia,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-GF,French Guiana,ROW_WL,Latin America except Brazil
-GG,Guernsey,ROW_WE,East Europe and Iceland
-GH,Ghana,ROW_WF,Africa except Egypt and South Africa
-GI,Gibraltar,ES,Spain
-GL,Greenland,ROW_WL,Latin America except Brazil
-GM,Gambia,ROW_WF,Africa except Egypt and South Africa
-GN,Guinea,ROW_WF,Africa except Egypt and South Africa
-GP,Guadeloupe,ROW_WL,Latin America except Brazil
-GQ,Equatorial Guinea,ROW_WF,Africa except Egypt and South Africa
-GR,Greece,GR,Greece
-GS,South Georgia and the South Sandwich Islands,ROW_WL,Latin America except Brazil
-GT,Guatemala,ROW_WL,Latin America except Brazil
-GU,Guam,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-GW,Guinea-Bissau,ROW_WF,Africa except Egypt and South Africa
-GY,Guyana,ROW_WL,Latin America except Brazil
-HK,Hong Kong,CN,China
-HM,Heard Island and McDonald Islands,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-HN,Honduras,ROW_WL,Latin America except Brazil
-HR,Croatia,HR,Croatia
-HT,Haiti,ROW_WL,Latin America except Brazil
-HU,Hungary,HU,Hungary
-ID,Indonesia,ID,Indonesia
-IE,Ireland,IE,Ireland
-IL,Israel,ROW_WM,Middle East Asia and Egypt
-IM,Isle of Man,ROW_WE,East Europe and Iceland
-IN,India,IN,India
-IO,British Indian Ocean Territory,ROW_WF,Africa except Egypt and South Africa
-IQ,Iraq,ROW_WM,Middle East Asia and Egypt
-IR,Iran,ROW_WM,Middle East Asia and Egypt
-IS,Iceland,ROW_WE,East Europe and Iceland
-IT,Italy,IT,Italy
-JE,Jersey,ROW_WE,East Europe and Iceland
-JM,Jamaica,ROW_WL,Latin America except Brazil
-JO,Jordan,ROW_WM,Middle East Asia and Egypt
-JP,Japan,JP,Japan
-KE,Kenya,ROW_WF,Africa except Egypt and South Africa
-KG,Kyrgyzstan,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-KH,Cambodia,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-KI,Kiribati,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-KM,Comoros,ROW_WF,Africa except Egypt and South Africa
-KN,Saint Kitts and Nevis,ROW_WL,Latin America except Brazil
-KP,North Korea,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-KR,South Korea,KR,Korea Republic of
-KW,Kuwait,ROW_WM,Middle East Asia and Egypt
-KY,Cayman Islands,ROW_WL,Latin America except Brazil
-KZ,Kazakhstan,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-LA,Laos,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-LB,Lebanon,ROW_WM,Middle East Asia and Egypt
-LC,Saint Lucia,ROW_WL,Latin America except Brazil
-LI,Liechtenstein,ROW_WE,East Europe and Iceland
-LK,Sri Lanka,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-LR,Liberia,ROW_WF,Africa except Egypt and South Africa
-LS,Lesotho,ROW_WF,Africa except Egypt and South Africa
-LT,Lithuania,LT,Lithuania
-LU,Luxembourg,LU,Luxembourg
-LV,Latvia,LV,Latvia
-LY,Libya,ROW_WF,Africa except Egypt and South Africa
-MA,Morocco,ROW_WF,Africa except Egypt and South Africa
-MC,Monaco,FR,France
-MD,Moldova,ROW_WE,East Europe and Iceland
-ME,Montenegro,ROW_WE,East Europe and Iceland
-MF,Saint Martin,ROW_WL,Latin America except Brazil
-MG,Madagascar,ROW_WF,Africa except Egypt and South Africa
-MH,Marshall Islands,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-MK,North Macedonia,ROW_WE,East Europe and Iceland
-ML,Mali,ROW_WF,Africa except Egypt and South Africa
-MM,Myanmar,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-MN,Mongolia,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-MO,Macao,CN,China
-MP,Northern Mariana Islands,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-MQ,Martinique,ROW_WL,Latin America except Brazil
-MR,Mauritania,ROW_WF,Africa except Egypt and South Africa
-MS,Montserrat,ROW_WL,Latin America except Brazil
-MT,Malta,MT,Malta
-MU,Mauritius,ROW_WF,Africa except Egypt and South Africa
-MV,Maldives,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-MW,Malawi,ROW_WF,Africa except Egypt and South Africa
-MX,Mexico,MX,Mexico
-MY,Malaysia,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-MZ,Mozambique,ROW_WF,Africa except Egypt and South Africa
-NA,Namibia,ROW_WF,Africa except Egypt and South Africa
-NC,New Caledonia,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-NE,Niger,ROW_WF,Africa except Egypt and South Africa
-NF,Norfolk Island,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-NG,Nigeria,ROW_WF,Africa except Egypt and South Africa
-NI,Nicaragua,ROW_WL,Latin America except Brazil
-NL,Netherlands,NL,Netherlands
-NO,Norway,NO,Norway
-NP,Nepal,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-NR,Nauru,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-NU,Niue,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-NZ,New Zealand,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-OM,Oman,ROW_WM,Middle East Asia and Egypt
-PA,Panama,ROW_WL,Latin America except Brazil
-PE,Peru,ROW_WL,Latin America except Brazil
-PF,French Polynesia,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-PG,Papua New Guinea,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-PH,Philippines,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-PK,Pakistan,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-PL,Poland,PL,Poland
-PM,Saint Pierre and Miquelon,ROW_WL,Latin America except Brazil
-PN,Pitcairn,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-PR,Puerto Rico,ROW_WL,Latin America except Brazil
-PS,Palestinian Territory,ROW_WM,Middle East Asia and Egypt
-PT,Portugal,PT,Portugal
-PW,Palau,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-PY,Paraguay,ROW_WL,Latin America except Brazil
-QA,Qatar,ROW_WM,Middle East Asia and Egypt
-RE,Reunion,ROW_WF,Africa except Egypt and South Africa
-RO,Romania,RO,Romania
-RS,Serbia,ROW_WE,East Europe and Iceland
-RU,Russia,RU,Russian Federation
-RW,Rwanda,ROW_WF,Africa except Egypt and South Africa
-SA,Saudi Arabia,ROW_WM,Middle East Asia and Egypt
-SB,Solomon Islands,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-SC,Seychelles,ROW_WF,Africa except Egypt and South Africa
-SD,Sudan,ROW_WF,Africa except Egypt and South Africa
-SE,Sweden,SE,Sweden
-SG,Singapore,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-SH,Saint Helena,ROW_WF,Africa except Egypt and South Africa
-SI,Slovenia,SI,Slovenia
-SJ,Svalbard and Jan Mayen,ROW_WE,East Europe and Iceland
-SK,Slovakia,SK,Slovakia
-SL,Sierra Leone,ROW_WF,Africa except Egypt and South Africa
-SM,San Marino,IT,Italy
-SN,Senegal,ROW_WF,Africa except Egypt and South Africa
-SO,Somalia,ROW_WF,Africa except Egypt and South Africa
-SR,Suriname,ROW_WL,Latin America except Brazil
-SS,South Sudan,ROW_WF,Africa except Egypt and South Africa
-ST,Sao Tome and Principe,ROW_WF,Africa except Egypt and South Africa
-SV,El Salvador,ROW_WL,Latin America except Brazil
-SX,Sint Maarten,ROW_WL,Latin America except Brazil
-SY,Syria,ROW_WM,Middle East Asia and Egypt
-SZ,Eswatini,ROW_WF,Africa except Egypt and South Africa
-TC,Turks and Caicos Islands,ROW_WL,Latin America except Brazil
-TD,Chad,ROW_WF,Africa except Egypt and South Africa
-TF,French Southern Territories,ROW_WF,Africa except Egypt and South Africa
-TG,Togo,ROW_WF,Africa except Egypt and South Africa
-TH,Thailand,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-TJ,Tajikistan,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-TK,Tokelau,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-TL,Timor Leste,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-TM,Turkmenistan,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-TN,Tunisia,ROW_WF,Africa except Egypt and South Africa
-TO,Tonga,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-TR,Turkey,TR,Turkey
-TT,Trinidad and Tobago,ROW_WL,Latin America except Brazil
-TV,Tuvalu,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-TW,Taiwan,TW,Taiwan Province of China
-TZ,Tanzania,ROW_WF,Africa except Egypt and South Africa
-UA,Ukraine,ROW_WE,East Europe and Iceland
-UG,Uganda,ROW_WF,Africa except Egypt and South Africa
-UM,United States Minor Outlying Islands,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-US,United States,US,United States
-UY,Uruguay,ROW_WL,Latin America except Brazil
-UZ,Uzbekistan,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-VA,Vatican,IT,Italy
-VC,Saint Vincent and the Grenadines,ROW_WL,Latin America except Brazil
-VE,Venezuela,ROW_WL,Latin America except Brazil
-VG,British Virgin Islands,ROW_WL,Latin America except Brazil
-VI,U.S. Virgin Islands,ROW_WL,Latin America except Brazil
-VN,Vietnam,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-VU,Vanuatu,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-WF,Wallis and Futuna,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-WS,Samoa,ROW_WA,Central Asia and Pacific Asia Oceania Antarctica
-YE,Yemen,ROW_WM,Middle East Asia and Egypt
-YT,Mayotte,ROW_WF,Africa except Egypt and South Africa
-ZA,South Africa,ZA,South Africa
-ZM,Zambia,ROW_WF,Africa except Egypt and South Africa
-ZW,Zimbabwe,ROW_WF,Africa except Egypt and South Africa
+ISO Country Code,ISO Country Name,EXIOBASE Region Name
+AD,Andorra,France
+AE,United Arab Emirates,RoW Middle East
+AF,Afghanistan,RoW Asia-Pacific
+AG,Antigua and Barbuda,RoW Americas
+AI,Anguilla,RoW Americas
+AL,Albania,RoW Europe
+AM,Armenia,RoW Asia-Pacific
+AO,Angola,RoW Africa
+AQ,Antarctica,RoW Asia-Pacific
+AR,Argentina,RoW Americas
+AS,American Samoa,RoW Asia-Pacific
+AT,Austria,Austria
+AU,Australia,Australia
+AW,Aruba,RoW Americas
+AX,Aland Islands,RoW Europe
+AZ,Azerbaijan,RoW Asia-Pacific
+BA,Bosnia and Herzegovina,RoW Europe
+BB,Barbados,RoW Americas
+BD,Bangladesh,RoW Asia-Pacific
+BE,Belgium,Belgium
+BF,Burkina Faso,RoW Africa
+BG,Bulgaria,Bulgaria
+BH,Bahrain,RoW Middle East
+BI,Burundi,RoW Africa
+BJ,Benin,RoW Africa
+BL,Saint Barthelemy,RoW Americas
+BM,Bermuda,RoW Americas
+BN,Brunei,RoW Asia-Pacific
+BO,Bolivia,RoW Americas
+BQ,"Bonaire, Saint Eustatius and Saba",RoW Americas
+BR,Brazil,Brazil
+BS,Bahamas,RoW Americas
+BT,Bhutan,RoW Asia-Pacific
+BV,Bouvet Island,RoW Americas
+BW,Botswana,RoW Africa
+BY,Belarus,RoW Europe
+BZ,Belize,RoW Americas
+CA,Canada,Canada
+CC,Cocos Islands,RoW Asia-Pacific
+CD,Democratic Republic of the Congo,RoW Africa
+CF,Central African Republic,RoW Africa
+CG,Republic of the Congo,RoW Africa
+CH,Switzerland,Switzerland
+CI,Ivory Coast,RoW Africa
+CK,Cook Islands,RoW Asia-Pacific
+CL,Chile,RoW Americas
+CM,Cameroon,RoW Africa
+CN,China,China
+CO,Colombia,RoW Americas
+CR,Costa Rica,RoW Americas
+CU,Cuba,RoW Americas
+CV,Cabo Verde,RoW Africa
+CW,Curacao,RoW Americas
+CX,Christmas Island,RoW Asia-Pacific
+CY,Cyprus,Cyprus
+CZ,Czechia,Czech Republic
+DE,Germany,Germany
+DJ,Djibouti,RoW Africa
+DK,Denmark,Denmark
+DM,Dominica,RoW Americas
+DO,Dominican Republic,RoW Americas
+DZ,Algeria,RoW Africa
+EC,Ecuador,RoW Americas
+EE,Estonia,Estonia
+EG,Egypt,RoW Middle East
+EH,Western Sahara,RoW Africa
+ER,Eritrea,RoW Africa
+ES,Spain,Spain
+ET,Ethiopia,RoW Africa
+FI,Finland,Finland
+FJ,Fiji,RoW Asia-Pacific
+FK,Falkland Islands,RoW Americas
+FM,Micronesia,RoW Asia-Pacific
+FO,Faroe Islands,RoW Europe
+FR,France,France
+GA,Gabon,RoW Africa
+GB,United Kingdom,United Kingdom
+GD,Grenada,RoW Americas
+GE,Georgia,RoW Asia-Pacific
+GF,French Guiana,RoW Americas
+GG,Guernsey,RoW Europe
+GH,Ghana,RoW Africa
+GI,Gibraltar,Spain
+GL,Greenland,RoW Americas
+GM,Gambia,RoW Africa
+GN,Guinea,RoW Africa
+GP,Guadeloupe,RoW Americas
+GQ,Equatorial Guinea,RoW Africa
+GR,Greece,Greece
+GS,South Georgia and the South Sandwich Islands,RoW Americas
+GT,Guatemala,RoW Americas
+GU,Guam,RoW Asia-Pacific
+GW,Guinea-Bissau,RoW Africa
+GY,Guyana,RoW Americas
+HK,Hong Kong,China
+HM,Heard Island and McDonald Islands,RoW Asia-Pacific
+HN,Honduras,RoW Americas
+HR,Croatia,Croatia
+HT,Haiti,RoW Americas
+HU,Hungary,Hungary
+ID,Indonesia,Indonesia
+IE,Ireland,Ireland
+IL,Israel,RoW Middle East
+IM,Isle of Man,RoW Europe
+IN,India,India
+IO,British Indian Ocean Territory,RoW Africa
+IQ,Iraq,RoW Middle East
+IR,Iran,RoW Middle East
+IS,Iceland,RoW Europe
+IT,Italy,Italy
+JE,Jersey,RoW Europe
+JM,Jamaica,RoW Americas
+JO,Jordan,RoW Middle East
+JP,Japan,Japan
+KE,Kenya,RoW Africa
+KG,Kyrgyzstan,RoW Asia-Pacific
+KH,Cambodia,RoW Asia-Pacific
+KI,Kiribati,RoW Asia-Pacific
+KM,Comoros,RoW Africa
+KN,Saint Kitts and Nevis,RoW Americas
+KP,North Korea,RoW Asia-Pacific
+KR,South Korea,South Korea
+KW,Kuwait,RoW Middle East
+KY,Cayman Islands,RoW Americas
+KZ,Kazakhstan,RoW Asia-Pacific
+LA,Laos,RoW Asia-Pacific
+LB,Lebanon,RoW Middle East
+LC,Saint Lucia,RoW Americas
+LI,Liechtenstein,Switzerland
+LK,Sri Lanka,RoW Asia-Pacific
+LR,Liberia,RoW Africa
+LS,Lesotho,RoW Africa
+LT,Lithuania,Lithuania
+LU,Luxembourg,Luxembourg
+LV,Latvia,Latvia
+LY,Libya,RoW Africa
+MA,Morocco,RoW Africa
+MC,Monaco,France
+MD,Moldova,RoW Europe
+ME,Montenegro,RoW Europe
+MF,Saint Martin,RoW Americas
+MG,Madagascar,RoW Africa
+MH,Marshall Islands,RoW Asia-Pacific
+MK,North Macedonia,RoW Europe
+ML,Mali,RoW Africa
+MM,Myanmar,RoW Asia-Pacific
+MN,Mongolia,RoW Asia-Pacific
+MO,Macao,China
+MP,Northern Mariana Islands,RoW Asia-Pacific
+MQ,Martinique,RoW Americas
+MR,Mauritania,RoW Africa
+MS,Montserrat,RoW Americas
+MT,Malta,Malta
+MU,Mauritius,RoW Africa
+MV,Maldives,RoW Asia-Pacific
+MW,Malawi,RoW Africa
+MX,Mexico,Mexico
+MY,Malaysia,RoW Asia-Pacific
+MZ,Mozambique,RoW Africa
+NA,Namibia,RoW Africa
+NC,New Caledonia,RoW Asia-Pacific
+NE,Niger,RoW Africa
+NF,Norfolk Island,RoW Asia-Pacific
+NG,Nigeria,RoW Africa
+NI,Nicaragua,RoW Americas
+NL,Netherlands,Netherlands
+NO,Norway,Norway
+NP,Nepal,RoW Asia-Pacific
+NR,Nauru,RoW Asia-Pacific
+NU,Niue,RoW Asia-Pacific
+NZ,New Zealand,RoW Asia-Pacific
+OM,Oman,RoW Middle East
+PA,Panama,RoW Americas
+PE,Peru,RoW Americas
+PF,French Polynesia,RoW Asia-Pacific
+PG,Papua New Guinea,RoW Asia-Pacific
+PH,Philippines,RoW Asia-Pacific
+PK,Pakistan,RoW Asia-Pacific
+PL,Poland,Poland
+PM,Saint Pierre and Miquelon,RoW Americas
+PN,Pitcairn,RoW Asia-Pacific
+PR,Puerto Rico,RoW Americas
+PS,Palestinian Territory,RoW Middle East
+PT,Portugal,Portugal
+PW,Palau,RoW Asia-Pacific
+PY,Paraguay,RoW Americas
+QA,Qatar,RoW Middle East
+RE,Reunion,RoW Africa
+RO,Romania,Romania
+RS,Serbia,RoW Europe
+RU,Russia,Russia
+RW,Rwanda,RoW Africa
+SA,Saudi Arabia,RoW Middle East
+SB,Solomon Islands,RoW Asia-Pacific
+SC,Seychelles,RoW Africa
+SD,Sudan,RoW Africa
+SE,Sweden,Sweden
+SG,Singapore,RoW Asia-Pacific
+SH,Saint Helena,RoW Africa
+SI,Slovenia,Slovenia
+SJ,Svalbard and Jan Mayen,RoW Europe
+SK,Slovakia,Slovakia
+SL,Sierra Leone,RoW Africa
+SM,San Marino,Italy
+SN,Senegal,RoW Africa
+SO,Somalia,RoW Africa
+SR,Suriname,RoW Americas
+SS,South Sudan,RoW Africa
+ST,Sao Tome and Principe,RoW Africa
+SV,El Salvador,RoW Americas
+SX,Sint Maarten,RoW Americas
+SY,Syria,RoW Middle East
+SZ,Eswatini,RoW Africa
+TC,Turks and Caicos Islands,RoW Americas
+TD,Chad,RoW Africa
+TF,French Southern Territories,RoW Africa
+TG,Togo,RoW Africa
+TH,Thailand,RoW Asia-Pacific
+TJ,Tajikistan,RoW Asia-Pacific
+TK,Tokelau,RoW Asia-Pacific
+TL,Timor Leste,RoW Asia-Pacific
+TM,Turkmenistan,RoW Asia-Pacific
+TN,Tunisia,RoW Africa
+TO,Tonga,RoW Asia-Pacific
+TR,Turkey,Turkey
+TT,Trinidad and Tobago,RoW Americas
+TV,Tuvalu,RoW Asia-Pacific
+TW,Taiwan,Taiwan
+TZ,Tanzania,RoW Africa
+UA,Ukraine,RoW Europe
+UG,Uganda,RoW Africa
+UM,United States Minor Outlying Islands,RoW Asia-Pacific
+US,United States,United States of America
+UY,Uruguay,RoW Americas
+UZ,Uzbekistan,RoW Asia-Pacific
+VA,Vatican,Italy
+VC,Saint Vincent and the Grenadines,RoW Americas
+VE,Venezuela,RoW Americas
+VG,British Virgin Islands,RoW Americas
+VI,U.S. Virgin Islands,RoW Americas
+VN,Vietnam,RoW Asia-Pacific
+VU,Vanuatu,RoW Asia-Pacific
+WF,Wallis and Futuna,RoW Asia-Pacific
+WS,Samoa,RoW Asia-Pacific
+YE,Yemen,RoW Middle East
+YT,Mayotte,RoW Africa
+ZA,South Africa,South Africa
+ZM,Zambia,RoW Africa
+ZW,Zimbabwe,RoW Africa
