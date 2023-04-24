@@ -14,5 +14,5 @@ In both cases, make sure to document your suggestions or changes.
 You may contribute to the improvement of these datasets by:
 
 - Providing more up-to-date monetary factors
-- Adding missing information (MCC, countries, NAFs, etc.)
+- Adding missing information
 - Suggesting different mappings and concordances.
