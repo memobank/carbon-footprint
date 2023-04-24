@@ -12,11 +12,11 @@ The goal of this dataset is to provide an estimate of the carbon footprint of pu
 
 [See our payment cards dataset](https://github.com/memobank/carbon-footprint/tree/main/payment-cards)
 
-### NAF codes
+### NACE Rev. 2 codes
 
-The goal of this dataset is to provide an estimate of the carbon footprint of a given NAF or APE code.
+The goal of this dataset is to provide an estimate of the carbon footprint of a given NACE Rev. 2 code at level 4.
 
-[See our NAF codes dataset](https://github.com/memobank/carbon-footprint/tree/main/naf)
+[See our NACE Rev. 2 codes dataset](https://github.com/memobank/carbon-footprint/tree/main/nace2)
 
 ### Financial institutions
 
