@@ -8,7 +8,7 @@ The goal of this dataset is to provide an estimate of the carbon footprint of a 
 
 ### French
 
-L’objectif de ce jeu de données est de fournir un ratio monétaire, ou facteur monétaire d’intensité carbone, pour un code NACE Rév. 2 de niveau 4 donné. Les codes APE ou NAF français sont équivalents à un niveau 5 dans la nomenclature NACE Rév. 2. Pour obtenir le ratio monétaire d’un code APE ou NAF français, il suffit donc de prendre le ratio monétaire associé aux quatre premiers caractères du code.
+L’objectif de ce jeu de données est de fournir un ratio monétaire, ou facteur monétaire d’intensité carbone, pour un code NACE Rév. 2 de niveau 4 donné. Les codes APE ou NAF français sont équivalents à un niveau 5 dans la nomenclature NACE Rév. 2. Pour obtenir le ratio monétaire d’un code APE ou NAF français, il suffit donc de prendre le ratio monétaire associé aux quatre premiers caractères du code. Par exemple, le code NACE Rév. 2 de niveau 4 associé au code APE ou NAF 6419Z est 6419.
 
 ## Methodology
 

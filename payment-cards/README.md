@@ -41,8 +41,8 @@ The final output file is `results.csv`. We use commas as separators. Here is a q
 
 | Column Name | Column Description |
 | --- | --- |
-| `MCC` | Merchant Category Code number provided by Visa. |
-| `MCC Name` | Name of Merchant Category Code provided by Visa. |
+| `MCC` | Merchant Category Code number provided by Visa or Mastercard. |
+| `MCC Name` | Name of Merchant Category Code provided by Visa or Mastercard. |
 | `EXIOBASE Name` | Name of EXIOBASE category mapped to a given MCC. |
 | `Network` | Payment network using this MCC: Visa and/or Mastercard. |
 | `Year` | Year of EXIOBASE data. |
@@ -53,12 +53,12 @@ The final output file is `results.csv`. We use commas as separators. Here is a q
 
 ### Merchant Category Codes (MCC)
 
-This list of MCCs combines MCC from both Visa and Mastercard network:
+This list of MCCs combines MCC from both Visa and Mastercard networks:
 
 - The list of Visa MCC was released publicly in [November 2021](https://usa.visa.com/content/dam/VCOM/download/merchants/visa-merchant-data-standards-manual.pdf);
 - The list of Mastercard MCC was released publicly in [October 2022](https://www.mastercard.us/content/dam/public/mastercardcom/na/global-site/documents/quick-reference-booklet-merchant.pdf).
 
-Both sources are used officially by institutions like [Citibank](https://www.citibank.com/tts/solutions/commercial-cards/assets/docs/govt/Merchant-Category-Codes.pdf) and [Wikipedia](https://en.wikipedia.org/wiki/Merchant_category_code). More up-to-date versions may exist but have not been provided by Visa or Mastercard so far.
+Both sources are used officially by institutions like [Citibank](https://www.citibank.com/tts/solutions/commercial-cards/assets/docs/govt/Merchant-Category-Codes.pdf) and [Wikipedia](https://en.wikipedia.org/wiki/Merchant_category_code). More up-to-date versions may exist but have not been provided publicly by Visa or Mastercard so far.
 
 ### EXIOBASE Monetary Factors
 
@@ -70,7 +70,7 @@ The list of countries has been extracted from the Github repository [ISO-3166-Co
 
 ## Additional resources
 
-To understand how we use this data on our own service, you can find more information on its [help centre](https://aide.memo.bank/article/356-comprendre-lien-paiement-carte-emissions-co2) (in French).
+To understand how Memo Bank uses this data on its own service, you can find more information on its [help centre](https://aide.memo.bank/article/356-comprendre-lien-paiement-carte-emissions-co2) (in French).
 
 ## Contributors
 
