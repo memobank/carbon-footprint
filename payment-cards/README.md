@@ -4,11 +4,11 @@
 
 ### English
 
-The goal of this dataset is to provide an estimate of the carbon footprint of purchases made by payment cards through the Visa or Mastercard network. The estimate is based on the Merchant Category Code of the transaction, the country of the merchant, and monetary factors.
+The goal of this dataset is to provide an estimate of the carbon footprint of purchases made by payment cards through the Visa or Mastercard network. The estimate is based on the Merchant Category Code of the transaction, the country of the merchant, and monetary factors. These monetary factors include scope 1, 2 and 3.
 
 ### French
 
-L’objectif de ce jeu de données est de fournir une estimation de l’empreinte carbone d’un achat réalisé par carte bancaire via le réseau Visa ou Mastercard. Cette estimation est calculée à partir de la catégorie du marchand, de son pays, et d’un facteur monétaire.
+L’objectif de ce jeu de données est de fournir une estimation de l’empreinte carbone d’un achat réalisé par carte bancaire via le réseau Visa ou Mastercard. Cette estimation est calculée à partir de la catégorie du marchand, de son pays, et d’un ratio monétaire. Ce ratio monétaire inclut les scopes 1, 2 et 3.
 
 ## Methodology
 
@@ -62,7 +62,7 @@ Both sources are used officially by institutions like [Citibank](https://www.cit
 
 ### EXIOBASE Monetary Factors
 
-Monetary factors are extracted from [EXIOBASE3 monetary database](https://www.exiobase.eu/index.php/data-download/exiobase3hyb). This database is licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). Any usage of EXIOBASE3 data should mention its licence. EXIOBASE3 includes monetary factors for 185 industries, across 49 geographical areas (44 countries and 5 rest of world areas). EXIOBASE3 source data range from 2011 to 2019.
+Monetary factors are extracted from [EXIOBASE3 monetary database](https://www.exiobase.eu/index.php/data-download/exiobase3hyb). This database is licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). Any usage of EXIOBASE3 data should mention its licence. EXIOBASE3 includes monetary factors for 185 industries, across 49 geographical areas (44 countries and 5 rest of world areas), for all scopes (1, 2, 3). EXIOBASE3 source data range from 2011 to 2019.
 
 ### Countries
 
