@@ -4,11 +4,11 @@
 
 ### English
 
-The goal of this dataset is to provide an estimate of the carbon footprint of a given NACE Rev. 2 code level 4.
+The goal of this dataset is to provide an estimate of the carbon monetary factors of a given NACE Rev. 2 code level 4. These monetary factors include scope 1, 2 and 3.
 
 ### French
 
-L’objectif de ce jeu de données est de fournir un ratio monétaire, ou facteur monétaire d’intensité carbone, pour un code NACE Rév. 2 de niveau 4 donné. Les codes APE ou NAF français sont équivalents à un niveau 5 dans la nomenclature NACE Rév. 2. Pour obtenir le ratio monétaire d’un code APE ou NAF français, il suffit donc de prendre le ratio monétaire associé aux quatre premiers caractères du code. Par exemple, le code NACE Rév. 2 de niveau 4 associé au code APE ou NAF 6419Z est 6419.
+L’objectif de ce jeu de données est de fournir un ratio monétaire, ou facteur monétaire d’intensité carbone, pour un code NACE Rév. 2 de niveau 4 donné. Ce ratio monétaire inclut les scopes 1, 2 et 3. Les codes APE ou NAF français sont équivalents à un niveau 5 dans la nomenclature NACE Rév. 2. Pour obtenir le ratio monétaire d’un code APE ou NAF français, il suffit donc de prendre le ratio monétaire associé aux quatre premiers caractères du code. Par exemple, le code NACE Rév. 2 de niveau 4 associé au code APE ou NAF 6419Z est 6419.
 
 ## Methodology
 
@@ -58,7 +58,7 @@ This list of NACE Rev. 2 codes is provided by [Eurostat](https://ec.europa.eu/eu
 
 ### EXIOBASE Monetary Factors
 
-Monetary factors are extracted from [EXIOBASE3 monetary database](https://www.exiobase.eu/index.php/data-download/exiobase3hyb). This database is licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). Any usage of EXIOBASE3 data should mention its licence. EXIOBASE3 includes monetary factors for 185 industries, across 49 geographical areas (44 countries and 5 rest of world areas). EXIOBASE3 source data range from 2011 to 2019.
+Monetary factors are extracted from [EXIOBASE3 monetary database](https://www.exiobase.eu/index.php/data-download/exiobase3hyb). This database is licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). Any usage of EXIOBASE3 data should mention its licence. EXIOBASE3 includes monetary factors for 185 industries, across 49 geographical areas (44 countries and 5 rest of world areas), for all scopes (1, 2, 3). EXIOBASE3 source data range from 2011 to 2019.
 
 ### Countries
 
